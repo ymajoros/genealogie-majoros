@@ -70,7 +70,7 @@ Kramer Mária   László Kramer       Montag Ödön → Majoros Ödön          
 
 ### 3.1 Jozsef Montag & Heiduska Zsófia
 
-**Jozsef Montag** (Zenta, † avant 1918) et son épouse **Heiduska Zsófia** forment la dernière génération connue du côté Bácska. Jozsef est mort trop tôt pour avoir porté la forme magyarisée « Majoros » — mention importante car l'acte de décès de son fils Ödön (rédigé en 1966) y fait cependant référence sous le nom « Majoros József », selon la convention hongroise qui inscrit rétrospectivement le nom actuel du fils.
+**Jozsef Montag** (Zenta, † avant 1918) et son épouse **Heiduska Zsófia** forment la dernière génération connue du côté Bácska. Jozsef est mort trop tôt pour avoir porté la forme magyarisée « Majoros » : **l'acte de décès d'Ödön (1966), lu directement sur l'image, mentionne bien « Montag József »** comme nom du père. L'**indexation en ligne FamilySearch** affiche en revanche « Majoros József » — donnée secondaire, postérieure (indexation automatique ou contribution utilisateur en ligne), à ne pas considérer comme source primaire.
 
 ![Portrait studio de Jozsef Montag (Rosner József, Zenta, fin XIXᵉ)](docs/Jozsef%20Montag%20de%20Zenta,%20arrière%20grand%20père%20déjà%20décédé%20en%201918.JPG)
 
@@ -345,7 +345,7 @@ Fiche FamilySearch (personne vivante, données restreintes) : [`PZRV-HH5`](https
 |---------|-----|
 | Majoros Ödön — acte de décès | [`1:1:6V1G-YBG3`](https://www.familysearch.org/ark:/61903/1:1:6V1G-YBG3) |
 | Kramer (Majoros) Mária — mention épouse | [`1:1:6V1G-YBGH`](https://www.familysearch.org/ark:/61903/1:1:6V1G-YBGH) |
-| Montag (Majoros) József — mention père | [`1:1:6V1G-YBG7`](https://www.familysearch.org/ark:/61903/1:1:6V1G-YBG7) |
+| Père d'Ödön — image de l'acte : « Montag József » ; indexé en ligne comme « Majoros József » (indexation secondaire) | [`1:1:6V1G-YBG7`](https://www.familysearch.org/ark:/61903/1:1:6V1G-YBG7) |
 | Heiduska Zsófia — mention mère | [`1:1:6V1G-YBGW`](https://www.familysearch.org/ark:/61903/1:1:6V1G-YBGW) |
 | Registre complet Budapest XIV Halottak 1966, image 200 | [`3:1:33SQ-GPB8-9F2P?i=199`](https://www.familysearch.org/ark:/61903/3:1:33SQ-GPB8-9F2P?i=199&cc=1452460) |
 | Ferenc Imre Majoros (Family Tree) | [`PZRK-7WN`](https://www.familysearch.org/tree/person/PZRK-7WN) |
