@@ -329,12 +329,18 @@ Ce László est **le même** que le « *frère de grand-mère Maria, arrivé au 
 
 ### 3.5. Autres Kramer partageant l'adresse Bajza u. 2 — piste familiale
 
-Plusieurs annuaires 1920 et 1925 listent à la même adresse (VI. Bajza u. 2) d'autres Kramer industriels :
+Plusieurs annuaires 1920 et 1925 listent à la même adresse (VI. Bajza u. 2) d'autres Kramer :
 
-- **Krámer Leó szinóbányai gyáros** — industriel de Szinóbánya (aujourd'hui Cinobaňa, Slovaquie, district de Poltár) ;
-- **Dr. Krámer Tivadar szinóbányai gyáros** — docteur et industriel de Szinóbánya.
+- **Krámer Leó** — associé de la firme *Kramer J.* ;
+- **Dr. Krámer Tivadar (Dávid Tivadar)** — associé de la firme *Kramer J.*.
 
-**[? *à vérifier*]** Ces « gyáros » (industriels / manufacturiers) de Szinóbánya (ville verrière, verreries de la région Nógrád) étaient vraisemblablement des frères ou cousins de Zsigmond Kramer — l'adresse partagée l'évoque. Piste à explorer : **usine de verrerie Kramer à Cinobaňa** (SK) et les archives d'entreprise de Nógrád megye (MNL Nógrád megyei Levéltár, Salgótarján).
+**[✓]** L'annuaire commercial *Magyarország kereskedelmi címtára 1924* (p. 1388) éclaire la nature de leur activité : la firme **« Kramer J. »** (associés **K. József, dr. K. Dávid Tivadar, K. Lipót Leó, K. Félix, K. Jenő**) exerce comme **bankűzlet valamint gipszelárusitás — Bankgeschäft u. Gipsverschleiss** (maison de banque et négoce de gypse), siège **IV., Váci u. 36**, succursale **Szinóbánya** (Cinobaňa, SK) :
+
+![Kramer J., bankház et négoce de gypse — *Magyarország kereskedelmi címtára 1924*, p. 1388](actes/extraits/Kramer-J-bankhaz-1924-Magyarorszag-cimtara-p1388.jpg)
+
+Source : [Hungaricana — *Magyarország kereskedelmi címtára 1924*, p. 1388](https://library.hungaricana.hu/en/view/FszekCimNevTarak_27_024/?pg=1380).
+
+**[? *à vérifier*]** Il est donc probable que Leó et Tivadar, domiciliés VI. Bajza u. 2 (cohabitation avec Zsigmond), soient des frères ou cousins de Zsigmond Kramer. La succursale de Szinóbánya (district de Poltár, Nógrád) explique la qualification de « szinóbányai » dans les annuaires 1920-1925, sans pour autant désigner une verrerie. Pistes à explorer : **cégjegyzék** hongrois (registre des sociétés) pour la firme Kramer J. ; archives commerciales de Budapest (BFL) ; éventuels liens de parenté entre les cinq associés et Zsigmond.
 
 ### 3.6. Kramer Mária
 
@@ -602,7 +608,7 @@ Chaque source en ligne ci-dessous est doublée d'une **archive locale** dans `ac
 
 1. **Dr. Kramer László** — titre doctoral attesté en 1937 (juriste ou médecin ?) ; départ pour le Brésil en 1946, prise du nom *Cantor* à São Paulo. Recherche : archives Budapesti Ügyvédi Kamara (Ordre des avocats) pour *Kramer László ügyvéd* ; annuaires médicaux hongrois 1930-1945 ; listes de passagers 1946 (Arquivo Nacional, Rio).
 2. **Épouse de Kramer László** — mentionnée comme *dr. Kramer Lászlóné* en 1937 ; nom de jeune fille à identifier.
-3. **Krámer Leó et Dr. Krámer Tivadar, « szinóbányai gyáros »** (VI. Bajza u. 2, annuaires 1920-1925) — possibles frères/cousins de Zsigmond, industriels de verrerie à Szinóbánya (Cinobaňa, SK). Archives : MNL Nógrád megyei Levéltár, Salgótarján ; cégjegyzék industriel.
+3. **Krámer Leó et Dr. Krámer Dávid Tivadar**, associés de la firme **Kramer J.** (bankház et négoce de gypse, IV. Váci u. 36, succursale Szinóbánya — *Magyarország kereskedelmi címtára 1924*, p. 1388), domiciliés VI. Bajza u. 2 (annuaires 1920-1925). Possibles frères/cousins de Zsigmond. Archives : **cégjegyzék** hongrois et archives commerciales BFL (Budapest) ; éventuellement MNL Nógrád (succursale Szinóbánya).
 4. **Descendance László Kramer / Cantor à São Paulo** — Arquivo Nacional (Rio), Memorial do Imigrante (SP), Museu Judaico de São Paulo.
 5. **Branche Geelens de Verviers** — contacts perdus depuis Jurgita.
 
