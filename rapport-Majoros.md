@@ -181,6 +181,8 @@ Montag        Henrik                            1882               Zenta (J)    
 
 **[✓]** Source : `actes/Annuaire-telephonique-Budapest-1920-p301-Majoros-Odon.pdf` (Hungaricana [FszekCimNevTarak_20_00_1920, page 301](https://library.hungaricana.hu/en/view/FszekCimNevTarak_20_00_1920/?pg=301&layout=s)).
 
+![Annuaire téléphonique Budapest, mai 1920, p. 301 — inscription de dr. Majoros Ödön, VI. Bajza utca 2](actes/extraits/Annuaire-telephonique-Budapest-1920-p301-Majoros-Odon-1.jpg)
+
 ##### 3 août 1945 : nomination *tanácselnök*
 
 **[✓]** Communiqué officiel repris par la MTI (Magyar Távirati Iroda), dans le bulletin **Külföldi-Belföldi Hírek, 3 août 1945, p. 14** — fichier annexé `actes/Presse-1945-08-03-KulfBelfHirek-Majoros-Odon-tanacselnok.pdf` :
@@ -192,6 +194,8 @@ Transcription : *« Nominations et mutations judiciaires. L'Agence Télégraphiq
 
 Hungaricana : [KulfBelfHirek_1945_08_1__001-123, page 124](https://library.hungaricana.hu/en/view/KulfBelfHirek_1945_08_1__001-123/?pg=124&layout=s)
 
+![Külföldi-Belföldi Hírek, 3 août 1945, p. 14 — nomination de dr. Majoros Ödön comme tanácselnök](actes/extraits/Presse-1945-08-03-KulfBelfHirek-Majoros-Odon-tanacselnok-1.jpg)
+
 ##### Mars 1948 : confirmé en fonction, V. Pozsonyi út 3
 
 **[✓]** **Annuaire téléphonique Budapest, mars 1948, p. 197** — fichier annexé `actes/Annuaire-telephonique-Budapest-1948-03-p197-Majoros-Odon-tanacselnok.pdf`. Extrait texte reproduit :
@@ -201,6 +205,8 @@ Majoros Ödön dr. törvényszéki tanácselnök. V Pozsonyi-út 3          0120
 ```
 
 Hungaricana : [FszekCimNevTarak_20_019_12, page 197](https://library.hungaricana.hu/en/view/FszekCimNevTarak_20_019_12/?pg=197&layout=s)
+
+![Annuaire téléphonique Budapest, mars 1948, p. 197 — Majoros Ödön dr. törvényszéki tanácselnök, V. Pozsonyi út 3](actes/extraits/Annuaire-telephonique-Budapest-1948-03-p197-Majoros-Odon-tanacselnok-1.jpg)
 
 ## 3. Kramer / Beck (Nyitra, Komárom → Budapest)
 
@@ -224,12 +230,16 @@ Hungaricana : [FszekCimNevTarak_20_019_12, page 197](https://library.hungaricana
 
 **Adresse commerciale : VII. kerület, Százház utca 23** (quartier Erzsébetváros, Budapest).
 
+![Tolnay 1898, II. szakasz, p. 383 — Kramer Zsigmond VII Százház u. 23, likőr, rum, cognac és különféle](actes/extraits/Tolnay-Budapest-1898-p383-Kramer-Zsigmond-1.jpg)
+
 *Source 2 — Központi Értesítő, 1897, n° 28 (4 avril 1897), p. 339 — enregistrement de société*
 
 > …Kramer Zsig­mond, Pánisz Sándor fakereskedő Szent Endrei lakos. Főtelep Budapest. Kramer Zsigmond likőr, rum, cognac és különféle …
 > — *Központi Értesítő 1897/28 p.339*
 
 La société est déclarée avec Pánisz Sándor, négociant en bois résidant à Szentendre ; siège principal à Budapest.
+
+![Központi Értesítő, 1897 n° 28 (4 avril 1897), p. 339 — enregistrement de la société Kramer Zsigmond](actes/extraits/KozpontiErtesito-1897-szam28-p339-Kramer-Zsigmond-1.jpg)
 
 *Source 3 — Központi Értesítő, 1898, n° 105 (index annuel), p. 1788/2/7*
 
