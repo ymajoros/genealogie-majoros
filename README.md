@@ -340,7 +340,28 @@ Plusieurs annuaires 1920 et 1925 listent à la même adresse (VI. Bajza u. 2) d'
 
 Source : [Hungaricana — *Magyarország kereskedelmi címtára 1924*, p. 1388](https://library.hungaricana.hu/en/view/FszekCimNevTarak_27_024/?pg=1380).
 
-**[? *à vérifier*]** Il est donc probable que Leó et Tivadar, domiciliés VI. Bajza u. 2 (cohabitation avec Zsigmond), soient des frères ou cousins de Zsigmond Kramer. La succursale de Szinóbánya (district de Poltár, Nógrád) explique la qualification de « szinóbányai » dans les annuaires 1920-1925, sans pour autant désigner une verrerie. Pistes à explorer : **cégjegyzék** hongrois (registre des sociétés) pour la firme Kramer J. ; archives commerciales de Budapest (BFL) ; éventuels liens de parenté entre les cinq associés et Zsigmond.
+**[? *à vérifier*]** Il est donc probable que Leó et Tivadar, domiciliés VI. Bajza u. 2 (cohabitation avec Zsigmond), soient des frères ou cousins de Zsigmond Kramer. La succursale de Szinóbánya (district de Poltár, Nógrád) explique la qualification de « szinóbányai » dans les annuaires 1920-1925, sans pour autant désigner une verrerie.
+
+**Sources Hungaricana déjà identifiées** (indexation plein-texte, 2026-04-19) :
+
+| Collection | Référence | Contexte |
+|---|---|---|
+| *Budapesti Czim- és Lakásjegyzék 1922-1923* (vol. 28) | [pg. 1878](https://library.hungaricana.hu/en/view/BPLAKCIMJEGYZEK_28_1922-1923/?pg=1878&layout=s), [pg. 1879](https://library.hungaricana.hu/en/view/BPLAKCIMJEGYZEK_28_1922-1923/?pg=1879&layout=s) | Entrées Kramer Leó / Dr Kramer Tivadar à Bajza u. 2 (hit « Kramer Leó Bajza ») |
+| *Budapesti Czim- és Lakásjegyzék 1928* (vol. 29) | [pg. 139](https://library.hungaricana.hu/en/view/BPLAKCIMJEGYZEK_29_1928/?pg=139&layout=s) | Même famille à Bajza u. 2 |
+| *Magyarország kereskedelmi címtára 1924* | [pg. 1388](https://library.hungaricana.hu/en/view/FszekCimNevTarak_27_024/?pg=1380) | **Firme Kramer J.** — 5 associés, IV. Váci u. 36, succursale Szinóbánya *(archivée localement)* |
+| *Magyarország kereskedelmi címtára 1942 / 1943* | [1942 pg. 517](https://library.hungaricana.hu/en/view/FszekCimNevTarak_20_019_04_00_1942/?pg=517&layout=s), [1943 pg. 570](https://library.hungaricana.hu/en/view/FszekCimNevTarak_20_019_04_00_1943_01/?pg=570&layout=s) | Continuité de la firme Kramer J. jusqu'à la Seconde Guerre |
+| *Központi Értesítő 1892* (vol. 2) | [pg. 972](https://library.hungaricana.hu/en/view/SZTNH_KozpontiErtesito_1892_2/?pg=972&layout=s) | Annonce légale Kramer + Szinóbánya (enregistrement ou modification) |
+| *Központi Értesítő 1895* | [pg. 344](https://library.hungaricana.hu/en/view/SZTNH_KozpontiErtesito_1895/?pg=344&layout=s) | Annonce légale Kramer + Szinóbánya |
+| *Nógrád megyei múzeumi évkönyv 1979 / 1987* | [1979 pg. 86](https://library.hungaricana.hu/en/view/MEGY_NOGR_Muzevkonyv1979/?pg=86&layout=s), [1987 pg. 72](https://library.hungaricana.hu/en/view/MEGY_NOGR_Muzevkonyv1987/?pg=72&layout=s) | Histoire industrielle de Szinóbánya (études locales mentionnant la famille Kramer) |
+| *NOGM_AFT_17* (Nógrád Megyei Múzeumok) | [pg. 114](https://library.hungaricana.hu/en/view/NOGM_AFT_17/?pg=114&layout=s) | Annales, référence Kramer-Szinóbánya |
+
+**Pistes d'archives complémentaires** :
+
+1. **Cégjegyzék (registre des sociétés) — firme *Kramer J.*** : à **Budapest Főváros Levéltára (BFL)**, fonds **VII.2.e. Cégbírósági iratok** (tribunal de commerce de Budapest). Le dossier de société contient acte constitutif, état civil des associés, modifications (entrées/sorties, héritiers), bilan à la liquidation — les liens de parenté entre József, Dávid Tivadar, Lipót Leó, Félix et Jenő y sont généralement explicites.
+2. **Holokauszt Emlékközpont (Budapest) & Yad Vashem — Pages of Testimony** : si la famille Kramer est d'origine juive (patronyme, magyarisation probable, profil marchand), les associés disparus en 1944-1945 y figureraient, parfois avec filiation déclarée par les survivants.
+3. **Acte de naissance de Zsigmond (Nyitra)** — cf. §3.2, recherche ouverte : s'il est fils d'un patriarche Kramer, sa fratrie devrait inclure (ou être proche de) József, Dávid Tivadar, Lipót Leó, Félix, Jenő.
+
+> *Note technique* : les pages Hungaricana ci-dessus ont été repérées via l'index plein-texte mais n'ont pu être archivées localement lors de cette session (CloudFront renvoie 503/403 pour les images haute définition hors du viewer authentifié). À capturer manuellement depuis la session navigateur.
 
 ### 3.6. Kramer Mária
 
