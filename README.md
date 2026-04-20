@@ -56,7 +56,7 @@ Kramer Mária   László Kramer       Montag Ödön → Majoros Ödön          
                                              historienne, journaliste Drapeau Rouge,
                                              résistante PCB (« Carine »), professeure Decroly
                                                      │
-                                            │ divorce 1956 │
+                                            │ divorce 1951 │
                                                      │
                                              Michel Majoros (né en Hongrie)
                                                      │
@@ -414,6 +414,8 @@ Entre 1895 et 1924, Jakab et Rudolf sortent du registre ; Félix et Jenő y entr
 > Lazslo Kramer, frère de Grand-mère Maria, mon grand-oncle arrivé au Brésil en 1946 et y ayant fait souche à Sao Paulo sous le nom de Cantor. Grand-père Ferenc a gardé le contact jusqu'à la fin du XXème siècle mais je ne l'ai pas retrouvé.
 > — *Michel Majoros, courriel avril 2026*
 
+**[✓ source primaire, à numériser]** **Fac-similés du débarquement** détenus par Michel Majoros (avril 2026) — à intégrer au dossier pour fixer la date, le port d'arrivée et le navire.
+
 **[?]** **Recherches recommandées** :
 
 - Listes de passagers 1946, Arquivo Nacional (Rio de Janeiro) — les collections FamilySearch pour le port de Santos ne commencent qu'en 1960 ;
@@ -469,6 +471,8 @@ Entre 1895 et 1924, Jakab et Rudolf sortent du registre ; Félix et Jenő y entr
 
 (fichier annexé : `actes/CArCoB-inventaire-Smolski-Jurgita-PP23.pdf`)
 
+**[✓ témoignage direct]** **Fratrie mentionnée par Germaine à Michel** : un frère **Maurice Geelens**, décédé en **1926**, et une sœur **Alberte Geelens**. Pistes : actes d'état civil Verviers (registres de décès 1926 pour Maurice ; naissance/mariage/décès pour Alberte) ; `Arbeid-adelt.be` ou registres paroissiaux verviétois.
+
 ## 5. Ferenc Imre Majoros (Budapest 1923 – Köln 2008)
 
 ### 5.1. Source principale
@@ -499,10 +503,18 @@ Entre 1895 et 1924, Jakab et Rudolf sortent du registre ; Félix et Jenő y entr
 
 **[✓]** **Mariage 1948** avec Jurgita Smolski — CArCoB PP 23.
 
-**[✓]** **Séjour en Hongrie 1948-1956**, naissance de Michel, **divorce 1956** — CArCoB PP 23 :
+**[✓ source primaire]** **Divorce prononcé en 1951** — acte de divorce conservé par Michel Majoros (original + traduction officielle), motif : **adultère du 13 septembre 1950**. Témoignage direct Michel Majoros, avril 2026.
+
+**[◐]** **Séjour de Jurgita en Hongrie 1948-1956** — CArCoB PP 23 indique qu'elle « réside jusqu'à son divorce en 1956 ». Cette formulation contredit l'acte primaire ; il est probable que Jurgita soit restée en Hongrie après le divorce de 1951, jusqu'à son retour en Belgique en 1956 (la note CArCoB confond date de retour et date de divorce).
 
 > elle réside jusqu'à son divorce en 1956 et où elle a un fils.
-> — *CArCoB PP 23*
+> — *CArCoB PP 23 (note secondaire — date du divorce contredite par l'acte primaire)*
+
+**[✓ témoignage direct]** **Demi-frère Gabor, né vers juin 1951** — fils de Ferenc et de sa compagne d'alors (l'adultère du 13 septembre 1950 ayant précipité le divorce). Partage l'ADN de Ferenc Majoros avec Michel. A vraisemblablement hérité de l'appartement familial **V. Pozsonyi utca 3** (Budapest). Interrogé vers 2000 par Michel à ce sujet, Ferenc niait la paternité et l'attribuait au mari suivant de la mère de Gabor qui l'aurait adopté en lui léguant son nom — version qualifiée de *fake news* probable par Michel. *(voir montage photo communiqué par Michel, avril 2026.)*
+
+**[? recherche ouverte]** **Gabor Majoros — questions en suspens** : est-il encore vivant ? Que sait-il des circonstances de sa naissance et de la filiation ? A-t-il une descendance ? Recherche à mener : registre foncier BFL pour la propriété **V. Pozsonyi utca 3** (nom de l'occupant/propriétaire actuel) ; annuaires Budapest post-2000 ; archives du tribunal hongrois pour l'adoption éventuelle par le second mari.
+
+**[◐ contexte historique, à documenter]** **Année 1951 à Budapest — *kitelepítés* du régime Rákosi** : entre le 21 mai et le 18 juillet 1951, environ 12 000 à 14 000 personnes (≈ 5 000 familles) sont déportées hors de Budapest au titre d'« ennemis de classe ». La famille Majoros-Kramer ne figure pas, à ce jour, parmi les victimes connues (aucun indice documentaire d'inquiétude personnelle) ; le contexte général est noté sans présomption. **Piste à vérifier uniquement en tant que négation/confirmation :** base *Osztályellenségek* (G. Dombi) et fonds **Kitelepítési Osztály** au MNL OL.
 
 ### 5.5. Carrière universitaire en RFA (post-1962)
 
@@ -557,7 +569,7 @@ Entre 1895 et 1924, Jakab et Rudolf sortent du registre ; Félix et Jenő y entr
 
 ### 6.6. Séjour hongrois (1948-1956)
 
-**[✓]** **Mariage avec Ferenc Majoros, départ en Hongrie 1948, adhésion au PCH en juillet 1948, correspondance pour le *Drapeau Rouge* et Radio Budapest, divorce 1956** (CArCoB PP 23) — citation reproduite ci-dessus (§ Ferenc).
+**[✓]** **Mariage avec Ferenc Majoros, départ en Hongrie 1948, adhésion au PCH en juillet 1948, correspondance pour le *Drapeau Rouge* et Radio Budapest** (CArCoB PP 23). **Divorce en 1951** (acte primaire conservé par Michel, cf. §5.4), retour en Belgique **1956**.
 
 ### 6.7. Après 1956
 
@@ -588,7 +600,9 @@ Entre 1895 et 1924, Jakab et Rudolf sortent du registre ; Félix et Jenő y entr
 
 ## 7. Michel Majoros
 
-**[✓]** **Fils de Ferenc et Jurgita, né en Hongrie entre 1949 et 1955** (déduction par encadrement mariage 1948 / divorce 1956, CArCoB PP 23).
+**[✓]** **Fils de Ferenc et Jurgita, né en Hongrie entre 1949 et 1950** (encadrement : mariage 1948 et adultère du 13 septembre 1950 ayant précipité le divorce de 1951 — cf. §5.4).
+
+**[✓ témoignage direct]** **Demi-frère Gabor** (né vers juin 1951, fils de Ferenc et d'une autre femme) — cf. §5.4 pour le détail et les questions ouvertes.
 
 **[✓]** **Dépositaire du fonds Jurgita Smolski au CArCoB** (2012, 2013) — inventaire PP 23 :
 
@@ -662,7 +676,32 @@ Chaque source en ligne ci-dessous est doublée d'une **archive locale** dans `ac
 2. **Épouse de Kramer László** — mentionnée comme *dr. Kramer Lászlóné* en 1937 ; nom de jeune fille à identifier.
 3. **Krámer Leó et Dr. Krámer Dávid Tivadar**, associés puis copropriétaires du bâtiment de Bajza u. 2. Firme **Kramer J.** enregistrée 1887 à Budapest (kir. kereskedelmi és váltótörvényszék, I.14), succursale Szinóbánya enregistrée 1892 à Balassa-Gyarmat. Activité : **bankház à Budapest + vasöntöde/gépgyár à Szinóbánya** (1892-1893), puis **bankház + gipszelárusítás** (1924). Associés : Jakab, Rudolf, József, Dávid Tivadar (1892) ; Lipót Leó entré 1895 ; en 1924 = József, Tivadar, Lipót Leó, Félix, Jenő. Possibles frères/cousins de Zsigmond. Archives prioritaires : **BFL VII.2.e. Cégbírósági iratok** (dossier de société avec état civil des associés) et **Nógrád Megyei Levéltár IV. 489. vol. 10 p. 685** (caisse de secours 1893).
 4. **Descendance László Kramer / Cantor à São Paulo** — Arquivo Nacional (Rio), Memorial do Imigrante (SP), Museu Judaico de São Paulo.
-5. **Branche Geelens de Verviers** — contacts perdus depuis Jurgita.
+5. **Branche Geelens de Verviers** — contacts perdus depuis Jurgita. Fratrie de Germaine mentionnée par témoignage : frère **Maurice Geelens** († 1926) et sœur **Alberte Geelens** — à documenter dans les registres d'état civil verviétois.
+6. **Demi-frère Gabor Majoros** (né ~juin 1951, fils de Ferenc) — existence, descendance, possible propriété de V. Pozsonyi utca 3 à Budapest (cf. §5.4).
+   - *Recherches en ligne effectuées (avril 2026, négatives pour notre Gabor) :* Arcanum ADT (823 occurrences « Majoros Gábor » — homonymes identifiés : Dr Majoros Gábor parasitologue vétérinaire SZIE publiant depuis 1979 ; Majoros Gábor architecte Ybl-díj 1984 Győr ; Majoros Gábor plébános Slovaquie) ; Hungaricana library (9 co-occurrences avec « Pozsonyi » — aucune liée à Pozsonyi u. 3 Budapest) ; FamilySearch Hungary Civil Registration 1895-1980 (0 résultat pour Gabor Majoros né Budapest 1950-1952). **Cause principale :** actes de naissance hongrois protégés 90 ans (accessibles en 2041). **Pistes restant à exploiter hors-ligne :** demande BFL sur présentation de preuve de parenté ; registre foncier (földhivatal) Pozsonyi u. 3 via tulajdoni lap ; base Chevra Kadisha Budapest (Síp u. 12) si Gabor décédé ; nécrologues *gyászjelentés* BFL XV.20.3 (fiches de décès Budapest).
+7. **Fac-similés brésiliens** — documents de débarquement de László Kramer détenus par Michel Majoros, à numériser et intégrer.
+
+### 9.3. Portails et adresses archivistiques (recherches en ligne, avril 2026)
+
+**Hongrie**
+- **[eleveltar.hu](https://www.eleveltar.hu/)** — portail commun MNL (Magyar Nemzeti Levéltár) + BFL (Budapest Főváros Levéltára) ; moteur unifié sur les fonds numérisés. Requête à tenter : *Kramer J.* en **VII.2.e. Cégbírósági iratok**.
+- **BFL** (Teve u. 3-5, Budapest XIII) — *Cégbírósági iratok* non-numérisées : demande à distance payante via formulaire en ligne.
+- **Nógrád Megyei Levéltár** (Salgótarján) — **IV. 489. vol. 10 p. 685** (caisse de secours ouvrière *Kramer I. Czég betegsegélyző egylet* 1893) + registres fonciers Szinóbánya / Kalonda.
+- **MNL OL** (Bécsi kapu tér, Budapest I) — Külügyminisztérium (dossier personnel Ferenc Majoros, Varsovie 1948) ; **Kitelepítési Osztály** pour la déportation 1951 ; *Belügyi Közlöny* (décret magyarisation Montag → Majoros).
+- **Budapesti Ügyvédi Kamara** (archives de l'Ordre des avocats) — dossiers professionnels Ödön Majoros et Kramer László.
+- **Budapest100 / hely.hu** — histoire sociale des immeubles ; aucune fiche à ce jour pour Pozsonyi út 3 (lacune à combler par un dossier monographique).
+
+**Brésil**
+- **[Arquivo Nacional – SIAN](https://sian.an.gov.br/)** (Rio de Janeiro) — *Entrada de Estrangeiros* : listes de débarquement **Rio 1875-1964** et **Santos jusqu'en 1934** numérisées ; **après 1934**, demande physique à Rio. Pour 1946 (arrivée de László Kramer), la liste n'est **pas** directement consultable en ligne.
+- **APESP** (Arquivo Público do Estado de São Paulo) — *Hospedaria dos Imigrantes* + listes Santos 1888-1978 ; fiches *Delegación de Extranjeros de São Paulo* 1945-1984 (couvrant donc 1946).
+- **Museu da Imigração (SP)** — acervo complémentaire (photos, entretiens).
+- **Museu Judaico de São Paulo** — pour le changement de nom *Kramer → Cantor* et la communauté hungaro-juive paulista.
+- **[Geni – Hungarian Immigrants to Brazil](https://www.geni.com/projects/Hungarian-Immigrants-to-Brazil/38996)** — projet collaboratif ; ajouter le profil László Kramer / Cantor si absent.
+
+**Belgique (branche Geelens)**
+- **[arch.be](https://www.arch.be/)** — portail Archives de l'État ; registres d'état civil Verviers. **Décès 1926 publics** (délai 50 ans écoulé). Recherche directe en ligne : tables alphabétiques Verviers 1920-1930 pour *Geelens Maurice* ; ensuite acte.
+- **[Société Royale des Archives Verviétoises](https://archivesvervietoises.be/)** — fonds Fisher et monographies locales ; pas de BDD nominative en ligne, contact par mail pour piste Geelens.
+- **Service État Civil Verviers** — requêtes payantes (42,50 €/h) pour actes postérieurs à 1926 (Alberte Geelens, descendance).
 
 ## 10. Arborescence des fichiers
 
