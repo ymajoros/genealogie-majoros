@@ -356,9 +356,9 @@ Plusieurs annuaires 1920 et 1925 listent à la même adresse (VI. Bajza u. 2) d'
 
 Entre 1895 et 1924, Jakab et Rudolf sortent du registre ; Félix et Jenő y entrent — vraisemblablement succession générationnelle (enfants ou neveux). L'activité de Szinóbánya a également évolué de la fonderie (1892-1893) au négoce de gypse (1924).
 
-**[✓ confirmé]** Une étude d'histoire industrielle régionale (*Nógrád Megyei Múzeumi Évkönyv* 1979, p. 85) confirme : sur la ligne du *Losoncvidéki HÉV* (chemin de fer secondaire de la région de Losonc), **« Szinóbánya: Krámer-féle vasgyár és Kossuch János-féle üveggyár »** — la **fonderie Krámer** et la **verrerie Kossuth János** étaient deux établissements industriels distincts, voisins à Szinóbánya. La confusion familiale avec une « verrerie Kramer » vient probablement de cette proximité :
+**[✓ confirmé]** Une étude d'histoire industrielle régionale (*Nógrád Megyei Múzeumi Évkönyv* 1979, p. 85) mentionne explicitement la **Krámer-féle vasgyár** (fonderie Krámer) parmi les établissements industriels desservis par la ligne du *Losoncvidéki HÉV* :
 
-![Fonderie Krámer et verrerie Kossuth à Szinóbánya — *Nógrád Megyei Múzeumi Évkönyv* 1979, p. 85](actes/extraits/Kramer-vasgyar-Szinobanya-Muzevkonyv1979-p85.jpg)
+![Fonderie Krámer à Szinóbánya — *Nógrád Megyei Múzeumi Évkönyv* 1979, p. 85](actes/extraits/Kramer-vasgyar-Szinobanya-Muzevkonyv1979-p85.jpg)
 
 #### Kramer à Bajza u. 2 (1920-1928)
 
@@ -373,7 +373,7 @@ Entre 1895 et 1924, Jakab et Rudolf sortent du registre ; Félix et Jenő y entr
 
 ![Bajza u. 2 — propriété Dr. Kramer Tivadar és Leó, registre foncier 1928 p. 140](actes/extraits/Kramer-Tivadar-Leo-Bajza-u-2-proprietaires-1928-p140.jpg)
 
-**[? *à vérifier*]** Il est donc probable que Leó et Tivadar (copropriétaires de Bajza u. 2, où réside aussi Zsigmond) soient des frères ou cousins de Zsigmond Kramer. La qualification de « szinóbányai » dans les annuaires 1920-1925 renvoie à la fonderie (puis négoce de gypse) de Szinóbánya, non à une verrerie (qui était celle, distincte, de Kossuth János).
+**[? *à vérifier*]** Il est donc probable que Leó et Tivadar (copropriétaires de Bajza u. 2, où réside aussi Zsigmond) soient des frères ou cousins de Zsigmond Kramer. La qualification de « szinóbányai » dans les annuaires 1920-1925 renvoie à la fonderie puis au négoce de gypse de Szinóbánya.
 
 **Sources Hungaricana déjà identifiées** (indexation plein-texte, 2026-04-19 ; PDFs archivés localement dans `actes/archives-web/hungaricana/`) :
 
@@ -385,7 +385,7 @@ Entre 1895 et 1924, Jakab et Rudolf sortent du registre ; Félix et Jenő y entr
 | *Magyarország kereskedelmi címtára 1942 / 1943* | [1942 pg. 517](https://library.hungaricana.hu/en/view/FszekCimNevTarak_20_019_04_00_1942/?pg=517&layout=s), [1943 pg. 570](https://library.hungaricana.hu/en/view/FszekCimNevTarak_20_019_04_00_1943_01/?pg=570&layout=s) | [1942 p. 518](actes/archives-web/hungaricana/FszekCimNevTarak_20_019_04_00_1942__pages518-518.pdf) | Continuité de la firme Kramer J. jusqu'à la Seconde Guerre |
 | *Központi Értesítő 1892* (vol. 2) | [pg. 972](https://library.hungaricana.hu/en/view/SZTNH_KozpontiErtesito_1892_2/?pg=972&layout=s) | [973](actes/archives-web/hungaricana/SZTNH_KozpontiErtesito_1892_2-1612054939__pages973-973.pdf) | **Enregistrement fondateur succursale Szinóbánya** (Jakab, Rudolf, József, Tivadar) |
 | *Központi Értesítő 1895* | [pg. 344](https://library.hungaricana.hu/en/view/SZTNH_KozpontiErtesito_1895/?pg=344&layout=s) | [345](actes/archives-web/hungaricana/SZTNH_KozpontiErtesito_1895-1612054939__pages345-345.pdf) | **Entrée de Lipót Leó** comme associé |
-| *Nógrád megyei múzeumi évkönyv 1979* | [pg. 86](https://library.hungaricana.hu/en/view/MEGY_NOGR_Muzevkonyv1979/?pg=86&layout=s) | [87](actes/archives-web/hungaricana/MEGY_NOGR_Muzevkonyv1979__pages87-87.pdf) | **Krámer-féle vasgyár** à Szinóbánya (distincte de la verrerie Kossuth) |
+| *Nógrád megyei múzeumi évkönyv 1979* | [pg. 86](https://library.hungaricana.hu/en/view/MEGY_NOGR_Muzevkonyv1979/?pg=86&layout=s) | [87](actes/archives-web/hungaricana/MEGY_NOGR_Muzevkonyv1979__pages87-87.pdf) | **Krámer-féle vasgyár** à Szinóbánya (histoire industrielle régionale) |
 | *NOGM_AFT_17* (Nógrád Megyei Múzeumok) | [pg. 114](https://library.hungaricana.hu/en/view/NOGM_AFT_17/?pg=114&layout=s) | [115](actes/archives-web/hungaricana/NOGM_AFT_17__pages115-115.pdf) | **Caisse de secours ouvrière** (1893) — cote NML IV. 489. vol. 10 p. 685 |
 
 **Pistes d'archives complémentaires** :
