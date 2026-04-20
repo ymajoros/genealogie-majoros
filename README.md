@@ -334,26 +334,59 @@ Plusieurs annuaires 1920 et 1925 listent à la même adresse (VI. Bajza u. 2) d'
 - **Krámer Leó** — associé de la firme *Kramer J.* ;
 - **Dr. Krámer Tivadar (Dávid Tivadar)** — associé de la firme *Kramer J.*.
 
-**[✓]** L'annuaire commercial *Magyarország kereskedelmi címtára 1924* (p. 1388) éclaire la nature de leur activité : la firme **« Kramer J. »** (associés **K. József, dr. K. Dávid Tivadar, K. Lipót Leó, K. Félix, K. Jenő**) exerce comme **bankűzlet valamint gipszelárusitás — Bankgeschäft u. Gipsverschleiss** (maison de banque et négoce de gypse), siège **IV., Váci u. 36**, succursale **Szinóbánya** (Cinobaňa, SK) :
+#### Chronologie de la firme *Kramer J.*
 
-![Kramer J., bankház et négoce de gypse — *Magyarország kereskedelmi címtára 1924*, p. 1388](actes/extraits/Kramer-J-bankhaz-1924-Magyarorszag-cimtara-p1388.jpg)
+**[✓ 1887]** Enregistrement initial de la firme au Tribunal de commerce et du change de Budapest (*kir. kereskedelmi és váltótörvényszék*), registre des sociétés, vol. I p. 14 (*Központi Értesítő* 1887, n° 38 — à consulter pour l'acte fondateur).
 
-Source : [Hungaricana — *Magyarország kereskedelmi címtára 1924*, p. 1388](https://library.hungaricana.hu/en/view/FszekCimNevTarak_27_024/?pg=1380).
+**[✓ 1892]** Enregistrement de la succursale **Szinóbánya** au Tribunal de Balassa-Gyarmat (*B.-gyarmati törvényszék*, 15 juin 1892, acte 4457. sz. 63/1). Société en nom collectif (*közkereseti társaság*) à quatre associés : **Kramer Jakab, Kramer Rudolf, Kramer József, dr. Kramer Dávid Tivadar** — « *kik a társaság képviseletére egyformán jogosultak, Budapesten bankűzlettel, Szinóbányán vasöntődével birnak* » (tous avec pouvoir égal de représentation ; à Budapest une **maison de banque**, à Szinóbánya une **fonderie de fer**) :
 
-**[? *à vérifier*]** Il est donc probable que Leó et Tivadar, domiciliés VI. Bajza u. 2 (cohabitation avec Zsigmond), soient des frères ou cousins de Zsigmond Kramer. La succursale de Szinóbánya (district de Poltár, Nógrád) explique la qualification de « szinóbányai » dans les annuaires 1920-1925, sans pour autant désigner une verrerie.
+![Enregistrement Kramer J. 1892 — *Központi Értesítő* 1892, vol. II, p. 1769](actes/extraits/Kramer-J-enregistrement-1892-KozpontiErtesito-p1769.jpg)
+
+**[✓ 1893, 13 août]** Constitution de la caisse de secours ouvrière : *Kramer I. Czég Szinóbányai Vasöntöde és Gépgyári Betegsegélyző Egylet* (**Société d'assurance maladie des ouvriers de la fonderie de fer et de la fabrique de machines de la firme Kramer I., Szinóbánya**). Archive : **NML IV. 489. 10. kötet, 685. old.** (Nógrád Megyei Levéltár). La structure de Szinóbánya est donc **vasöntöde + gépgyár** (fonderie + construction mécanique) :
+
+![Société d'assurance maladie de la fonderie Kramer — NOGM AFT 17, p. 113](actes/extraits/Kramer-I-Cegh-betegsegelyzo-egylet-1893-NOGM-AFT17-p113.jpg)
+
+**[✓ 1895, 27 février]** Entrée d'un cinquième associé : **Krámer Lipót Leó, kereskedő, szinóbányai lakos** (commerçant, domicilié à Szinóbánya) — enregistré à Balassa-Gyarmat (607. sz. 63/3) comme associé de plein droit de représentation :
+
+![Entrée de Lipót Leó — *Központi Értesítő* 1895, p. 325](actes/extraits/Kramer-Lipot-Leo-entree-1895-KozpontiErtesito-p325.jpg)
+
+**[✓ 1924]** L'annuaire commercial *Magyarország kereskedelmi címtára* (p. 1388) liste la firme avec cinq associés — **K. József, dr. K. Dávid Tivadar, K. Lipót Leó, K. Félix, K. Jenő** — exerçant désormais comme **bankűzlet valamint gipszelárusitás — Bankgeschäft u. Gipsverschleiss** (maison de banque et négoce de gypse), siège **IV. Váci u. 36**, succursale **Szinóbánya** :
+
+![Kramer J., bankház 1924 — *Magyarország kereskedelmi címtára 1924*, p. 1388](actes/extraits/Kramer-J-bankhaz-1924-Magyarorszag-cimtara-p1388.jpg)
+
+Entre 1895 et 1924, Jakab et Rudolf sortent du registre ; Félix et Jenő y entrent — vraisemblablement succession générationnelle (enfants ou neveux). L'activité de Szinóbánya a également évolué de la fonderie (1892-1893) au négoce de gypse (1924).
+
+**[✓ confirmé]** Une étude d'histoire industrielle régionale (*Nógrád Megyei Múzeumi Évkönyv* 1979, p. 85) confirme : sur la ligne du *Losoncvidéki HÉV* (chemin de fer secondaire de la région de Losonc), **« Szinóbánya: Krámer-féle vasgyár és Kossuch János-féle üveggyár »** — la **fonderie Krámer** et la **verrerie Kossuth János** étaient deux établissements industriels distincts, voisins à Szinóbánya. La confusion familiale avec une « verrerie Kramer » vient probablement de cette proximité :
+
+![Fonderie Krámer et verrerie Kossuth à Szinóbánya — *Nógrád Megyei Múzeumi Évkönyv* 1979, p. 85](actes/extraits/Kramer-vasgyar-Szinobanya-Muzevkonyv1979-p85.jpg)
+
+#### Kramer à Bajza u. 2 (1920-1928)
+
+**[✓ 1922-1923]** L'annuaire d'adresses *Budapesti Czim- és Lakásjegyzék* (vol. 28, p. 1879) liste à la lettre K :
+- **Krámer Leó, gyáros, VI. Bajza-u. 2. Tel. 46—29** (industriel)
+- **Krámer László, egyet. hallgató, V. Lipót-krt 11** (étudiant, à la deuxième adresse connue de Zsigmond — piste filiale forte)
+- Krámer Félix, bankár, V. honvéd-u. 4 (associé banquier de la firme, domicile distinct)
+
+![Extrait p. 1879 — Krámer Leó à Bajza u. 2, Krámer László étudiant à Lipót-krt 11](actes/extraits/Kramer-Leo-Laszlo-1922-1923-BPcimtar-p1879.jpg)
+
+**[✓ 1928 — propriété]** Le *Ház- és telekjegyzék* (registre foncier) du VI. arrondissement indique pour **Bajza-utcza n° 2** : propriétaires **Dr. Kramer Tivadar és Leó** (parcelle 4191/1, matricule 29610) — Tivadar et Leó **copropriétaires** de l'immeuble :
+
+![Bajza u. 2 — propriété Dr. Kramer Tivadar és Leó, registre foncier 1928 p. 140](actes/extraits/Kramer-Tivadar-Leo-Bajza-u-2-proprietaires-1928-p140.jpg)
+
+**[? *à vérifier*]** Il est donc probable que Leó et Tivadar (copropriétaires de Bajza u. 2, où réside aussi Zsigmond) soient des frères ou cousins de Zsigmond Kramer. La qualification de « szinóbányai » dans les annuaires 1920-1925 renvoie à la fonderie (puis négoce de gypse) de Szinóbánya, non à une verrerie (qui était celle, distincte, de Kossuth János).
 
 **Sources Hungaricana déjà identifiées** (indexation plein-texte, 2026-04-19 ; PDFs archivés localement dans `actes/archives-web/hungaricana/`) :
 
 | Collection | Référence | PDF local | Contexte |
 |---|---|---|---|
 | *Budapesti Czim- és Lakásjegyzék 1922-1923* (vol. 28) | [pg. 1878](https://library.hungaricana.hu/en/view/BPLAKCIMJEGYZEK_28_1922-1923/?pg=1878&layout=s), [pg. 1879](https://library.hungaricana.hu/en/view/BPLAKCIMJEGYZEK_28_1922-1923/?pg=1879&layout=s) | [1879](actes/archives-web/hungaricana/BPLAKCIMJEGYZEK_28_1922-1923__pages1879-1879.pdf) | Entrées Kramer Leó / Dr Kramer Tivadar à Bajza u. 2 (hit « Kramer Leó Bajza ») |
-| *Budapesti Czim- és Lakásjegyzék 1928* (vol. 29) | [pg. 139](https://library.hungaricana.hu/en/view/BPLAKCIMJEGYZEK_29_1928/?pg=139&layout=s) | [140](actes/archives-web/hungaricana/BPLAKCIMJEGYZEK_29_1928-1724633740__pages140-140.pdf) | Même famille à Bajza u. 2 |
-| *Magyarország kereskedelmi címtára 1924* | [pg. 1388](https://library.hungaricana.hu/en/view/FszekCimNevTarak_27_024/?pg=1380) | [1381](actes/archives-web/hungaricana/FszekCimNevTarak_27_024__pages1381-1381.pdf) + [extrait image](actes/extraits/Kramer-J-bankhaz-1924-Magyarorszag-cimtara-p1388.jpg) | **Firme Kramer J.** — 5 associés, IV. Váci u. 36, succursale Szinóbánya |
+| *Budapesti Czim- és Lakásjegyzék 1928* (vol. 29) | [pg. 139](https://library.hungaricana.hu/en/view/BPLAKCIMJEGYZEK_29_1928/?pg=139&layout=s) | [140](actes/archives-web/hungaricana/BPLAKCIMJEGYZEK_29_1928-1724633740__pages140-140.pdf) | **Tivadar + Leó copropriétaires de Bajza u. 2** |
+| *Magyarország kereskedelmi címtára 1924* | [pg. 1388](https://library.hungaricana.hu/en/view/FszekCimNevTarak_27_024/?pg=1380) | [1381](actes/archives-web/hungaricana/FszekCimNevTarak_27_024__pages1381-1381.pdf) | **Firme Kramer J. en 1924** — 5 associés, bankház + gipsz |
 | *Magyarország kereskedelmi címtára 1942 / 1943* | [1942 pg. 517](https://library.hungaricana.hu/en/view/FszekCimNevTarak_20_019_04_00_1942/?pg=517&layout=s), [1943 pg. 570](https://library.hungaricana.hu/en/view/FszekCimNevTarak_20_019_04_00_1943_01/?pg=570&layout=s) | [1942 p. 518](actes/archives-web/hungaricana/FszekCimNevTarak_20_019_04_00_1942__pages518-518.pdf) | Continuité de la firme Kramer J. jusqu'à la Seconde Guerre |
-| *Központi Értesítő 1892* (vol. 2) | [pg. 972](https://library.hungaricana.hu/en/view/SZTNH_KozpontiErtesito_1892_2/?pg=972&layout=s) | [973](actes/archives-web/hungaricana/SZTNH_KozpontiErtesito_1892_2-1612054939__pages973-973.pdf) | Annonce légale Kramer + Szinóbánya (enregistrement ou modification) |
-| *Központi Értesítő 1895* | [pg. 344](https://library.hungaricana.hu/en/view/SZTNH_KozpontiErtesito_1895/?pg=344&layout=s) | [345](actes/archives-web/hungaricana/SZTNH_KozpontiErtesito_1895-1612054939__pages345-345.pdf) | Annonce légale Kramer + Szinóbánya |
-| *Nógrád megyei múzeumi évkönyv 1979* | [pg. 86](https://library.hungaricana.hu/en/view/MEGY_NOGR_Muzevkonyv1979/?pg=86&layout=s) | [87](actes/archives-web/hungaricana/MEGY_NOGR_Muzevkonyv1979__pages87-87.pdf) | Histoire industrielle de Szinóbánya (étude locale mentionnant la famille Kramer) |
-| *NOGM_AFT_17* (Nógrád Megyei Múzeumok) | [pg. 114](https://library.hungaricana.hu/en/view/NOGM_AFT_17/?pg=114&layout=s) | [115](actes/archives-web/hungaricana/NOGM_AFT_17__pages115-115.pdf) | Annales, référence Kramer-Szinóbánya |
+| *Központi Értesítő 1892* (vol. 2) | [pg. 972](https://library.hungaricana.hu/en/view/SZTNH_KozpontiErtesito_1892_2/?pg=972&layout=s) | [973](actes/archives-web/hungaricana/SZTNH_KozpontiErtesito_1892_2-1612054939__pages973-973.pdf) | **Enregistrement fondateur succursale Szinóbánya** (Jakab, Rudolf, József, Tivadar) |
+| *Központi Értesítő 1895* | [pg. 344](https://library.hungaricana.hu/en/view/SZTNH_KozpontiErtesito_1895/?pg=344&layout=s) | [345](actes/archives-web/hungaricana/SZTNH_KozpontiErtesito_1895-1612054939__pages345-345.pdf) | **Entrée de Lipót Leó** comme associé |
+| *Nógrád megyei múzeumi évkönyv 1979* | [pg. 86](https://library.hungaricana.hu/en/view/MEGY_NOGR_Muzevkonyv1979/?pg=86&layout=s) | [87](actes/archives-web/hungaricana/MEGY_NOGR_Muzevkonyv1979__pages87-87.pdf) | **Krámer-féle vasgyár** à Szinóbánya (distincte de la verrerie Kossuth) |
+| *NOGM_AFT_17* (Nógrád Megyei Múzeumok) | [pg. 114](https://library.hungaricana.hu/en/view/NOGM_AFT_17/?pg=114&layout=s) | [115](actes/archives-web/hungaricana/NOGM_AFT_17__pages115-115.pdf) | **Caisse de secours ouvrière** (1893) — cote NML IV. 489. vol. 10 p. 685 |
 
 **Pistes d'archives complémentaires** :
 
@@ -627,7 +660,7 @@ Chaque source en ligne ci-dessous est doublée d'une **archive locale** dans `ac
 
 1. **Dr. Kramer László** — titre doctoral attesté en 1937 (juriste ou médecin ?) ; départ pour le Brésil en 1946, prise du nom *Cantor* à São Paulo. Recherche : archives Budapesti Ügyvédi Kamara (Ordre des avocats) pour *Kramer László ügyvéd* ; annuaires médicaux hongrois 1930-1945 ; listes de passagers 1946 (Arquivo Nacional, Rio).
 2. **Épouse de Kramer László** — mentionnée comme *dr. Kramer Lászlóné* en 1937 ; nom de jeune fille à identifier.
-3. **Krámer Leó et Dr. Krámer Dávid Tivadar**, associés de la firme **Kramer J.** (bankház et négoce de gypse, IV. Váci u. 36, succursale Szinóbánya — *Magyarország kereskedelmi címtára 1924*, p. 1388), domiciliés VI. Bajza u. 2 (annuaires 1920-1925). Possibles frères/cousins de Zsigmond. Archives : **cégjegyzék** hongrois et archives commerciales BFL (Budapest) ; éventuellement MNL Nógrád (succursale Szinóbánya).
+3. **Krámer Leó et Dr. Krámer Dávid Tivadar**, associés puis copropriétaires du bâtiment de Bajza u. 2. Firme **Kramer J.** enregistrée 1887 à Budapest (kir. kereskedelmi és váltótörvényszék, I.14), succursale Szinóbánya enregistrée 1892 à Balassa-Gyarmat. Activité : **bankház à Budapest + vasöntöde/gépgyár à Szinóbánya** (1892-1893), puis **bankház + gipszelárusítás** (1924). Associés : Jakab, Rudolf, József, Dávid Tivadar (1892) ; Lipót Leó entré 1895 ; en 1924 = József, Tivadar, Lipót Leó, Félix, Jenő. Possibles frères/cousins de Zsigmond. Archives prioritaires : **BFL VII.2.e. Cégbírósági iratok** (dossier de société avec état civil des associés) et **Nógrád Megyei Levéltár IV. 489. vol. 10 p. 685** (caisse de secours 1893).
 4. **Descendance László Kramer / Cantor à São Paulo** — Arquivo Nacional (Rio), Memorial do Imigrante (SP), Museu Judaico de São Paulo.
 5. **Branche Geelens de Verviers** — contacts perdus depuis Jurgita.
 
