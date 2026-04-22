@@ -4,7 +4,11 @@
 **Requête** : `Kramer szinóbányai` → **84 hits** (≈583 hits avec query élargie)
 **Date de capture** : 2026-04-22
 **Outil** : Claude-in-Chrome (compte Hungaricana `yannick.majoros@gmail.com`)
-**Caveat CDN** : les fac-similés JPEG pleine résolution ne sont pas accessibles en curl direct (token/session requis). Les OCR affichés par le viewer ont été capturés en texte. Les PDF par page peuvent être exportés manuellement depuis l'interface Hungaricana.
+**Caveat CDN et downloads** :
+- Les fac-similés JPEG pleine résolution ne sont pas accessibles en curl direct (CDN exige token de session signé).
+- Les **canvas PDF.js** rendus par le viewer peuvent être capturés via `canvas.toBlob()` + anchor `download` **une fois par session Chrome** (Chrome limite à un download programmatique par « user gesture »).
+- L'export natif Hungaricana (bouton « Save pages ») requiert **reCAPTCHA** — non contournable.
+- **Fac-similé téléchargé avec succès** : Délmagyarország 1919-09-13 p. 5 (faire-part Diniké Milkó). Autres pages : OCR textuel capturé via `document.body.innerText`.
 
 ---
 

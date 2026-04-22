@@ -1,0 +1,51 @@
+Source : Magyar Királyi Tanárképző Intézet gyakorló főgimnáziuma, Budapest, 1916 (rapport annuel du lycée d'application de l'Institut royal hongrois de formation des professeurs)
+URL : https://library.hungaricana.hu/en/view/Budapest_B561_TanarkepzoGyakFogimn_B597_1916/
+Sections : « Elesett hőseink » (Nos héros tombés) pg=64+ · « Az intézet jóltevői » (Bienfaiteurs de l'institut) pg=67+
+Capture : Claude-in-Chrome, 2026-04-22 (OCR extrait depuis le viewer)
+Caveat : fac-similé non téléchargé (Chrome bloque les downloads programmatiques après le premier par session ; les pages peuvent être exportées manuellement via le bouton « Save pages » + reCAPTCHA de Hungaricana).
+
+---
+
+## Section « Elesett hőseink » (pg=66, page imprimée 63)
+
+Extrait OCR autour de la mention Kramer Miklós :
+
+« …igen komoly és derék növendékünk szintén el­esett.
+
+Egy év óta tudjuk, de a múlt évben még alig mertük megírni, hogy **Hegyessy Andor**, mint súlyosan sebesült nyom nélkül eltűnt és másfél év óta is semmi hír nem érkezett felőle. Szorgalmas, buzgó és jellemes tagja volt annak az osztálynak, melyben **Kálmán Pál és Kramer Miklós** 1912-ben tanulmányaikat végezték. »
+
+Traduction : « …notre très sérieux et digne élève est également tombé. [Sur Hegyessy Andor] disparu gravement blessé sans trace depuis un an et demi. Il était un membre sérieux, zélé et de caractère de la promotion avec laquelle **Kálmán Pál et Kramer Miklós** ont achevé leurs études en 1912. »
+
+→ Confirme que Kramer Miklós a fait ses études secondaires au Tanárképző Gyakorló Főgimnázium de Budapest, diplômé en 1912.
+
+---
+
+## Hits d'origine (résultats de recherche Hungaricana « Kramer szinóbányai »)
+
+Extraits indexés par Hungaricana lors de la recherche (snippet complet autour des occurrences dans le rapport 1916) :
+
+« …1-én hősi halált halt Kramer Miklós nevére 1500 koronás alapítványt… »
+« …kedves feledhetetlen öcsénk **Szinóbányai Kramer Miklós** aki 1916 évi szeptember… »
+« …részesüljenek elsőségben. Az évenkint kiadandó **Szinóbányai Kramer Miklós jutalom** adományozásának joga a… »
+« …hogy a hónap első napján **Szinóbányai Kramer Miklós** az orosz harctéren a… »
+« …el a vígasz­talhatatlan édesatyja **dr Szinóbányai Tivadar gyáros** és egyetlen forrón szeretett testvérét **Szinóbányai Krámer Ottilia úr hölgy**. »
+
+Traductions-clé :
+- « Tombé en héros le 1ᵉʳ [septembre 1916], Kramer Miklós — fondation de 1500 couronnes à son nom. »
+- « Notre cher et inoubliable petit frère Szinóbányai Kramer Miklós, qui en septembre 1916… »
+- « Le Prix Szinóbányai Kramer Miklós à décerner annuellement… »
+- « Le premier jour du mois, Szinóbányai Kramer Miklós, sur le front russe… »
+- « Inconsolable, son père dr Szinóbányai Tivadar industriel (*gyáros*), et son unique et très aimée sœur Szinóbányai Krámer Ottilia úr hölgy. »
+
+---
+
+## Conséquences généalogiques confirmées
+
+1. **Kramer Miklós** — fils de Dr szinóbányai Kramer Tivadar (= Dávid Tivadar, né 1861, fils aîné de Jakab), tombé au front russe **1ᵉʳ septembre 1916**. Études secondaires au gymnase du Tanárképző (Budapest), diplômé 1912.
+2. **Kramer Ottilia** — fille de Dr Tivadar, sœur unique de Miklós. Nommée avec la formule de déférence *« úr hölgy »* (« demoiselle »).
+3. **Fondation mémorielle 1500 couronnes** créée par la famille après sa mort — prix annuel au lycée.
+4. **Tivadar est qualifié « gyáros » (industriel)** — cohérent avec les annuaires téléphoniques qui le listent comme *dr szinóbányai gyáros* à Bajza u. 2 dès 1914.
+
+## Note : section « Az intézet jóltevői » (pg=67)
+
+Cette section liste les bienfaiteurs et contient vraisemblablement le texte complet de la fondation Kramer Miklós. OCR non capturé ici — à consulter directement sur Hungaricana.
