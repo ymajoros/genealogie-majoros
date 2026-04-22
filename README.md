@@ -394,6 +394,81 @@ Entre 1895 et 1924, Jakab et Rudolf sortent du registre ; Félix et Jenő y entr
 2. **Holokauszt Emlékközpont (Budapest) & Yad Vashem — Pages of Testimony** : si la famille Kramer est d'origine juive (patronyme, magyarisation probable, profil marchand), les associés disparus en 1944-1945 y figureraient, parfois avec filiation déclarée par les survivants.
 3. **Acte de naissance de Zsigmond (Nyitra)** — cf. §3.2, recherche ouverte : s'il est fils d'un patriarche Kramer, sa fratrie devrait inclure (ou être proche de) József, Dávid Tivadar, Lipót Leó, Félix, Jenő.
 
+#### 3.5.bis Les *szinóbányai Kramer* comme famille identifiée — anoblissement 1906 et mise en garde sur le lien avec Zsigmond
+
+**[✓ *documenté*]** **Anoblissement hongrois du 7 avril 1906** — l'empereur François-Joseph Iᵉʳ élève **les trois frères Kramer Jakab, József et Rezső (Rudolf)**, copropriétaires de la maison de banque J. Kramer, à la noblesse hongroise (diplômes individuels délivrés le 15 septembre 1906, prédicat **« szinóbányai »**, armoiries : deux lions d'argent sur champ d'azur tenant une roue dentée, sous un chef de gueules chargé de trois étoiles d'or). Source : Michal Fiala / Jan Županič, *Nová šlechta v českých zemích a podunajské monarchii* (Institut d'histoire, Académie des sciences de la République tchèque), fondée sur les Archives nationales de Prague et l'*Allgemeines Verwaltungsarchiv* de Vienne.
+
+| Source | URL | Archive locale |
+|---|---|---|
+| Notice Kramer de Szinóbánya (novanobilitas.eu) | [fiche Fiala/Županič](https://www.novanobilitas.eu/rod/kramer-de-szinobanya) | [actes/archives-web/novanobilitas-Kramer_de_Szinobanya.md](actes/archives-web/novanobilitas-Kramer_de_Szinobanya.md) |
+| Blason *Kramer von Szinóbánya 1906* | [image novanobilitas.eu](https://www.novanobilitas.eu/sites/default/files/kramer_von_szinobanya_1906.jpg) | [actes/archives-web/kramer_von_szinobanya_1906_blason.jpg](actes/archives-web/kramer_von_szinobanya_1906_blason.jpg) |
+| Wikipédia HU — Szinóbánya (fonderie Krámer) | [hu.wikipedia.org/wiki/Szinóbánya](https://hu.wikipedia.org/wiki/Szin%C3%B3b%C3%A1nya) | [actes/archives-web/wikipedia-hu-Szinobanya.md](actes/archives-web/wikipedia-hu-Szinobanya.md) |
+| Cinobaňa — história (site officiel slovaque) | [cinobana.sk/historia.html](https://www.cinobana.sk/historia.html) | [actes/archives-web/cinobana-historia.md](actes/archives-web/cinobana-historia.md) |
+| Geni — famille Kramer de Szinóbánya (7 profils, gestion W.-E. Eckstein) | [geni.com](https://www.geni.com/search?search_type=people&q=Kramer+Szinobanya) | [actes/archives-web/geni-Kramer_de_Szinobanya.md](actes/archives-web/geni-Kramer_de_Szinobanya.md) |
+
+![Armoiries Kramer von Szinóbánya, 1906](actes/archives-web/kramer_von_szinobanya_1906_blason.jpg)
+*Armoiries des frères Jakab, József et Rezső Kramer, anoblis par François-Joseph Iᵉʳ le 7 avril 1906 avec le prédicat « szinóbányai ».*
+
+**[✓ *preuve primaire — source OSZK*]** **Composition familiale des anoblis** — établie par deux faire-part mortuaires OSZK téléchargés et transcrits dans [actes/archives-web/oszk-gyaszjelentesek/](actes/archives-web/oszk-gyaszjelentesek/README.md). Les données Geni (archive [geni-Kramer_de_Szinobanya.md](actes/archives-web/geni-Kramer_de_Szinobanya.md)) sont désormais **confirmées** sur les points essentiels, et **corrigées** sur le prénom des parents.
+
+**Génération –1 — Ignácz Kramer** (≈1789 – **27 octobre 1881** Budapest, Nagy Korona-utca 24, inhumé au cimetière israélite). Source : [OSZK gyászjelentés 203630](https://dspace.oszk.hu/handle/20.500.12346/203630), fac-similé local `Kramer_Ignacz_1881_mormon.jpg`. Le faire-part liste **6 enfants vivants** à cette date :
+
+| Enfant | Conjoint(e) | Anobli 1906 | Postérité (unokái d'Ignácz listés) |
+|---|---|---|---|
+| Kramer **Jakab** (1835–1919) | Hirsch Janka (1838–1916) | ✓ *szinóbányai* | Tivadar, Hugó, Róza, Leo, Mór, Oszkár, Jenny (+ Singer Jenny épouse Béla Singer) |
+| Kramer **Rudolf / Rezső** | Hay Nina | ✓ *szinóbányai* | Ilona, Vilma, Margit, Jenő |
+| Kramer **Samu** (≈1836–3.10.1906) | Lőwy Szidónia | ✗ (chevalier Ordre de François-Joseph, *fabricant de meubles de la cour impériale*) | Henrik, Aranka |
+| Kramer **József** | tószegi Freund Ida | ✓ *szinóbányai* | Felix, Adél, Ernő, Emil (+ Ignácz-Pál, Paulina selon Geni, nés après 1881) |
+| Kramer férj. **Weisz Katalin** († avant 10.1906) | Weisz B. Antal | — | Weisz Malvina → Weisz Ernő, Arthur |
+| Kramer férj. **Weinberger Cecília / Cäcilie** | Weinberger Jakab († avant 10.1906) | — | Weinberger Ádám, Jenny, Klára, Károly, Miksa |
+
+> **Correction vs Geni** : Geni indiquait *Ignaz Kramer × **Nanette** Kramer*. Le faire-part 1881 ne mentionne pas d'épouse survivante (Nanette vraisemblablement décédée avant 1881), ce qui est cohérent. Le prénom *Ignácz* est établi par la source primaire.
+
+**Génération 0 — faire-part de Samu Kramer, 3 octobre 1906** ([OSZK 203680](https://dspace.oszk.hu/handle/20.500.12346/203680), fac-similé `Kramer_Samu_4311496_00192.jpg`). Cette source est **capitale** : elle cite **explicitement ses trois frères survivants avec le prédicat anobli** :
+
+> *« szinóbányai Kramer Jakab és neje szül. Hirsch Johanna, szinóbányai Kramer Rezső és neje szül. Hay Nina, szinóbányai Kramer József és neje szül. tószegi Freund Ida és özv. Weinberger Jakabné szül. Kramer Cecília mint testvérek »*
+
+→ Confirme que les anoblis de 1906 sont bien les frères de Samu et de Cecília, tous enfants d'Ignácz. Signale que Samu était lui-même personnalité considérable : **« a Ferencz-József-rend lovagja, volt cs. és kir. udvari bútorgyáros »** — chevalier de l'Ordre de François-Joseph, ancien fournisseur impérial de meubles de cour — sans être anobli.
+
+**Arbitrage sur « Krámer György és fiai » (Wikipedia HU, fonderie 1882)** : la fratrie confirmée par source primaire (Jakab, Rudolf, Samu, József, Katalin, Cecília) **ne comporte pas de György**. Les hypothèses les plus plausibles sont :
+1. **György = alias hongrois d'Ignácz lui-même** (prénom juif-germanique *Ignaz* + nom magyarisé *György* dans la sphère industrielle). La fonderie acquise « en 1882 » l'est **l'année suivant le décès d'Ignácz** (27 octobre 1881) : il pourrait s'agir d'un transfert successoral aux fils, la Wikipedia HU désignant la firme sous le nom posthume du père.
+2. **György = frère ou cousin d'Ignácz**, éponyme collatéral.
+
+**Descendance étendue (synthèse multi-sources)** :
+- **Jakab × Johanna Janka Hirsch** (Johanna fille de Leopold Hirsch × Josefine Hirsch) → 7+ enfants : Jenny Eugenie (1860–1931, ⚭ Béla Singer), **Dr. Theodor = Dávid Tivadar (né 1861)**, Rosalie (1866, ⚭ Emil Singer puis Johann Janesch), **Lipót / Leó (1869–1921, ⚭ Aranka)**, Moritz / Mór (1870, ⚭ Katalin), Hugo, Oskar.
+  - **[✓ Hungaricana 1916]** Dr Tivadar a au moins deux enfants : **Miklós** (tombé au front russe le **1ᵉʳ septembre 1916**, fondation commémorative de 1500 couronnes) et **Ottilia**.
+- **József × Ida Freund von Tószeg** → fils Felix, Ernő, Emil dr, Ignácz-Pál ; filles Adél, Paulina.
+  - **[✓ Hungaricana 1919]** Ajoute **Kramer Paula** (⚭ dr Milkó Endre, 3 enfants dont Diniké † 12.09.1919 à 12 ans, Szeged) comme fille de József. *Paulina* mentionnée par Geni pourrait être une variante de *Paula*.
+  - **[✓ Hungaricana 1919]** József **est mort avant septembre 1919** (sa veuve Ida Freund est nommée « özv. szinóbányai Kramer Józsefné » grand-mère).
+  - **[✓ Hungaricana 1940-1943]** **Emil dr** devient *m. kir. kormányfőtanácsos ügyvéd* (conseiller principal du gouvernement royal, avocat).
+  - Felix est l'associé banquier de la firme en 1924.
+- **Rezső × Nina Hay** → fils Jenő (associé 1924), filles Ilóna, Vilma, Margit.
+- **Samu × Lőwy Szidónia** (non anoblis) → Henrik, Aranka → Mártha, Marianne.
+- **Cecília × Weinberger Jakab** → Ádám, Jenny, Klára, Károly, Miksa.
+
+**Engagement civique** : fondation créée conjointement par **Jakab × Janka**, acceptée par le conseil municipal de Budapest le 23 juin 1909 avec remerciements officiels ([Hungaricana BPSZKJ_1909](https://library.hungaricana.hu/en/view/BPSZKJ_1909/)). La fonderie Szinóbánya emploie encore **300 ouvriers en 1930** (*Lapszemle* 1930-09-18). Catalogue illustré de la fonderie attesté dès **1895**.
+
+Dépouillement détaillé dans [actes/archives-web/hungaricana-szinobanyai-kramer.md](actes/archives-web/hungaricana-szinobanyai-kramer.md) (84 hits sur Hungaricana pour la requête « Kramer szinóbányai »).
+
+Les profils Geni **Jakab** et **Johanna Janka** sont gérés par **Wolf-Erich Eckstein** (généalogiste juif autrichien reconnu, Institut für Jüdische Geschichte Österreichs). Les thumbnails Geni (48×48 px, illisibles) n'ont pas été conservés ; les images pleine résolution ne sont accessibles qu'avec un compte Geni Pro.
+
+**[⚠ *mise en garde renforcée par preuve primaire*]** Les documents ci-dessus **n'établissent pas** que notre aïeul **Zsigmond Kramer (Nyitra → Budapest, † 16 mai 1928, grossiste en alcools)** soit un fils d'Ignácz ou un frère des anoblis. L'acquisition des deux faire-part OSZK **renforce** cette prudence :
+
+1. **Absence de Zsigmond dans le faire-part d'Ignácz (1881)**. Cette source liste **tous** les enfants vivants (Jakab, Rudolf, Samu, József, Katalin, Cecília) et **tous** les petits-enfants vivants d'Ignácz à la date du décès. Zsigmond n'y figure **ni comme fils, ni comme petit-fils**.
+2. **Absence de Zsigmond dans le faire-part de Samu (1906)**. Cette source liste **les frères et sœurs survivants** de Samu. Zsigmond n'y figure pas.
+3. **Profil professionnel divergent** : les szinóbányai sont banquiers-industriels (fonderie, gypse) ; Samu lui-même était chevalier impérial et fabricant de meubles de cour ; Zsigmond est grossiste en liqueurs, rhum et cognac (VII. Százház u. 23 → VIII. Tisza Kálmán tér 28).
+4. **Origine géographique divergente** : Nyitra / Komárom (nord-ouest, actuelle Slovaquie) vs Szinóbánya (Nógrád, nord-centre).
+5. Le lien documenté à ce stade est **purement résidentiel** : Zsigmond vit à VI. Bajza u. 2 (propriété de Tivadar + Leó szinóbányai) entre 1918 et 1928. Cohabitation longue, mais qui peut relever de la location ou d'un lien de cousinage plus lointain que supposé.
+
+**Conclusion primaire** : à ce stade, Zsigmond n'est **pas** un descendant direct d'Ignácz Kramer. Un lien éventuel doit remonter à **la génération d'Ignácz ou au-delà** (cousinage via un frère d'Ignácz, par hypothèse installé à Nyitra), ou relever d'une simple homonymie.
+
+**Hypothèses à tester par pièces d'archives** :
+- **Cousinage** : Ignaz Kramer (père des anoblis) a-t-il un frère installé à Nyitra dont Zsigmond serait issu ? À rechercher dans les *Matrikel* de Nyitra (Slovensky Národný Archív, Bratislava — fonds communauté israélite).
+- **Neveu** : Zsigmond est-il fils d'un des frères non anoblis (Samuel, ou un fils de Cäcilie Weinberger) ? À croiser avec les naissances Nyitra 1850-1870.
+- **Contacter les gestionnaires Geni** : Wolf-Erich Eckstein (Jakab, Janka), Itai Hermelin (Theodor, Leó, Moritz), Sándor Feldmájer (Jenny, Rosalie). Ils détiennent probablement des actes civils déjà numérisés.
+
+**Pistes en ligne inventoriées** — l'ensemble des bases utiles (OSZK Gyászjelentések, Hungaricana, Arcanum, JewishGen, FamilySearch, MACSE, Kempelen *Magyar nemes családok*, archives slovaques) est consigné dans [actes/archives-web/sources-a-exploiter.md](actes/archives-web/sources-a-exploiter.md), avec les requêtes prioritaires à lancer sur chacune. Le dépouillement OSZK effectué via Claude-in-Chrome est détaillé dans [actes/archives-web/oszk-gyaszjelentesek/](actes/archives-web/oszk-gyaszjelentesek/README.md) (WebFetch ayant produit des hallucinations sur cette base, l'inspection directe a été nécessaire).
+
 ### 3.6. Kramer Mária
 
 **[✓ *témoignage direct*]** **Petite-fille personnellement connue par Yannick à Budapest** — témoignage direct du petit-fils. Décès estimé vers 1983.
