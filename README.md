@@ -252,15 +252,16 @@ Il apparaît également dans l'index annuel du Közlöny 1898, confirmant l'exis
 
 #### Résidence et lien avec la famille Majoros — CONFIRMÉ
 
-**[✓ *documenté*]** **Adresse de domicile : Bajza utca 2, Budapest** (quartier Terézváros / VI. kerület, près de l'avenue Andrássy). Kramer Zsigmond partage son domicile et son abonnement téléphonique avec son gendre Dr. Majoros Ödön, attesté dans **deux annuaires téléphoniques successifs** :
+**[✓ *documenté, annuaires téléphoniques*]** Kramer Zsigmond partage son abonnement téléphonique avec son gendre Dr. Majoros Ödön sur **deux annuaires successifs** au moins, attestant une cohabitation continue :
 
-> …Bajza utcza 2 — 178-64 — Kramer Zsigmond lakása és Majoros Ödön dr. …
-> — *Annuaire téléphonique de Budapest, mai 1920, p. 302*
+> …178-64 — Kramer Zsigmond lakása és Majoros Ödön dr. (1) **V., Lipót-körút 11.**
+> — *Annuaire téléphonique de Budapest, mai 1920, p. 302 (viewer [pg=323](https://library.hungaricana.hu/en/view/FszekCimNevTarak_20_00_1920/?pg=323&layout=s))*
 
-> …AL 982-26 — Kramer Zsigmond lakása, Majoros Ö. dr. I. …
-> — *Annuaire téléphonique de Budapest, mai 1929, p. 224*
+> L'annuaire 1929 (mai 1929) ne contient **plus** d'entrée « Kramer Zsigmond » — il est décédé le 16 mai 1928, sa ligne a été fermée. L'OCR Hungaricana qui laissait penser à « AL 982-26 Kramer Zsigmond lakása » correspond en fait à *Krámer testvérek elektromos / Krámer Zoltán, VI. Podmaniczky-u. 13, ▲L 982-26* — ligne adjacente (lecture corrigée du fac-similé [pg=255](https://library.hungaricana.hu/en/view/FszekCimNevTarak_20_019_01/?pg=255&layout=s)).
 
-**Implications** : Kramer Zsigmond a cohabité ou partagé l'abonnement téléphonique avec son gendre Ödön Majoros et sa fille Maria au moins sur la période 1918-1928. Les annuaires signalent aussi son domicile séparé **V. Lipót körút 11** (aujourd'hui Szent István körút) en 1925.
+**Implications** : Kramer Zsigmond a cohabité avec son gendre Ödön Majoros et sa fille Mária dans le V. kerület (Lipótváros) de Budapest — **V. Lipót-körút 11** (aujourd'hui Szent István körút) en 1920, adresse à confirmer pour 1929.
+
+> **Correction par rapport à une version antérieure de ce document** : l'adresse de 1920 n'est **pas** Bajza u. 2 (propriété des *szinóbányai* Tivadar et Leó). Une première lecture OCR avait fusionné par erreur deux lignes adjacentes de l'annuaire. La lecture correcte du fac-similé donne V., Lipót-körút 11.
 
 #### Autre adresse commerciale (1918, 1928)
 
@@ -291,7 +292,9 @@ La recherche Hungaricana retourne plusieurs *Kramer Zsigmond* distincts qu'il ne
 - **Krámer Zsigmond de Nyír-Bogdány (comitat Szabolcs)** — vend des pommes de terre dans *Nyírvidék*, 1903 ; fiançailles avec Heller Róza annoncées *Nyírvidék* 1892 ; figure au registre d'élève du gymnase évangélique de Nyíregyháza en 1877. Autre individu.
 - **Kramer Zsigmond de Sopron** (registre des propriétaires de maisons du centre historique) — probable famille distincte, XVIIIᵉ-XIXᵉ.
 
-Notre Kramer Zsigmond est spécifiquement **celui de Budapest, VII. Százház u. 23 puis VIII. Tisza Kálmán tér 28 (commerce) / VI. Bajza u. 2 et V. Lipót körút 11 (domiciles)**, marié à Beck Sarolta, beau-père de Dr. Majoros Ödön, décédé 16 mai 1928.
+Notre Kramer Zsigmond est spécifiquement **celui de Budapest, VII. Százház u. 23 puis VIII. Tisza Kálmán tér 28 (commerce) / V. Lipót-körút 11 (domicile 1920, cohabitant avec Dr Majoros Ödön)**, marié à Beck Sarolta, beau-père de Dr. Majoros Ödön, décédé 16 mai 1928.
+
+Analyse systématique des points de contact avec les *szinóbányai Kramer* : voir [docs/analyse_lien_zsigmond_szinobanyai.md](docs/analyse_lien_zsigmond_szinobanyai.md). Conclusion résumée : **Zsigmond n'est pas un szinóbányai**, aucun lien de parenté directe n'est attesté en source primaire ; la cohabitation à Bajza u. 2 évoquée dans certaines lectures antérieures ne s'appuie pas sur une source confirmée pour les années antérieures à 1929.
 
 ### 3.2. Beck Sarolta — décès juillet 1937
 
@@ -327,147 +330,17 @@ Ce László est **le même** que le « *frère de grand-mère Maria, arrivé au 
 - Ödön est alors **officier de réserve (cs. és kir. tart. főhadnagy) — auditeur militaire (hadbíró)** de l'armée impériale-royale — confirmation indépendante de son parcours juridique, qu'il avait déjà été avocat civil (ügyvéd) avant la guerre ;
 - Le mariage a vraisemblablement eu lieu dans les semaines ou mois qui ont suivi (printemps-été 1918) — acte de mariage à rechercher aux **archives de Budapest (BFL)** et/ou dans la collection FamilySearch *Budapest Házasságok 1895-1980*.
 
-### 3.5. Autres Kramer partageant l'adresse Bajza u. 2 — piste familiale
+### 3.5. Homonymes *szinóbányai Kramer* — famille distincte
 
-Plusieurs annuaires 1920 et 1925 listent à la même adresse (VI. Bajza u. 2) d'autres Kramer :
+Les recherches d'avril 2026 ont longuement exploré une seconde famille Kramer de Budapest, **les *szinóbányai Kramer*** — anoblie par François-Joseph le 7 avril 1906, propriétaire de la maison de banque *J. Kramer* et de la fonderie de fer de Szinóbánya (aujourd'hui Cinobaňa en Slovaquie). Plusieurs de ses membres (Leó, Dr Tivadar) résidaient à VI. Bajza u. 2, à quelques centaines de mètres de Zsigmond Kramer et de son gendre Dr Majoros Ödön au V. arrondissement.
 
-- **Krámer Leó** — associé de la firme *Kramer J.* ;
-- **Dr. Krámer Tivadar (Dávid Tivadar)** — associé de la firme *Kramer J.*.
+**Cette famille n'est pas la nôtre.** Les deux faire-part primaires d'Ignácz Kramer (1881) et de Samu Kramer (1906) listent exhaustivement la descendance anoblie et **n'incluent pas Zsigmond**. Il n'est qualifié de *szinóbányai* dans aucune source, son métier (grossiste en spiritueux), son origine (Nyitra/Komárom) et son domicile (V. Lipót-körút 11 en 1920) divergent. La cohabitation à Bajza u. 2 initialement supposée résulte d'une erreur OCR corrigée depuis.
 
-#### Chronologie de la firme *Kramer J.*
+Le dossier de recherche constitué sur cette famille voisine — dont l'étendue (matériel primaire, faire-part, fondations caritatives, annuaires, presse, registre du commerce) témoigne de l'effort consacré à l'hypothèse avant qu'elle ne soit écartée — est archivé séparément :
 
-**[✓ 1887]** Enregistrement initial de la firme au Tribunal de commerce et du change de Budapest (*kir. kereskedelmi és váltótörvényszék*), registre des sociétés, vol. I p. 14 (*Központi Értesítő* 1887, n° 38 — à consulter pour l'acte fondateur).
-
-**[✓ 1892]** Enregistrement de la succursale **Szinóbánya** au Tribunal de Balassa-Gyarmat (*B.-gyarmati törvényszék*, 15 juin 1892, acte 4457. sz. 63/1). Société en nom collectif (*közkereseti társaság*) à quatre associés : **Kramer Jakab, Kramer Rudolf, Kramer József, dr. Kramer Dávid Tivadar** — « *kik a társaság képviseletére egyformán jogosultak, Budapesten bankűzlettel, Szinóbányán vasöntődével birnak* » (tous avec pouvoir égal de représentation ; à Budapest une **maison de banque**, à Szinóbánya une **fonderie de fer**) :
-
-![Enregistrement Kramer J. 1892 — *Központi Értesítő* 1892, vol. II, p. 1769](actes/extraits/Kramer-J-enregistrement-1892-KozpontiErtesito-p1769.jpg)
-
-**[✓ 1893, 13 août]** Constitution de la caisse de secours ouvrière : *Kramer I. Czég Szinóbányai Vasöntöde és Gépgyári Betegsegélyző Egylet* (**Société d'assurance maladie des ouvriers de la fonderie de fer et de la fabrique de machines de la firme Kramer I., Szinóbánya**). Archive : **NML IV. 489. 10. kötet, 685. old.** (Nógrád Megyei Levéltár). La structure de Szinóbánya est donc **vasöntöde + gépgyár** (fonderie + construction mécanique) :
-
-![Société d'assurance maladie de la fonderie Kramer — NOGM AFT 17, p. 113](actes/extraits/Kramer-I-Cegh-betegsegelyzo-egylet-1893-NOGM-AFT17-p113.jpg)
-
-**[✓ 1895, 27 février]** Entrée d'un cinquième associé : **Krámer Lipót Leó, kereskedő, szinóbányai lakos** (commerçant, domicilié à Szinóbánya) — enregistré à Balassa-Gyarmat (607. sz. 63/3) comme associé de plein droit de représentation :
-
-![Entrée de Lipót Leó — *Központi Értesítő* 1895, p. 325](actes/extraits/Kramer-Lipot-Leo-entree-1895-KozpontiErtesito-p325.jpg)
-
-**[✓ 1924]** L'annuaire commercial *Magyarország kereskedelmi címtára* (p. 1388) liste la firme avec cinq associés — **K. József, dr. K. Dávid Tivadar, K. Lipót Leó, K. Félix, K. Jenő** — exerçant désormais comme **bankűzlet valamint gipszelárusitás — Bankgeschäft u. Gipsverschleiss** (maison de banque et négoce de gypse), siège **IV. Váci u. 36**, succursale **Szinóbánya** :
-
-![Kramer J., bankház 1924 — *Magyarország kereskedelmi címtára 1924*, p. 1388](actes/extraits/Kramer-J-bankhaz-1924-Magyarorszag-cimtara-p1388.jpg)
-
-Entre 1895 et 1924, Jakab et Rudolf sortent du registre ; Félix et Jenő y entrent — vraisemblablement succession générationnelle (enfants ou neveux). L'activité de Szinóbánya a également évolué de la fonderie (1892-1893) au négoce de gypse (1924).
-
-**[✓ confirmé]** Une étude d'histoire industrielle régionale (*Nógrád Megyei Múzeumi Évkönyv* 1979, p. 85) mentionne explicitement la **Krámer-féle vasgyár** (fonderie Krámer) parmi les établissements industriels desservis par la ligne du *Losoncvidéki HÉV* :
-
-![Fonderie Krámer à Szinóbánya — *Nógrád Megyei Múzeumi Évkönyv* 1979, p. 85](actes/extraits/Kramer-vasgyar-Szinobanya-Muzevkonyv1979-p85.jpg)
-
-#### Kramer à Bajza u. 2 (1920-1928)
-
-**[✓ 1922-1923]** L'annuaire d'adresses *Budapesti Czim- és Lakásjegyzék* (vol. 28, p. 1879) liste à la lettre K :
-- **Krámer Leó, gyáros, VI. Bajza-u. 2. Tel. 46—29** (industriel)
-- **Krámer László, egyet. hallgató, V. Lipót-krt 11** (étudiant, à la deuxième adresse connue de Zsigmond — piste filiale forte)
-- Krámer Félix, bankár, V. honvéd-u. 4 (associé banquier de la firme, domicile distinct)
-
-![Extrait p. 1879 — Krámer Leó à Bajza u. 2, Krámer László étudiant à Lipót-krt 11](actes/extraits/Kramer-Leo-Laszlo-1922-1923-BPcimtar-p1879.jpg)
-
-**[✓ 1928 — propriété]** Le *Ház- és telekjegyzék* (registre foncier) du VI. arrondissement indique pour **Bajza-utcza n° 2** : propriétaires **Dr. Kramer Tivadar és Leó** (parcelle 4191/1, matricule 29610) — Tivadar et Leó **copropriétaires** de l'immeuble :
-
-![Bajza u. 2 — propriété Dr. Kramer Tivadar és Leó, registre foncier 1928 p. 140](actes/extraits/Kramer-Tivadar-Leo-Bajza-u-2-proprietaires-1928-p140.jpg)
-
-**[? *à vérifier*]** Il est donc probable que Leó et Tivadar (copropriétaires de Bajza u. 2, où réside aussi Zsigmond) soient des frères ou cousins de Zsigmond Kramer. La qualification de « szinóbányai » dans les annuaires 1920-1925 renvoie à la fonderie puis au négoce de gypse de Szinóbánya.
-
-**Sources Hungaricana déjà identifiées** (indexation plein-texte, 2026-04-19 ; PDFs archivés localement dans `actes/archives-web/hungaricana/`) :
-
-| Collection | Référence | PDF local | Contexte |
-|---|---|---|---|
-| *Budapesti Czim- és Lakásjegyzék 1922-1923* (vol. 28) | [pg. 1878](https://library.hungaricana.hu/en/view/BPLAKCIMJEGYZEK_28_1922-1923/?pg=1878&layout=s), [pg. 1879](https://library.hungaricana.hu/en/view/BPLAKCIMJEGYZEK_28_1922-1923/?pg=1879&layout=s) | [1879](actes/archives-web/hungaricana/BPLAKCIMJEGYZEK_28_1922-1923__pages1879-1879.pdf) | Entrées Kramer Leó / Dr Kramer Tivadar à Bajza u. 2 (hit « Kramer Leó Bajza ») |
-| *Budapesti Czim- és Lakásjegyzék 1928* (vol. 29) | [pg. 139](https://library.hungaricana.hu/en/view/BPLAKCIMJEGYZEK_29_1928/?pg=139&layout=s) | [140](actes/archives-web/hungaricana/BPLAKCIMJEGYZEK_29_1928-1724633740__pages140-140.pdf) | **Tivadar + Leó copropriétaires de Bajza u. 2** |
-| *Magyarország kereskedelmi címtára 1924* | [pg. 1388](https://library.hungaricana.hu/en/view/FszekCimNevTarak_27_024/?pg=1380) | [1381](actes/archives-web/hungaricana/FszekCimNevTarak_27_024__pages1381-1381.pdf) | **Firme Kramer J. en 1924** — 5 associés, bankház + gipsz |
-| *Magyarország kereskedelmi címtára 1942 / 1943* | [1942 pg. 517](https://library.hungaricana.hu/en/view/FszekCimNevTarak_20_019_04_00_1942/?pg=517&layout=s), [1943 pg. 570](https://library.hungaricana.hu/en/view/FszekCimNevTarak_20_019_04_00_1943_01/?pg=570&layout=s) | [1942 p. 518](actes/archives-web/hungaricana/FszekCimNevTarak_20_019_04_00_1942__pages518-518.pdf) | Continuité de la firme Kramer J. jusqu'à la Seconde Guerre |
-| *Központi Értesítő 1892* (vol. 2) | [pg. 972](https://library.hungaricana.hu/en/view/SZTNH_KozpontiErtesito_1892_2/?pg=972&layout=s) | [973](actes/archives-web/hungaricana/SZTNH_KozpontiErtesito_1892_2-1612054939__pages973-973.pdf) | **Enregistrement fondateur succursale Szinóbánya** (Jakab, Rudolf, József, Tivadar) |
-| *Központi Értesítő 1895* | [pg. 344](https://library.hungaricana.hu/en/view/SZTNH_KozpontiErtesito_1895/?pg=344&layout=s) | [345](actes/archives-web/hungaricana/SZTNH_KozpontiErtesito_1895-1612054939__pages345-345.pdf) | **Entrée de Lipót Leó** comme associé |
-| *Nógrád megyei múzeumi évkönyv 1979* | [pg. 86](https://library.hungaricana.hu/en/view/MEGY_NOGR_Muzevkonyv1979/?pg=86&layout=s) | [87](actes/archives-web/hungaricana/MEGY_NOGR_Muzevkonyv1979__pages87-87.pdf) | **Krámer-féle vasgyár** à Szinóbánya (histoire industrielle régionale) |
-| *NOGM_AFT_17* (Nógrád Megyei Múzeumok) | [pg. 114](https://library.hungaricana.hu/en/view/NOGM_AFT_17/?pg=114&layout=s) | [115](actes/archives-web/hungaricana/NOGM_AFT_17__pages115-115.pdf) | **Caisse de secours ouvrière** (1893) — cote NML IV. 489. vol. 10 p. 685 |
-
-**Pistes d'archives complémentaires** :
-
-1. **Cégjegyzék (registre des sociétés) — firme *Kramer J.*** : à **Budapest Főváros Levéltára (BFL)**, fonds **VII.2.e. Cégbírósági iratok** (tribunal de commerce de Budapest). Le dossier de société contient acte constitutif, état civil des associés, modifications (entrées/sorties, héritiers), bilan à la liquidation — les liens de parenté entre József, Dávid Tivadar, Lipót Leó, Félix et Jenő y sont généralement explicites.
-2. **Holokauszt Emlékközpont (Budapest) & Yad Vashem — Pages of Testimony** : si la famille Kramer est d'origine juive (patronyme, magyarisation probable, profil marchand), les associés disparus en 1944-1945 y figureraient, parfois avec filiation déclarée par les survivants.
-3. **Acte de naissance de Zsigmond (Nyitra)** — cf. §3.2, recherche ouverte : s'il est fils d'un patriarche Kramer, sa fratrie devrait inclure (ou être proche de) József, Dávid Tivadar, Lipót Leó, Félix, Jenő.
-
-#### 3.5.bis Les *szinóbányai Kramer* comme famille identifiée — anoblissement 1906 et mise en garde sur le lien avec Zsigmond
-
-**[✓ *documenté*]** **Anoblissement hongrois du 7 avril 1906** — l'empereur François-Joseph Iᵉʳ élève **les trois frères Kramer Jakab, József et Rezső (Rudolf)**, copropriétaires de la maison de banque J. Kramer, à la noblesse hongroise (diplômes individuels délivrés le 15 septembre 1906, prédicat **« szinóbányai »**, armoiries : deux lions d'argent sur champ d'azur tenant une roue dentée, sous un chef de gueules chargé de trois étoiles d'or). Source : Michal Fiala / Jan Županič, *Nová šlechta v českých zemích a podunajské monarchii* (Institut d'histoire, Académie des sciences de la République tchèque), fondée sur les Archives nationales de Prague et l'*Allgemeines Verwaltungsarchiv* de Vienne.
-
-| Source | URL | Archive locale |
-|---|---|---|
-| Notice Kramer de Szinóbánya (novanobilitas.eu) | [fiche Fiala/Županič](https://www.novanobilitas.eu/rod/kramer-de-szinobanya) | [actes/archives-web/novanobilitas-Kramer_de_Szinobanya.md](actes/archives-web/novanobilitas-Kramer_de_Szinobanya.md) |
-| Blason *Kramer von Szinóbánya 1906* | [image novanobilitas.eu](https://www.novanobilitas.eu/sites/default/files/kramer_von_szinobanya_1906.jpg) | [actes/archives-web/kramer_von_szinobanya_1906_blason.jpg](actes/archives-web/kramer_von_szinobanya_1906_blason.jpg) |
-| Wikipédia HU — Szinóbánya (fonderie Krámer) | [hu.wikipedia.org/wiki/Szinóbánya](https://hu.wikipedia.org/wiki/Szin%C3%B3b%C3%A1nya) | [actes/archives-web/wikipedia-hu-Szinobanya.md](actes/archives-web/wikipedia-hu-Szinobanya.md) |
-| Cinobaňa — história (site officiel slovaque) | [cinobana.sk/historia.html](https://www.cinobana.sk/historia.html) | [actes/archives-web/cinobana-historia.md](actes/archives-web/cinobana-historia.md) |
-| Geni — famille Kramer de Szinóbánya (7 profils, gestion W.-E. Eckstein) | [geni.com](https://www.geni.com/search?search_type=people&q=Kramer+Szinobanya) | [actes/archives-web/geni-Kramer_de_Szinobanya.md](actes/archives-web/geni-Kramer_de_Szinobanya.md) |
-
-![Armoiries Kramer von Szinóbánya, 1906](actes/archives-web/kramer_von_szinobanya_1906_blason.jpg)
-*Armoiries des frères Jakab, József et Rezső Kramer, anoblis par François-Joseph Iᵉʳ le 7 avril 1906 avec le prédicat « szinóbányai ».*
-
-**[✓ *preuve primaire — source OSZK*]** **Composition familiale des anoblis** — établie par deux faire-part mortuaires OSZK téléchargés et transcrits dans [actes/archives-web/oszk-gyaszjelentesek/](actes/archives-web/oszk-gyaszjelentesek/README.md). Les données Geni (archive [geni-Kramer_de_Szinobanya.md](actes/archives-web/geni-Kramer_de_Szinobanya.md)) sont désormais **confirmées** sur les points essentiels, et **corrigées** sur le prénom des parents.
-
-**Génération –1 — Ignácz Kramer** (≈1789 – **27 octobre 1881** Budapest, Nagy Korona-utca 24, inhumé au cimetière israélite). Source : [OSZK gyászjelentés 203630](https://dspace.oszk.hu/handle/20.500.12346/203630), fac-similé local `Kramer_Ignacz_1881_mormon.jpg`. Le faire-part liste **6 enfants vivants** à cette date :
-
-| Enfant | Conjoint(e) | Anobli 1906 | Postérité (unokái d'Ignácz listés) |
-|---|---|---|---|
-| Kramer **Jakab** (1835–1919) | Hirsch Janka (1838–1916) | ✓ *szinóbányai* | Tivadar, Hugó, Róza, Leo, Mór, Oszkár, Jenny (+ Singer Jenny épouse Béla Singer) |
-| Kramer **Rudolf / Rezső** | Hay Nina | ✓ *szinóbányai* | Ilona, Vilma, Margit, Jenő |
-| Kramer **Samu** (≈1836–3.10.1906) | Lőwy Szidónia | ✗ (chevalier Ordre de François-Joseph, *fabricant de meubles de la cour impériale*) | Henrik, Aranka |
-| Kramer **József** | tószegi Freund Ida | ✓ *szinóbányai* | Felix, Adél, Ernő, Emil (+ Ignácz-Pál, Paulina selon Geni, nés après 1881) |
-| Kramer férj. **Weisz Katalin** († avant 10.1906) | Weisz B. Antal | — | Weisz Malvina → Weisz Ernő, Arthur |
-| Kramer férj. **Weinberger Cecília / Cäcilie** | Weinberger Jakab († avant 10.1906) | — | Weinberger Ádám, Jenny, Klára, Károly, Miksa |
-
-> **Correction vs Geni** : Geni indiquait *Ignaz Kramer × **Nanette** Kramer*. Le faire-part 1881 ne mentionne pas d'épouse survivante (Nanette vraisemblablement décédée avant 1881), ce qui est cohérent. Le prénom *Ignácz* est établi par la source primaire.
-
-**Génération 0 — faire-part de Samu Kramer, 3 octobre 1906** ([OSZK 203680](https://dspace.oszk.hu/handle/20.500.12346/203680), fac-similé `Kramer_Samu_4311496_00192.jpg`). Cette source est **capitale** : elle cite **explicitement ses trois frères survivants avec le prédicat anobli** :
-
-> *« szinóbányai Kramer Jakab és neje szül. Hirsch Johanna, szinóbányai Kramer Rezső és neje szül. Hay Nina, szinóbányai Kramer József és neje szül. tószegi Freund Ida és özv. Weinberger Jakabné szül. Kramer Cecília mint testvérek »*
-
-→ Confirme que les anoblis de 1906 sont bien les frères de Samu et de Cecília, tous enfants d'Ignácz. Signale que Samu était lui-même personnalité considérable : **« a Ferencz-József-rend lovagja, volt cs. és kir. udvari bútorgyáros »** — chevalier de l'Ordre de François-Joseph, ancien fournisseur impérial de meubles de cour — sans être anobli.
-
-**Arbitrage sur « Krámer György és fiai » (Wikipedia HU, fonderie 1882)** : la fratrie confirmée par source primaire (Jakab, Rudolf, Samu, József, Katalin, Cecília) **ne comporte pas de György**. Les hypothèses les plus plausibles sont :
-1. **György = alias hongrois d'Ignácz lui-même** (prénom juif-germanique *Ignaz* + nom magyarisé *György* dans la sphère industrielle). La fonderie acquise « en 1882 » l'est **l'année suivant le décès d'Ignácz** (27 octobre 1881) : il pourrait s'agir d'un transfert successoral aux fils, la Wikipedia HU désignant la firme sous le nom posthume du père.
-2. **György = frère ou cousin d'Ignácz**, éponyme collatéral.
-
-**Descendance étendue (synthèse multi-sources)** :
-- **Jakab × Johanna Janka Hirsch** (Johanna fille de Leopold Hirsch × Josefine Hirsch) → 7+ enfants : Jenny Eugenie (1860–1931, ⚭ Béla Singer), **Dr. Theodor = Dávid Tivadar (né 1861)**, Rosalie (1866, ⚭ Emil Singer puis Johann Janesch), **Lipót / Leó (1869–1921, ⚭ Aranka)**, Moritz / Mór (1870, ⚭ Katalin), Hugo, Oskar.
-  - **[✓ Hungaricana 1916]** Dr Tivadar a au moins deux enfants : **Miklós** (tombé au front russe le **1ᵉʳ septembre 1916**, fondation commémorative de 1500 couronnes) et **Ottilia**.
-- **József × Ida Freund von Tószeg** → fils Felix, Ernő, Emil dr, Ignácz-Pál ; filles Adél, Paulina.
-  - **[✓ Hungaricana 1919]** Ajoute **Kramer Paula** (⚭ dr Milkó Endre, 3 enfants dont Diniké † 12.09.1919 à 12 ans, Szeged) comme fille de József. *Paulina* mentionnée par Geni pourrait être une variante de *Paula*.
-  - **[✓ Hungaricana 1919]** József **est mort avant septembre 1919** (sa veuve Ida Freund est nommée « özv. szinóbányai Kramer Józsefné » grand-mère).
-  - **[✓ Hungaricana 1940-1943]** **Emil dr** devient *m. kir. kormányfőtanácsos ügyvéd* (conseiller principal du gouvernement royal, avocat).
-  - Felix est l'associé banquier de la firme en 1924.
-- **Rezső × Nina Hay** → fils Jenő (associé 1924), filles Ilóna, Vilma, Margit.
-- **Samu × Lőwy Szidónia** (non anoblis) → Henrik, Aranka → Mártha, Marianne.
-- **Cecília × Weinberger Jakab** → Ádám, Jenny, Klára, Károly, Miksa.
-
-**Engagement civique** : fondation créée conjointement par **Jakab × Janka**, acceptée par le conseil municipal de Budapest le 23 juin 1909 avec remerciements officiels ([Hungaricana BPSZKJ_1909](https://library.hungaricana.hu/en/view/BPSZKJ_1909/)). La fonderie Szinóbánya emploie encore **300 ouvriers en 1930** (*Lapszemle* 1930-09-18). Catalogue illustré de la fonderie attesté dès **1895**.
-
-Dépouillement détaillé dans [actes/archives-web/hungaricana-szinobanyai-kramer.md](actes/archives-web/hungaricana-szinobanyai-kramer.md) (84 hits sur Hungaricana pour la requête « Kramer szinóbányai »).
-
-Les profils Geni **Jakab** et **Johanna Janka** sont gérés par **Wolf-Erich Eckstein** (généalogiste juif autrichien reconnu, Institut für Jüdische Geschichte Österreichs). Les thumbnails Geni (48×48 px, illisibles) n'ont pas été conservés ; les images pleine résolution ne sont accessibles qu'avec un compte Geni Pro.
-
-**[⚠ *mise en garde renforcée par preuve primaire*]** Les documents ci-dessus **n'établissent pas** que notre aïeul **Zsigmond Kramer (Nyitra → Budapest, † 16 mai 1928, grossiste en alcools)** soit un fils d'Ignácz ou un frère des anoblis. L'acquisition des deux faire-part OSZK **renforce** cette prudence :
-
-1. **Absence de Zsigmond dans le faire-part d'Ignácz (1881)**. Cette source liste **tous** les enfants vivants (Jakab, Rudolf, Samu, József, Katalin, Cecília) et **tous** les petits-enfants vivants d'Ignácz à la date du décès. Zsigmond n'y figure **ni comme fils, ni comme petit-fils**.
-2. **Absence de Zsigmond dans le faire-part de Samu (1906)**. Cette source liste **les frères et sœurs survivants** de Samu. Zsigmond n'y figure pas.
-3. **Profil professionnel divergent** : les szinóbányai sont banquiers-industriels (fonderie, gypse) ; Samu lui-même était chevalier impérial et fabricant de meubles de cour ; Zsigmond est grossiste en liqueurs, rhum et cognac (VII. Százház u. 23 → VIII. Tisza Kálmán tér 28).
-4. **Origine géographique divergente** : Nyitra / Komárom (nord-ouest, actuelle Slovaquie) vs Szinóbánya (Nógrád, nord-centre).
-5. Le lien documenté à ce stade est **purement résidentiel** : Zsigmond vit à VI. Bajza u. 2 (propriété de Tivadar + Leó szinóbányai) entre 1918 et 1928. Cohabitation longue, mais qui peut relever de la location ou d'un lien de cousinage plus lointain que supposé.
-
-**Conclusion primaire** : à ce stade, Zsigmond n'est **pas** un descendant direct d'Ignácz Kramer. Un lien éventuel doit remonter à **la génération d'Ignácz ou au-delà** (cousinage via un frère d'Ignácz, par hypothèse installé à Nyitra), ou relever d'une simple homonymie.
-
-**Hypothèses à tester par pièces d'archives** :
-- **Cousinage** : Ignaz Kramer (père des anoblis) a-t-il un frère installé à Nyitra dont Zsigmond serait issu ? À rechercher dans les *Matrikel* de Nyitra (Slovensky Národný Archív, Bratislava — fonds communauté israélite).
-- **Neveu** : Zsigmond est-il fils d'un des frères non anoblis (Samuel, ou un fils de Cäcilie Weinberger) ? À croiser avec les naissances Nyitra 1850-1870.
-- **Contacter les gestionnaires Geni** : Wolf-Erich Eckstein (Jakab, Janka), Itai Hermelin (Theodor, Leó, Moritz), Sándor Feldmájer (Jenny, Rosalie). Ils détiennent probablement des actes civils déjà numérisés.
-
-**Pistes en ligne inventoriées** — l'ensemble des bases utiles (OSZK Gyászjelentések, Hungaricana, Arcanum, JewishGen, FamilySearch, MACSE, Kempelen *Magyar nemes családok*, archives slovaques) est consigné dans [actes/archives-web/sources-a-exploiter.md](actes/archives-web/sources-a-exploiter.md), avec les requêtes prioritaires à lancer sur chacune. Le dépouillement OSZK effectué via Claude-in-Chrome est détaillé dans [actes/archives-web/oszk-gyaszjelentesek/](actes/archives-web/oszk-gyaszjelentesek/README.md) (WebFetch ayant produit des hallucinations sur cette base, l'inspection directe a été nécessaire).
+- [**docs/famille_szinobanyai_kramer_homonyme.md**](docs/famille_szinobanyai_kramer_homonyme.md) — synthèse complète de la famille *szinóbányai Kramer*
+- [docs/analyse_lien_zsigmond_szinobanyai.md](docs/analyse_lien_zsigmond_szinobanyai.md) — démonstration que Zsigmond n'en fait pas partie
+- [docs/analyse_szinobanyai_kramer.md](docs/analyse_szinobanyai_kramer.md) — discussions et hypothèses méthodologiques
 
 ### 3.6. Kramer Mária
 
@@ -733,7 +606,7 @@ Chaque source en ligne ci-dessous est doublée d'une **archive locale** dans `ac
 
 ### 9.1. À vérifier sur pièce
 
-1. **Zsigmond Kramer — résolu (Hungaricana/Arcanum, 19 avril 2026)** : grossiste en alcools, société *Kramer Zsigmond (likőr, rum, cognac)*, siège VII. Százház u. 23 ; domiciles VI. Bajza u. 2 et V. Lipót körút 11 ; décès 16 mai 1928 à Budapest (*Pesti Hírlap* 17.05.1928). Reste à trouver : acte de naissance (Nyitra), acte de mariage (Kramer × Beck).
+1. **Zsigmond Kramer — résolu (Hungaricana/Arcanum, avril 2026)** : grossiste en alcools, société *Kramer Zsigmond (likőr, rum, cognac)*, siège VII. Százház u. 23 → VIII. Tisza Kálmán tér 28 ; domicile 1920 **V. Lipót-körút 11** (cohabitation avec gendre Dr Majoros Ödön et fils László) ; décès 16 mai 1928 à Budapest (*Pesti Hírlap* 17.05.1928). Reste à trouver : acte de naissance (Nyitra), acte de mariage (Kramer × Beck), adresse précise 1928.
 2. **Beck Sarolta — résolu partiellement** : décédée début juillet 1937, inhumée cimetière israélite Rákoskeresztúr / Kozma u., Budapest (*Pesti Napló* et *Ujság* 04.07.1937). Reste à trouver : date exacte, acte de naissance (Komárom).
 3. **Fiançailles Ödön × Mária — résolu** : *Az Est* 30.04.1918. Acte de mariage restant à chercher (Budapest, printemps/été 1918) — BFL.
 4. **Date de naissance d'Ödön (1884 vs 1888)** — Fragment de registre de Zenta, Arhiv Vojvodine.
