@@ -177,11 +177,17 @@ Montag        Henrik                            1882               Zenta (J)    
 
 #### Carrière à Budapest
 
-##### 1920 : avocat, VI. Bajza utca 2
+##### 1920 : avocat, V. Lipót-körút 11 (cohabitation avec son beau-père Zsigmond)
 
-**[✓]** Source : `actes/Annuaire-telephonique-Budapest-1920-p301-Majoros-Odon.pdf` (Hungaricana [FszekCimNevTarak_20_00_1920, page 301](https://library.hungaricana.hu/en/view/FszekCimNevTarak_20_00_1920/?pg=301&layout=s)).
+**[✓ *corrigé par lecture directe du fac-similé, 2026-04-23*]** L'annuaire téléphonique de Budapest de mai 1920 ne contient **qu'une seule entrée** pour Dr Majoros Ödön, à la section M, page imprimée 353 (viewer pg=374) :
 
-![Annuaire téléphonique Budapest, mai 1920, p. 301 — inscription de dr. Majoros Ödön, VI. Bajza utca 2](actes/extraits/Annuaire-telephonique-Budapest-1920-p301-Majoros-Odon-1.jpg)
+> **178-64 Majoros Ödön dr. és Kramer Zsigmond lakása V., Lipót-körút 11.**
+
+(*« Dr Majoros Ödön et Kramer Zsigmond — domicile V., Lipót-körút 11 »* — ligne partagée avec son beau-père.)
+
+Source : Hungaricana [FszekCimNevTarak_20_00_1920, viewer pg=375](https://library.hungaricana.hu/en/view/FszekCimNevTarak_20_00_1920/?pg=375&layout=s) — fac-similé archivé dans [actes/archives-web/hungaricana/FszekCimNevTarak_20_00_1920__pages375-375.pdf](actes/archives-web/hungaricana/FszekCimNevTarak_20_00_1920__pages375-375.pdf).
+
+> **Correction** : une version antérieure indiquait « 1920 : avocat, VI. Bajza utca 2 » sur la foi d'un fichier local mal étiqueté (qui contenait en fait la section Klein p. 280, supprimé le 2026-04-23). La vérification du pg=374 confirme que Majoros n'a pas d'entrée séparée à Bajza u. 2 en 1920 — son unique domicile et bureau documentés à cette date sont à V., Lipót-körút 11.
 
 ##### 3 août 1945 : nomination *tanácselnök*
 

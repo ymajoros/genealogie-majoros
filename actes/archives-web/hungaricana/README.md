@@ -92,6 +92,14 @@
 4. **József bankár domicile VI. Bajza-u. 22** — même rue Bajza que Tivadar + Leó (Bajza-u. 2) mais numéro différent.
 5. **Krámer Rezső és társa likőr-rum** existe déjà en 1920 — n'est pas un successeur posthume de Zsigmond (qui meurt 1928). Homonyme persistent, ou concurrent.
 
+#### `FszekCimNevTarak_20_00_1920__pages375-375.pdf` (280 KB, 1 page)
+
+- **Document** : annuaire téléphonique 1920 mai, section **M** — page imprimée **353** (viewer pg=375).
+- **URL source** : https://library.hungaricana.hu/en/view/FszekCimNevTarak_20_00_1920/?pg=375&layout=s
+- **Contenu** : entrée Majoros Ödön :
+  > **« 178-64 Majoros Ödön dr. és Kramer Zsigmond lakása V., Lipót-körút 11. »**
+- **Utilité** : preuve réciproque de l'entrée K (pg=324). Confirme que Majoros Ödön n'a qu'**une seule ligne téléphonique** en 1920, partagée avec son beau-père Zsigmond, au domicile unique V., Lipót-körút 11. Aucun bureau séparé à Bajza u. 2.
+
 #### `FszekCimNevTarak_20_00_1920__pages656-656.pdf` (299 KB, 1 page)
 
 - **Section** : *Szaknévsora* (répertoire des professions), 1920.

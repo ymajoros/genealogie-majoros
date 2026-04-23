@@ -33,7 +33,19 @@ Source : *Tolnay Budapest évkönyve. Hiteles czim és lakjegyzék 1898*, § II 
 
 - Entrée § V (p. 1474) : «... és Váczi körut 10 ; **Krämer Zsigmond VII Százház u 23** ; Krandl... » — confirme Százház u 23.
 
-### 1.3 Annuaire téléphonique Budapest 1920
+### 1.3 Annuaire téléphonique Budapest 1920 — double confirmation (sections K et M)
+
+**Section K (pg=324, page imprimée 302)** — lecture directe du fac-similé, Hungaricana [pg=324](https://library.hungaricana.hu/en/view/FszekCimNevTarak_20_00_1920/?pg=324&layout=s) :
+
+> **178-64  Kramer Zsigmond lakása és Majoros Ödön dr. (1) V., Lipót-körút 11.**
+
+**Section M (pg=374, page imprimée 353)** — lecture directe du fac-similé, Hungaricana [pg=374](https://library.hungaricana.hu/en/view/FszekCimNevTarak_20_00_1920/?pg=374&layout=s) :
+
+> **178-64  Majoros Ödön dr. és Kramer Zsigmond lakása V., Lipót-körút 11.**
+
+Les deux entrées sont réciproques (la ligne téléphonique 178-64 est à ce seul domicile). **Majoros Ödön n'a aucune autre entrée dans l'annuaire 1920** — pas de bureau séparé à Bajza u. 2, pas d'autre adresse. Le seul domicile professionnel et privé documenté pour Majoros Ödön en 1920 est V., Lipót-körút 11.
+
+### 1.3.bis Annuaire téléphonique Budapest 1920 — correction historique
 
 Source : *A budapesti és a környékbeli Magyar Kir. Távbeszélő-hálózatok előfizetőinek [...] betűrendes névsora 1920. május*, p. 302 (imprimée) / pg=323 (viewer).
 URL : https://library.hungaricana.hu/en/view/FszekCimNevTarak_20_00_1920/?pg=323&layout=s
