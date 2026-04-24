@@ -225,6 +225,34 @@ Hungaricana : [FszekCimNevTarak_20_019_12, page 197](https://library.hungaricana
 
 **[✓ *orig. famille*]** **Origines géographiques** — selon la légende manuscrite de Michel Majoros sur le tirage : *Sarolta Beck de Komárom, Zsigmond Kramer de Nyitra* (aujourd'hui Nitra, Slovaquie).
 
+#### Filiation paternelle de Kramer Zsigmond — ÉTABLIE (FamilySearch + OSZK, 25 avril 2026)
+
+**[✓ *documenté*]** **Père : Kramer Ármin** ; **Mère : née Braun (prénom non lu)** — par l'**acte civil hongrois de décès n° 785** (Budapest VII. kerület, Halottak 1928), indexé FamilySearch [`6TFN-D6MW`](https://www.familysearch.org/ark:/61903/1:1:6TFN-D6MW). Citation officielle :
+
+> *"Hungary, Civil Registration, 1895-1980", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:6TFN-D6MW : Tue Sep 17 14:15:28 UTC 2024), Entry for Kramer Zsigmond and Kramer Ármin, 16 May 1928.*
+
+L'acte donne aussi : **âge 56**, **né en 1872**, **épouse Beck Sarolta**, lieu Budapest, et confirme l'inhumation au **cimetière israélite de Kozma utca** (Find a Grave Index, ARK [`Q2WB-X6BB`](https://www.familysearch.org/ark:/61903/1:1:Q2WB-X6BB)).
+
+**[✓ *recoupement OSZK*]** Le **faire-part de Stern Józsefné née Beck Gizella († 6 janvier 1901, Pécs)** — copie locale `actes/archives-web/oszk-gyaszjelentesek/Stern_Jozsefne_Beck_Gizella_1901.jpg`, OSZK handle [577533](http://hdl.handle.net/20.500.12346/577533) — précise la **branche maternelle** :
+
+> Beck Jánosné szül. **Stein Rozália** anyja […] Kramer Ármin sógor. [Beck Márton, **Beck Nina, férj. Kramer Árminné**, Beck Zsigmond] testvérei.
+
+→ La mère biologique de notre Zsigmond est donc **Beck Nina** (sœur de Beck Gizella), épouse de Kramer Ármin. Les **grands-parents maternels** sont **Beck János × Stein Rozália** (Stein Rozália toujours vivante en janvier 1901). Le prénom *Zsigmond* est probablement hérité de l'oncle maternel **Beck Zsigmond**.
+
+> **Tension à résoudre** : l'index FS lit la mère « Braun » alors que le faire-part 1901 nomme « Beck Nina ». Hypothèses : (i) erreur d'indexation FS (le scan reste à capturer), (ii) « Braun » serait le nom de jeune fille de Beck Nina (Beck étant nom d'épouse), (iii) deux épouses successives de Kramer Ármin. La résolution exige la lecture directe de l'image originale (Image 155 du film FS 004429565). Voir [docs/famille_kramer_zsigmond_arbre_2026-04-25.md](docs/famille_kramer_zsigmond_arbre_2026-04-25.md).
+
+#### Filiation maternelle de Beck Sarolta — par arbre FS (25 avril 2026)
+
+**[◐ *arbre FS, à confirmer*]** L'arbre FamilySearch de **Sarolta Beck (1873 – 3 juillet 1937, Budapest, inhumée Kozma utca)** [`G5QQ-JFY`](https://www.familysearch.org/tree/person/details/G5QQ-JFY) — construit par un tiers — donne :
+
+- **Père : Lipót Beck** [`G5Q3-BJX`](https://www.familysearch.org/tree/person/details/G5Q3-BJX)
+- **Mère : Mária Rauschnitz** [`G5Q3-B9S`](https://www.familysearch.org/tree/person/details/G5Q3-B9S)
+- **Frères/sœurs** : József Békési (1854) [`G5QQ-PN3`](https://www.familysearch.org/tree/person/details/G5QQ-PN3), Ignác Beck (1864-1934) [`GSFV-3DY`](https://www.familysearch.org/tree/person/details/GSFV-3DY)
+
+Le sépulture 1937 est confirmée par [Find a Grave (ARK Q2WB-XD57)](https://www.familysearch.org/ark:/61903/1:1:Q2WB-XD57) : « Sarolta Beck Kramer, Burial 1937 Budapest, Birth 1873 ».
+
+> **Note** : l'index FS de l'acte 1928 (vu par les yeux du bénévole) attribue à Sarolta une mère prénommée « Jozefa » — incohérent avec « Mária Rauschnitz » de l'arbre. À résoudre par lecture de l'image originale. Le faire-part OSZK de Beck Lipót †1894 ([handle 327236](https://dspace.oszk.hu/handle/20.500.12346/327236)) — domicile II. Széna-tér 1, épouse Bauer Francziska — est un **homonyme distinct**, sa fratrie ne contient pas Sarolta. Notre Lipót Beck (× Mária Rauschnitz) n'a pas de gyászjelentés OSZK indexé.
+
 #### Activité commerciale — CONFIRMÉE (Hungaricana, avril 2026)
 
 **[✓ *documenté*]** **Kramer Zsigmond est bien un grossiste en alcools à Budapest** — liqueurs, rhum, cognac et divers (*likőr, rum, cognac és különféle*). La consultation plein-texte de Hungaricana (session authentifiée, 19 avril 2026) confirme l'attribution sur **trois sources indépendantes** :
@@ -376,6 +404,36 @@ Le dossier de recherche constitué sur cette famille voisine — dont l'étendue
 - Memorial do Imigrante (São Paulo) ;
 - Registres brésiliens de « alteração de nome » pour l'adoption du patronyme « Cantor » ;
 - Museu Judaico de São Paulo pour la communauté hungaro-brésilienne de l'après-guerre.
+
+### 3.8. Lea Kramér × Jenő Goldstein — troisième enfant identifié (avril 2026)
+
+**[◐ *arbre FS, mariage civil indexé*]** L'arbre FamilySearch [`GXXH-TDT`](https://www.familysearch.org/tree/person/details/GXXH-TDT) — alimenté par le même contributeur que celui de Sarolta Beck (`G5QQ-JFY`) — indique pour **Lea Kramér** :
+
+- **Naissance : 12 août 1902** (lieu non précisé, vraisemblablement Budapest)
+- **Mariage : 28 août 1936, Budapest**, Pest-Pilis-Solt-Kiskun, Hungary
+- **Conjoint : Jenő Goldstein** (né 31 mars 1904 à **Vajda-Hunyad, Hunyad** — aujourd'hui Hunedoara, Roumanie) [`GXXH-PWQ`](https://www.familysearch.org/tree/person/details/GXXH-PWQ)
+- **Beau-père : Ferenc Goldstein**, **belle-mère : Maria Szep**
+- **Beau-frère : Elemer Garlon (1902-1979)** — « Garlon » étant probablement la magyarisation de « Goldstein »
+- Pas d'enfants indexés dans l'arbre
+
+**[? *à investiguer*]** **Lea n'apparaît PAS nominativement** sur les avis de décès de ses parents :
+
+- *Pesti Hírlap* 17 mai 1928 (Zsigmond) liste « *Dr. Majoros Ödönné és Kramer László gyermekei* » (Mária et László seulement)
+- *Pesti Napló* 4 juillet 1937 (Sarolta) liste « *Dr. Majoros Ödönné sz. Kramer Mária, dr. Kramer László gyermekei* » (Mária et László seulement)
+
+Cette **omission sur deux faire-part successifs** (1928 + 1937) est inhabituelle pour une fille mariée vivant à Budapest. Hypothèses :
+
+1. Lea pourrait avoir été retranchée des relations familiales avant 1928 (mariage tardif à 34 ans en 1936 → possible discorde antérieure) ;
+2. Le mariage 1936 avec Jenő Goldstein pourrait concerner une **autre** Lea Kramér (homonyme — vérifier acte civil de Budapest si retrouvable) ;
+3. L'arbre FS pourrait contenir une erreur d'attribution parentale.
+
+**[?]** **Survie après 1937** : indéterminée. La conjugaison « 1944 » + « juif hongrois » + « époux Goldstein » fait craindre un destin tragique pendant la Shoah. Vérifier :
+
+- bases [Yad Vashem](https://yvng.yadvashem.org/) (Lea Kramér, Lea Goldstein, Jenő Goldstein)
+- archives [USHMM](https://www.ushmm.org/) — Hungarian deportation lists 1944
+- registres post-1945 du Magyarországi Zsidó Hitközségek Szövetsége (MAZSIHISZ)
+
+Voir [docs/famille_kramer_zsigmond_arbre_2026-04-25.md](docs/famille_kramer_zsigmond_arbre_2026-04-25.md) pour l'analyse détaillée.
 
 ## 4. Smalstys / Geelens (Kamajai, Verviers)
 
