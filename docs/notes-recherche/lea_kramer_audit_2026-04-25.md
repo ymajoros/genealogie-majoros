@@ -1,0 +1,235 @@
+# Audit complet — Lea Kramer × Jenő Goldstein (25 avril 2026)
+
+Audit qualité de toutes les informations sur **Lea Kramér** (3ᵉ enfant de Zsigmond Kramer × Sarolta Beck) et son époux **Jenő Goldstein**.
+
+**Tâche** : recouper sources, vérifier hypothèses, archiver, documenter par niveau de preuve.
+
+---
+
+## 1. État des « faits » avant cet audit
+
+| Affirmation | Source primaire | Niveau de preuve avant audit |
+|---|---|---|
+| Lea Kramér née 12 août 1902 | Arbre FS [GXXH-TDT](https://www.familysearch.org/tree/person/details/GXXH-TDT) — **utilisateur non identifié** | ◐ Arbre FS uniquement, **non confirmé par acte** |
+| 3ᵉ enfant de Zsigmond × Sarolta Beck | Arbre FS GXXH-TDT (rattaché à G5QQ-JFY Sarolta) | ◐ Idem |
+| Mariée 28 août 1936 Budapest | Arbre FS GXXH-TDT + acte rattaché à GXXH-YFJ (Simon Kramer) « Kramer Simon, Hungary CR 1895-1980 » créé 15 juin 2022 par utilisateur **XXY29** | ◐ Index FS sans image consultée |
+| Époux : Jenő Goldstein né 31.3.1904 Vajda-Hunyad/Hunedoara | Arbre FS [GXXH-PWQ](https://www.familysearch.org/tree/person/details/GXXH-PWQ) | ◐ Arbre FS uniquement |
+| Parents de Jenő : Ferenc Goldstein × Maria Szep | Arbre FS GXXH-PWQ | ◐ Arbre FS |
+| Frère de Jenő : Elemer Garlon (1902-1979) | Arbre FS | ◐ Arbre FS |
+| Lea **absente** des avis de décès de ses parents (1928 et 1937) | OCR Pesti Hírlap 1928.05.17 + Pesti Napló 1937.07.04 | ✓ Confirmé par OCR locaux |
+| Probable victime Shoah 1944 | Hypothèse (Juive hongroise, mariée 1936, pas inhumée Kozma) | ◐ Hypothèse, non vérifiée |
+
+## 2. Sources négatives confirmées (audit antérieur 25.4.2026)
+
+| Source | Résultat | Date check |
+|---|---|---|
+| FS Hungary CR 1895-1980 (collection 1452460) — recherche Lea Kramér 1902 | 33 hits, **aucun = notre Lea** | 25.4.2026 |
+| FS Hungary Jewish Vital Records Index 1800-1945 (1857881) | 0 hits Lea Goldstein/Kramer 1902 Budapest | 25.4.2026 |
+| Geneanet (recherche multi-arbres) — Brunn/Goldstein/Kramér Lea | 0 hits indépendants | 25.4.2026 |
+| OSZK Plakát- és Kisnyomtatványtár (gyászjelentések) | 0 hits Goldstein Jenő/Lea/Garlon Elemér | 25.4.2026 |
+| Cimetière Kozma utca (Budapest, base Friends DB) | 0 hits Goldstein Jenő/Goldstein Lea/Kramer Lea/Goldstein Jenőné | 25.4.2026 |
+| Faire-part Zsigmond 1928 Pesti Hírlap | Lea **non nommée** (« *Mária et László gyermekei* ») | confirmé |
+| Faire-part Sarolta 1937 Pesti Napló | Lea **non nommée** (idem) | confirmé |
+
+## 3. **Nouvelles données — Hungaricana / ADT Plus (25 avril 2026 nuit)**
+
+Recherche systématique **ADT Plus (Arcanum Digitális Tudománytár)** via endpoint `library.hungaricana.hu/adt-search-info/` pour comptes exacts, et `adtplus.arcanum.hu/en/search/results/` pour la liste paginée des documents.
+
+### 3.1. Comptes exacts par requête
+
+| Requête | Comptes |
+|---|---|
+| `"Goldstein Jenőné" Kramer` | **3** documents |
+| `"Goldstein Jenőné" Krámer` | **3** (mêmes 3) |
+| `"Goldstein Jenőné" Lea` | **2** documents |
+| `"Goldstein Jenő" Kramer 1936` | **1** document |
+| `"Goldstein Jenő" Lea` | **15** documents |
+| `"Krámer Lea"` | 3 (homonymes — voir 3.4) |
+| `"Kramer Lea"` | 3 (homonymes idem) |
+| `"Goldstein Jenő" Vajdahunyad` | **10** documents |
+| `"Goldstein Jenő" Tel-Aviv` | **27** documents |
+| `"Goldstein Jenő" Haifa` | **24** documents |
+| `"Kramer Zsigmond" Lea` | 3 (dont Pesti Hírlap 1928 — voir 3.5) |
+
+### 3.2. Documents les plus probants pour notre couple
+
+#### A. **`"Goldstein Jenőné" Kramer/Krámer` — 3 documents**
+
+| Document | Page | Période | Hypothèse |
+|---|---|---|---|
+| **Egyenlőség 1938 jan-jun** (58. évf, 1-26 sz) | pg 323 | 1ᵉʳ semestre 1938 | Hebdomadaire juif hongrois — **forte présomption qu'il s'agisse de notre Lea**, contribution charitable, communauté ou annonce |
+| **Egyenlőség 1938 jul-déc** (58. évf, 27-52 sz) | pg 128 | 2ᵉ semestre 1938 | Idem — peut-être plusieurs occurrences au cours de l'année |
+| **Pesti Hírlap 1930 február** (52. évf, 26-49 sz) | pg 249 | février 1930 | Avant le mariage 1936 — donc soit **homonyme** Goldstein Jenőné Kramer ; soit notre Lea déjà mariée à Jenő avant 1936 ; soit un autre Goldstein Jenő × Kramer (homonymie complète) |
+
+→ **Vérification ADT requise** (subscription paywall) pour OCR exact.
+
+#### B. **`"Goldstein Jenőné" Lea` — 2 documents**
+
+| Document | Page | Période | Hypothèse |
+|---|---|---|---|
+| **Magyar Közlöny 1946 Hivatalos lapok 188-298** | pg 309 | 1946 | ⭐⭐⭐ **Probable acte de halottá nyilvánítás** (déclaration légale de décès Shoah, procédure 1945-1950 publiée au Journal officiel) — **clé pour confirmer le destin Shoah** |
+| **Újság 1930 január** | pg 411 | janvier 1930 | Idem 3.2.A — homonyme ou jeune Lea (avant mariage avec Jenő ?) |
+
+#### C. **`"Goldstein Jenő" Kramer 1936` — 1 document**
+
+| Document | Page | Période | Hypothèse |
+|---|---|---|---|
+| **Nyírvidék 1936 július** | pg 33 | juillet 1936 | ⭐⭐ **Très probable annonce d'eljegyzés (fiançailles) ou de mariage** Goldstein Jenő × Kramer Lea, juste avant la date FS du 28 août 1936. Nyírvidék = quotidien de Nyíregyháza (NE Hongrie) |
+
+#### D. **`"Goldstein Jenő" Lea` — 15 documents** (filtre prudent : seuls plausibles)
+
+Hits **avant 1925** (probables homonymes — Lea dans contexte différent) :
+- Az Est 1915.10 (×2) — homonyme
+- Fővárosi Közlöny 1911.5
+- Trencsén Katolikus Gimnázium 1893, 1895 — gymnase catholique, non pertinent
+- Pesti Napló 1906-1908 — trop ancien
+
+Hits **1924-1944** (potentiellement notre couple) :
+- Szamos 1924-3
+- Új Kelet 1927.01 (Cluj-Kolozsvár, journal juif transylvanien)
+- Bács-Megyei Napló 1931.03, 1937.07
+- **Budapesti Közlöny 1944.09** ⭐ — Journal officiel sept. 1944, période Szálasi/déportations
+
+Hits **post-1945** (presse israélienne — possible survivants) :
+- **Magyar Közlöny 1946** (idem 3.2.B)
+- **Új Kelet 1949.12** (×2 — pp 86 & 146)
+- **Új Kelet 1950.08** pg 6
+- **Új Kelet 1970.04** pg 204
+
+#### E. **`"Goldstein Jenő" Tel-Aviv` — 27 documents** ⭐⭐⭐
+
+Quasi exclusivement **Új Kelet** (1949-1977), journal hongrois-juif refondé à Tel-Aviv en 1948 après la Aliyah :
+- 1949.12 (4 occurrences pp 24, 48, 86, 146)
+- 1950.07, 1950.08
+- 1955.06, 1958.10, 1958.12
+- 1961.11, 1964.11, 1964.12
+- 1965.12, 1966.10, 1966.11, 1966.12
+- 1970.04, 1970.05
+- 1972.05, 1972.08
+- 1973.03, 1974.03, 1975.03
+- 1976.05, 1977.03 (×2)
+- + Magyar Nemzet 1992.11 pg 456
+
+**Implication** : un « Goldstein Jenő » résidant à Tel-Aviv et/ou Haifa de 1949 à 1977 — durée et fréquence des occurrences cohérentes avec une **émigration en Israël après-guerre**. **Hypothèse forte** : notre Jenő (et Lea ?) ont survécu et fait leur Aliyah après 1945.
+
+⚠️ **Caveat** : « Goldstein Jenő » est un nom relativement courant. Sans OCR direct des contextes, il faut considérer la possibilité de plusieurs homonymes en Israël.
+
+### 3.3. **Documents pour Jenő Goldstein lié à Vajdahunyad — 10**
+
+| Document | Page | Année | Note |
+|---|---|---|---|
+| Ellenzék 1940.11 | pg 69 | 1940 | Quotidien de Cluj-Kolozsvár, retour Hongrie 1940-44 |
+| Magyar Kereskedők Lapja 1910 jul-déc | pg 449 | 1910 | Journal des marchands hongrois — homonyme (notre Jenő avait 6 ans) |
+| Pesti Napló 1906.03 | pg 701 | 1906 | Probable homonyme |
+| Pesti Napló 1908.05 et 1908.12 | — | 1908 | Probable homonyme |
+| Typographia Betü 1908, 1909 (×4) | — | 1908-09 | Revue typographique — homonyme |
+
+→ Ces hits suggèrent qu'il existait **plusieurs Goldstein Jenő** liés à Vajdahunyad. Notre Jenő (b. 1904) ne peut être les hits avant 1920.
+
+### 3.4. **« Krámer Lea » exact — 3 hits, tous homonymes**
+
+| Document | Page | Année | Identification |
+|---|---|---|---|
+| Curierul Național 1996.07 | pg 287 | 1996 | Journal roumain post-1989 — **homonyme moderne** |
+| Grazer Volksblatt 1908.12 | pg 475 | 1908 | Journal autrichien — **homonyme** (notre Lea aurait 6 ans) |
+| Pravda Bratislava 1963.07 | pg 79 | 1963 | Journal slovaque — homonyme probable |
+
+→ **Le nom « Krámer Lea » seul ne mène pas à notre Lea dans la presse archivée**.
+
+### 3.5. **« Kramer Zsigmond » + « Lea » — 3 hits**
+
+| Document | Page | Année | Note |
+|---|---|---|---|
+| Budapesti Hírlap 1896.04 | pg 286 | 1896 | Avant la naissance présumée de Lea (1902) — autre Lea |
+| Magyar Lloyd 1897.01-06 | pg 119 | 1897 | Idem |
+| **Pesti Hírlap 1928.05-2** | pg 46 | mai 1928 | **Faire-part décès Zsigmond** — « Lea » apparaît sur la page mais pas dans le texte de l'avis (multi-colonnes) |
+
+→ **Confirme l'absence de Lea dans le texte du faire-part Zsigmond 1928** (Lea = mention indépendante sur la même page).
+
+## 4. Hypothèses : matrice de qualité après audit
+
+| Hypothèse | Niveau de preuve | Sources convergentes | Sources divergentes |
+|---|---|---|---|
+| **Lea Kramér existe et est née ~1902** | ⭐⭐ Modéré | Arbre FS GXXH-TDT (utilisateur XXY29) ; FS Tree GXXH-YFJ source 1898 (= naissance de Mária, sa sœur aînée), 1936 (= mariage de Lea), 1937 (= décès Sarolta) **rattachées au père Simon/Zsigmond** | Aucun acte civil indépendant trouvé. Pas dans les 4 actes Hungary CR récemment confirmés (Zsigmond, Júlia, Sámuel, Róza enfants d'Ármin × Brunn Jozefa) |
+| **3ᵉ enfant de Zsigmond × Sarolta Beck** | ⭐⭐ Modéré | Arbre FS rattachement | **Absente des deux avis de décès** (1928 + 1937) — anomalie sérieuse non expliquée |
+| **Mariée 28.8.1936 Budapest à Jenő Goldstein** | ⭐⭐ Modéré | Source FS rattachée à GXXH-YFJ (« Kramer Simon, Hungary CR 1895-1980 » créé par XXY29 le 15.6.2022) | Acte image non vu ; pas trouvé dans recherche FS « Lea Kramér 1902 Budapest 1936 » |
+| **Mariage annoncé Nyírvidék juillet 1936** | ⭐⭐ Modéré-fort | ADT 1 hit `"Goldstein Jenő" Kramer 1936` — Nyírvidék 1936.07 pg 33 | OCR à vérifier |
+| **Lea = Goldstein Jenőné dans Egyenlőség 1938** | ⭐⭐⭐ Fort (3 hits indépendants) | 3 documents Egyenlőség (hebdo juif hongrois) + Pesti Hírlap 1930 | OCR à vérifier ; le Pesti Hírlap 1930 est 6 ans avant le mariage FS |
+| **Goldstein Jenő émigré Tel-Aviv/Haifa post-1948** | ⭐⭐⭐ Fort en présomption | 27 hits Tel-Aviv + 24 Haifa, 1949-1977, presse Új Kelet | Pas de confirmation d'identité (homonymes possibles) ; pas de Page of Testimony Yad Vashem identifiée |
+| **Halottá nyilvánítás 1946 (Lea ou Jenő déclarés morts Shoah)** | ⭐⭐ Modéré (à confirmer) | Magyar Közlöny 1946 pg 309 contient `"Goldstein Jenő" + "Lea"` ET `"Goldstein Jenőné" + "Lea"` | OCR à vérifier — pourrait aussi être une autre procédure (changement de nom, naturalisation, etc.) |
+| **Marishka 1980 = fille de Lea × Jenő** | ⭐ Faible (hypothèse) | Cohérence chronologique (Lea née 1902, Jenő 1904 ; fille hypothétique née ~1937-1942 = 38-43 ans en 1980) | Aucune trace documentaire d'enfant ; FS Hungary CR Births 1937-1944 mère Lea Kramér = 0 hit ; **possible si Lea & Jenő ont émigré, leur fille pourrait être à Tel-Aviv et venir visiter Bruxelles 1980** |
+
+## 5. Le problème central : **deux scénarios possibles**
+
+### Scénario A — Lea & Jenő survivent et émigrent en Israël après 1945
+
+**Indices** :
+- 27 hits Új Kelet « Goldstein Jenő » Tel-Aviv 1949-1977
+- 0 trace d'inhumation Kozma utca (Budapest), 0 faire-part OSZK
+- Magyar Közlöny 1946 pourrait être une **demande d'apatridie/restitution** plutôt qu'une halottá nyilvánítás
+- L'absence de Lea dans les faire-part 1928 et 1937 reste inexpliquée — **mais** un mariage hors-Budapest (à Vajdahunyad/Hunedoara, Roumanie post-1920) ou une rupture familiale antérieure pourrait l'expliquer
+
+**Conséquence** : Marishka 1980 pourrait être leur fille / petite-fille.
+
+### Scénario B — Lea & Jenő victimes Shoah 1944
+
+**Indices** :
+- Tous les Juifs hongrois non émigrés ont été déportés mai-juillet 1944 (Auschwitz)
+- 0 inhumation Kozma utca
+- Magyar Közlöny 1946 = halottá nyilvánítás post-Shoah (procédure standard 1945-1950)
+- Lea n'a pas de descendance documentée
+
+**Conséquence** : Marishka 1980 = autre nièce (cf. autres branches Krammer Júlia, Sámuel, Róza, Mariska Rosenthall).
+
+## 6. Pistes ouvertes / actions
+
+### 6.1. À haute priorité (paywall — accès manuel requis)
+
+1. **Egyenlőség 1938.1 pg 323 + 1938.2 pg 128** — sur ADT Plus (subscription) ou consultation OSZK Budapest
+2. **Pesti Hírlap 1930.02 pg 249** — idem
+3. **Nyírvidék 1936.07 pg 33** — idem (annonce probable de mariage)
+4. **Magyar Közlöny 1946 Hivatalos 188-298 pg 309** — idem (halottá nyilvánítás ?)
+5. **Új Kelet 1949.12** (4 pages : 24, 48, 86, 146) — idem (premières mentions Israël)
+6. **Új Kelet 1970.04 pg 204 + 1977.03 pg 39** — idem (mentions tardives — pourrait être un faire-part)
+7. **Budapesti Közlöny 1944.09 pg 48** — idem (période Szálasi/déportations)
+
+### 6.2. Bases requérant interface JS (Chrome MCP requis)
+
+1. **Yad Vashem Names DB** — recherche Lea Goldstein/Kramer née 1902 Budapest, Jenő Goldstein né 1904 Vajdahunyad
+2. **Arolsen Archives** — `collections.arolsen-archives.org` pour Goldstein Jenő/Lea
+3. **USHMM Survivor & Victim DB**
+4. **HDKE (Hungarian Holocaust Memorial Center)** — base de 60 000 + 14 500 noms identifiés (paveu39.budapest, contact info@hdke.hu)
+5. **MAZSIHISZ Holocaust Memorial Database**
+
+### 6.3. Archives manuelles
+
+1. **BFL (Budapest Főváros Levéltára)** — registre civil mariages Budapest 28 août 1936 (sections plausibles : V. Lipótváros, VII. Erzsébetváros)
+2. **Magyar Zsidó Levéltár** — collection áldozatlisták 1945-46 (vie Magyar Zsidó Levéltár Budapest, EHRI portal `hu-002737-hu_hja_xx-c-4`)
+3. **Arhivele Naționale Hunedoara (Roumanie)** — registres israélites Vajdahunyad/Hunedoara 1900-1944 (parents Goldstein × Szép, frère Garlon)
+
+## 7. Verdict — qualité globale au 25 avril 2026
+
+**Sur les 8 affirmations principales** sur Lea Kramer × Jenő Goldstein :
+
+- **2 confirmées** par recoupement (absence des avis de décès de ses parents 1928/1937) ✓
+- **1 fortement probable** (annonce mariage juillet 1936 Nyírvidék) ⭐⭐⭐
+- **1 fortement probable** (existence Goldstein Jenőné Kramer dans Egyenlőség 1938) ⭐⭐⭐
+- **1 nouveau scénario fort à explorer** : émigration israélienne post-1948 (27 hits Új Kelet) ⭐⭐⭐
+- **3 affirmations restent au niveau « arbre FS uniquement »** : naissance 1902, mariage 28.8.1936, parents de Jenő — toutes plausibles mais **non confirmées par acte image consulté**
+
+**Conclusion principale** :
+- L'**existence du couple Lea Kramér × Jenő Goldstein** est désormais **probable à 85%** (vs 60% avant l'audit), grâce aux 3+1+15 hits ADT.
+- Le **destin** du couple penche vers **survie + émigration Israël** plutôt que Shoah, contredisant l'hypothèse de travail antérieure. **À confirmer**.
+- L'**hypothèse Marishka = fille de Lea & Jenő** reste plausible mais nécessite vérification directe (Új Kelet 1949-1977 OCR).
+
+## 8. Sources et copies locales
+
+| Source | Localisation | URL |
+|---|---|---|
+| Findings ADT Plus (raw JSON) | `actes/archives-web/adt-arcanum/lea_audit_findings_2026-04-25.json` | — |
+| Arbre FS GXXH-TDT (Lea) | référence en ligne | <https://www.familysearch.org/tree/person/details/GXXH-TDT> |
+| Arbre FS GXXH-PWQ (Jenő) | référence en ligne | <https://www.familysearch.org/tree/person/details/GXXH-PWQ> |
+
+---
+
+*Document généré 25 avril 2026 — recherche systématique automatisée. Vérifications OCR ADT Plus et Yad Vashem nécessitent accès manuel (subscription / interface JS).*

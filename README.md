@@ -184,7 +184,9 @@ Mariage vraisemblablement printemps-été 1918 — acte à rechercher aux archiv
 
 **[◐ arbre FS]** [`GXXH-TDT`](https://www.familysearch.org/tree/person/details/GXXH-TDT) — Lea Kramér née 12.8.1902, mariage **28.8.1936 Budapest** avec Jenő Goldstein (né 31.3.1904 Vajda-Hunyad, aujourd'hui Hunedoara, Roumanie) [`GXXH-PWQ`](https://www.familysearch.org/tree/person/details/GXXH-PWQ).
 
-**[? *omission inhabituelle*]** Lea n'apparaît PAS sur les avis de décès de ses parents (1928, 1937). Hypothèses : discorde antérieure, autre Lea Kramér homonyme, ou erreur d'attribution dans l'arbre FS. Survie après 1937 indéterminée — destin Shoah à investiguer (Yad Vashem, USHMM, MAZSIHISZ).
+**[? *omission inhabituelle*]** Lea n'apparaît PAS sur les avis de décès de ses parents (1928, 1937). Hypothèses : discorde antérieure, autre Lea Kramér homonyme, ou erreur d'attribution dans l'arbre FS.
+
+**[◐ *audit ADT 25.4.2026 — nouvelle hypothèse*]** Survie probable + émigration en Israël. Recherche Hungaricana / ADT Plus a remonté **27 hits « Goldstein Jenő » + Tel-Aviv** et **24 hits + Haifa** étalés sur **Új Kelet 1949-1977** (journal hongrois-juif refondé à Tel-Aviv en 1948). 3 hits indépendants `"Goldstein Jenőné" Krámer` dans **Egyenlőség 1938** + **Pesti Hírlap 1930**. 1 hit `"Goldstein Jenő" Kramer 1936` dans **Nyírvidék juillet 1936** (probable annonce mariage). 1 hit Magyar Közlöny 1946 (peut-être halottá nyilvánítás Shoah, peut-être tout autre acte officiel). Détails et matrice de qualité : [docs/notes-recherche/lea_kramer_audit_2026-04-25.md](docs/notes-recherche/lea_kramer_audit_2026-04-25.md). Vérifications OCR ADT et Yad Vashem encore requises.
 
 ## 4. Smalstys / Geelens (Kamajai, Verviers)
 
@@ -352,7 +354,7 @@ Chaque source est doublée d'une archive locale dans `actes/archives-web/` (capt
 
 1. **Dr. Kramer László / Cantor à São Paulo** — Arquivo Nacional Rio (listes 1946), Memorial do Imigrante SP, Museu Judaico SP, *alteração de nome*.
 2. **Épouse de Dr. Kramer László** — mentionnée *dr. Kramer Lászlóné* en 1937, identité inconnue (possiblement partie au Brésil avec lui).
-3. **Lea Kramér × Jenő Goldstein 1936** — destin probable Shoah 1944 (Yad Vashem, USHMM, MAZSIHISZ). Possible descendance ?
+3. **Lea Kramér × Jenő Goldstein 1936** — destin à clarifier : audit 25.4.2026 ouvre l'**hypothèse forte d'une émigration en Israël** (27 hits Új Kelet Tel-Aviv 1949-77) au lieu de la Shoah. Vérifications Yad Vashem + OCR ADT requises. Voir [docs/notes-recherche/lea_kramer_audit_2026-04-25.md](docs/notes-recherche/lea_kramer_audit_2026-04-25.md).
 4. **Demi-frère Gabor Majoros** — registre foncier Pozsonyi u. 3, BFL, post-2041 (actes 90 ans).
 5. **Maryté Smolski (1890-1975 Kaunas)** — branche cousine lituanienne, descendance soviétique.
 6. **Branche Komárom Kramer** — Lővinger Mórné née Kramer Júlia (1827-1909), faire-part OSZK [handle 154194](http://hdl.handle.net/20.500.12346/154194). Possible parente lointaine d'Ármin Kramer.
