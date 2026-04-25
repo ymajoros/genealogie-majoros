@@ -1,6 +1,6 @@
 # Analyse et questions ouvertes — famille *szinóbányai Kramer*
 
-**Objet** : discussions, hypothèses et caveats qui n'ont pas leur place dans le narratif principal du [README.md](../README.md) §3.5. Le présent document rassemble les arbitrages méthodologiques et les pistes de recherche restantes.
+**Objet** : discussions, hypothèses et caveats qui n'ont pas leur place dans le narratif principal du [README.md](../../README.md) §3.5. Le présent document rassemble les arbitrages méthodologiques et les pistes de recherche restantes.
 
 Dernière mise à jour : 2026-04-22.
 
@@ -66,7 +66,7 @@ Zsigmond n'est **pas** un descendant direct d'Ignácz Kramer. Un lien éventuel 
 
 ## 3bis. Épouse de Tivadar = une *Schmidl* (hypothèse documentée)
 
-Le texte intégral de la fondation Szinóbányai Kramer Miklós (Tanárképző 1916, *Az intézet jóltevői*, archivé dans [actes/archives-web/hungaricana/Budapest_B561_TanarkepzoGyakFogimn_B597_1916__pages67-70.pdf](../actes/archives-web/hungaricana/Budapest_B561_TanarkepzoGyakFogimn_B597_1916__pages67-70.pdf)) donne :
+Le texte intégral de la fondation Szinóbányai Kramer Miklós (Tanárképző 1916, *Az intézet jóltevői*, archivé dans [actes/archives-web/hungaricana/Budapest_B561_TanarkepzoGyakFogimn_B597_1916__pages67-70.pdf](../../actes/archives-web/hungaricana/Budapest_B561_TanarkepzoGyakFogimn_B597_1916__pages67-70.pdf)) donne :
 
 > *« Dr. Marczali Henrik egyetemi professzor [...] bejelentette, hogy az 1916. évi szeptember 1-én hősi halált halt Kramer Miklós nevére 1500 koronás alapítványt tesz a **Schmidl család több tagja**. »*
 
@@ -116,7 +116,7 @@ Cette section synthétise les preuves directes — en source primaire — que **
 
    → Source d'époque (publication officielle du lycée, 1916) qui **associe formellement le prédicat szinóbányai à Tivadar** et à sa fille Ottilia. Attestation contemporaine de première génération après l'anoblissement.
 
-4. **Registre du commerce 1892** (*Központi Értesítő*) : Tivadar est **enregistré nominativement comme associé fondateur** de la succursale szinóbányai de la firme *Kramer J.* aux côtés de son père Jakab, de son oncle József et de son oncle Rezső. Cf. [actes/archives-web/hungaricana/SZTNH_KozpontiErtesito_1892_2-1612054939__pages973-973.pdf](../actes/archives-web/hungaricana/SZTNH_KozpontiErtesito_1892_2-1612054939__pages973-973.pdf).
+4. **Registre du commerce 1892** (*Központi Értesítő*) : Tivadar est **enregistré nominativement comme associé fondateur** de la succursale szinóbányai de la firme *Kramer J.* aux côtés de son père Jakab, de son oncle József et de son oncle Rezső. Cf. [actes/archives-web/hungaricana/SZTNH_KozpontiErtesito_1892_2-1612054939__pages973-973.pdf](../../actes/archives-web/hungaricana/SZTNH_KozpontiErtesito_1892_2-1612054939__pages973-973.pdf).
 
 5. **Profils Geni (Wolf-Erich Eckstein, Itai Hermelin)** : Theodor / Dávid Tivadar listé comme fils aîné de Jakab × Johanna Janka Hirsch, né 1861 en Hongrie.
 
@@ -146,7 +146,7 @@ Hypothèse à confirmer par acte de naissance Budapest-Szeged 1870-1895.
 
 Un *Kramer Zsigmond* **distinct de notre aïeul** est documenté à Budapest :
 
-- **Kramer Zsigmond × Berger Rozália** — noces d'argent fêtées le 20 mars 1923 (mariage ≈ mars 1898). Profession : *művezetője* (directeur d'atelier) de la **SA Kaszab csavar- és vasárugyár** (visserie et quincaillerie Kaszab). Source : *Egyenlőség*, XLII/12, 24 mars 1923, rubrique *Hymen* — archive locale : [actes/archives-web/bcucluj/XLII-12-19230324.pdf](../actes/archives-web/bcucluj/XLII-12-19230324.pdf), analyse : [actes/archives-web/bcucluj/README.md](../actes/archives-web/bcucluj/README.md).
+- **Kramer Zsigmond × Berger Rozália** — noces d'argent fêtées le 20 mars 1923 (mariage ≈ mars 1898). Profession : *művezetője* (directeur d'atelier) de la **SA Kaszab csavar- és vasárugyár** (visserie et quincaillerie Kaszab). Source : *Egyenlőség*, XLII/12, 24 mars 1923, rubrique *Hymen* — archive locale : [actes/archives-web/bcucluj/XLII-12-19230324.pdf](../../actes/archives-web/bcucluj/XLII-12-19230324.pdf), analyse : [actes/archives-web/bcucluj/README.md](../../actes/archives-web/bcucluj/README.md).
 
 **Notre Zsigmond** est marié à **Sarolta Beck** (pas Berger Rozália), grossiste en alcools (pas directeur Kaszab), domicilié VIII Tisza Kálmán tér / VI Bajza u. 2 (pas d'adresse Kaszab). **Sans parenté établie** entre les deux homonymes.
 
@@ -164,4 +164,4 @@ Voir [telechargements_manuels_hungaricana.md](telechargements_manuels_hungarican
 
 ## 6. Caveat méthodologique : hallucinations WebFetch
 
-Les premiers dépouillements via WebFetch sur les bases agrégées (OSZK DSpace, delacharlerie.monrezo.be) ont produit des résultats **hallucinés** — deux fetches successifs de la même URL retournant des données incompatibles. Règle : pour toute donnée factuelle issue d'une base d'archives, exiger le **fac-similé capturé** ou l'**OCR vérifié via Chrome** avant intégration au narratif principal. Voir [feedback_sources_primaires.md](../.claude/projects/-home-ymajoros-Documents-Genealogie-Majoros-Kramer/memory/feedback_sources_primaires.md).
+Les premiers dépouillements via WebFetch sur les bases agrégées (OSZK DSpace, delacharlerie.monrezo.be) ont produit des résultats **hallucinés** — deux fetches successifs de la même URL retournant des données incompatibles. Règle : pour toute donnée factuelle issue d'une base d'archives, exiger le **fac-similé capturé** ou l'**OCR vérifié via Chrome** avant intégration au narratif principal. Voir [feedback_sources_primaires.md](../../.claude/projects/-home-ymajoros-Documents-Genealogie-Majoros-Kramer/memory/feedback_sources_primaires.md).
