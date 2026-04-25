@@ -225,21 +225,34 @@ Hungaricana : [FszekCimNevTarak_20_019_12, page 197](https://library.hungaricana
 
 **[✓ *orig. famille*]** **Origines géographiques** — selon la légende manuscrite de Michel Majoros sur le tirage : *Sarolta Beck de Komárom, Zsigmond Kramer de Nyitra* (aujourd'hui Nitra, Slovaquie).
 
-#### Filiation paternelle de Kramer Zsigmond — ÉTABLIE (FamilySearch + OSZK, 25 avril 2026)
+#### Filiation paternelle de Kramer Zsigmond — ÉTABLIE (image originale acte civil + 4 actes de fratrie, 25 avril 2026)
 
-**[✓ *documenté*]** **Père : Kramer Ármin** ; **Mère : née Braun (prénom non lu)** — par l'**acte civil hongrois de décès n° 785** (Budapest VII. kerület, Halottak 1928), indexé FamilySearch [`6TFN-D6MW`](https://www.familysearch.org/ark:/61903/1:1:6TFN-D6MW). Citation officielle :
+**[✓ *documenté, source primaire image*]** **Père : Kramer Ármin** (déjà *néhai* en 1928) ; **Mère : Brunn (Braun) Jozefa** — par lecture directe de l'**image originale** de l'acte civil hongrois n° 785 (Budapest VII. kerület, Halottak 1928, **viewer FS image 154 du sub-volume**, ARK [`S3HT-D553-567`](https://www.familysearch.org/ark:/61903/3:1:S3HT-D553-567?cc=1452460&lang=en)) couplée à l'**Image Index FS structuré**.
 
-> *"Hungary, Civil Registration, 1895-1980", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:6TFN-D6MW : Tue Sep 17 14:15:28 UTC 2024), Entry for Kramer Zsigmond and Kramer Ármin, 16 May 1928.*
+> *Citation : "Hungary, Civil Registration, 1895-1980", FamilySearch ([6TFN-D6MW](https://www.familysearch.org/ark:/61903/1:1:6TFN-D6MW) : Tue Sep 17 14:15:28 UTC 2024), Entry for Kramer Zsigmond and Kramer Ármin, 16 May 1928.*
 
-L'acte donne aussi : **âge 56**, **né en 1872**, **épouse Beck Sarolta**, lieu Budapest, et confirme l'inhumation au **cimetière israélite de Kozma utca** (Find a Grave Index, ARK [`Q2WB-X6BB`](https://www.familysearch.org/ark:/61903/1:1:Q2WB-X6BB)).
+L'acte donne aussi : **âge 56**, **né en 1872**, **épouse Beck Sarolta**, **domicile V. Lipót-körút 11**, **profession magántisztviselő** (employé privé). Inhumation au **cimetière israélite de Kozma utca** (Find a Grave [`Q2WB-X6BB`](https://www.familysearch.org/ark:/61903/1:1:Q2WB-X6BB)).
 
-**[✓ *recoupement OSZK*]** Le **faire-part de Stern Józsefné née Beck Gizella († 6 janvier 1901, Pécs)** — copie locale `actes/archives-web/oszk-gyaszjelentesek/Stern_Jozsefne_Beck_Gizella_1901.jpg`, OSZK handle [577533](http://hdl.handle.net/20.500.12346/577533) — précise la **branche maternelle** :
+**[✓ *recoupement par 4 actes FS de fratrie*]** Quatre actes civils hongrois indépendants confirment **Brunn Jozefa × Kramer Ármin** comme parents d'enfants Kramer :
 
-> Beck Jánosné szül. **Stein Rozália** anyja […] Kramer Ármin sógor. [Beck Márton, **Beck Nina, férj. Kramer Árminné**, Beck Zsigmond] testvérei.
+| Enfant | Acte | Date | Conjoint |
+|---|---|---|---|
+| **Kramer Sámuel** | mariage | 5 oct 1924, Budapest | Göttler Fanni |
+| **Kramer Rozália / Krammer Róza** (~1871-20.12.1933) | mariage 1920 + décès 1933 | 3 nov 1920 + 20 déc 1933 | Perlhefter Fábián |
+| **Kramer Julia** (1877-21.10.1962) | décès | 21 oct 1962 Budapest | Frank Mór |
+| **Kramer Zsigmond** (1872-16.5.1928) — *notre lignée* | décès | 16 mai 1928 | Beck Sarolta |
 
-→ La mère biologique de notre Zsigmond est donc **Beck Nina** (sœur de Beck Gizella), épouse de Kramer Ármin. Les **grands-parents maternels** sont **Beck János × Stein Rozália** (Stein Rozália toujours vivante en janvier 1901). Le prénom *Zsigmond* est probablement hérité de l'oncle maternel **Beck Zsigmond**.
+→ **Brunn Jozefa est la mère biologique de notre Zsigmond et de 3 frères/sœurs** : Sámuel, Rozália/Róza, Julia.
 
-> **Tension à résoudre** : l'index FS lit la mère « Braun » alors que le faire-part 1901 nomme « Beck Nina ». Hypothèses : (i) erreur d'indexation FS (le scan reste à capturer), (ii) « Braun » serait le nom de jeune fille de Beck Nina (Beck étant nom d'épouse), (iii) deux épouses successives de Kramer Ármin. La résolution exige la lecture directe de l'image originale (Image 155 du film FS 004429565). Voir [docs/famille_kramer_zsigmond_arbre_2026-04-25.md](docs/famille_kramer_zsigmond_arbre_2026-04-25.md).
+**Sépulture probable de Brunn Jozefa** : Find a Grave [`Q2WB-LX1R`](https://www.familysearch.org/ark:/61903/1:1:Q2WB-LX1R) — « Arminne Braun Kramer », Burial 1925 Budapest, Kozmatur (= cimetière Kozma utca), Birth 1840 → décédée à 85 ans en **1925**, **3 ans avant son fils Zsigmond**.
+
+> **Note d'indexation** : l'index FS de l'acte 785 a *séparé incorrectement* « Brunn Jozefa » en deux personae distinctes (« Braun » comme *Mother's Name* et « Jozefa » comme *Spouse's Mother's Name*) — c'est en réalité **une seule personne** : la mère de Zsigmond.
+
+**[? *piste à investiguer*]** Le **faire-part OSZK Stern Józsefné née Beck Gizella († 6 janvier 1901, Pécs)** — handle [577533](http://hdl.handle.net/20.500.12346/577533), copie locale `actes/archives-web/oszk-gyaszjelentesek/Stern_Jozsefne_Beck_Gizella_1901.jpg` — nomme « **Kramer Ármin sógor** » et liste « **Beck Nina, férj. Kramer Árminné** » dans la fratrie Beck. Combiné avec un acte FS de naissance de **Krammer Juliánna née 10 mai 1896** (parents Krammer Armin × **Beck Nanetta**, ARK [`6JB3-SJ3R`](https://www.familysearch.org/ark:/61903/1:1:6JB3-SJ3R)), cela suggère que :
+
+→ **Beck Nina (= Nanetta)** était une **seconde épouse / compagne** de Kramer Ármin (post-1885 environ), avec qui il eut au moins **Krammer Juliánna (1896)**, demi-sœur paternelle de Zsigmond. Elle n'est donc **pas la mère biologique** de notre Zsigmond.
+
+→ La branche maternelle directe de Zsigmond passe par **Brunn Jozefa** (origine à investiguer — Nyitra ?). Voir [docs/famille_kramer_armin_brunn_jozefa_2026-04-25.md](docs/famille_kramer_armin_brunn_jozefa_2026-04-25.md) pour l'analyse complète.
 
 #### Filiation maternelle de Beck Sarolta — par arbre FS (25 avril 2026)
 
