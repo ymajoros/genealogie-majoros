@@ -4,21 +4,52 @@
 
 - **Profil Geneanet** : `fgssoc` = **Françoise GUEUR** (Premium member)
 - **Adresse** : Rue Général de Gaulle 268, 6180 Courcelles, Belgique
-- **Volume** : 4 184 individus, 1 638 noms de famille (mise à jour 24.4.2026)
-- **Lien familial** : ⭐ **2e épouse de Ferenç Majoros** (mariée 26.5.1976 Uccle) → **belle-mère de Yannick Majoros**
+- **Volume** : 4 184 individus, 1 638 noms de famille (mise à jour 25.4.2026)
+- **Lien familial** : ⭐ **Ex-épouse divorcée de Michel Majoros**, donc **mère biologique de Yannick Majoros** (Yannick = fils de Michel × Françoise Gueur)
 - **Source pour la branche Majoros** : « Yannick et Michel Majoros » + « Famille Majoros » (= contributions familiales directes)
+
+⚠️ **Erreur dans l'arbre fgssoc** : l'arbre indique Françoise Gueur mariée 26.5.1976 Uccle à **Ferenç Majoros** (1923-2008). C'est **faux** — elle a été mariée à **Michel Majoros** (fils de Ferenç et de Jurgita Smolski). Probable saisie inversée par Françoise dans son propre arbre. Cette correction est confirmée par l'arbre `michelmajoros` (cf. infra).
+
+## Arbre `michelmajoros` (Michel Majoros, père de Yannick)
+
+- 31 individus, mise à jour 8 avril 2026
+- Maintenu par **Michel Majoros** (Sosa 1)
+- Spouses listés pour Michel :
+  - Christine Degehet
+  - **Françoise Gueur (divorced) → Yannick Majoros** ⭐
+  - Valérie Vanderkelen → Nathanaël Majoros + Karim Majoros
+  - Nora Claes
 
 ## Branche Geelens-Parisis-Stembert (Verviers)
 
-### Mathieu Joseph GEELENS (~1855, Verviers)
+### Mathieu Joseph GEELENS (~1855 Verviers – ~1933)
 
 - Né environ 1855 à Verviers
+- **Décédé environ 1933** (selon arbre `michelmajoros`)
 - Profession : **Courtier dans l'industrie lainière**
-- Marié à **Eugénie PARISIS** (1860)
-- Enfant : Germaine Geelens (épouse Smalstys)
-- **Parents inconnus dans fgssoc** (fratrie de Germaine — Maurice et Alberte — absents de l'arbre fgssoc)
+- Marié à **Eugénie PARISIS** (~1860 – ~1934, selon arbre `michelmajoros`)
+- 3 enfants identifiés :
+  - **Germaine GEELENS** (1887/1888 – 1960)
+  - **Alberte GEELENS** (Verviers, déc., enseignante — confirmée par arbre `michelmajoros`)
+  - **Maurice Joseph Adrien Marie GEELENS** (1.7.1890 Verviers – **19.10.1926 Paris 14e**, 36 ans) ⭐
+- **Parents de Mathieu Joseph inconnus** dans fgssoc et dans `michelmajoros`
 
-→ Recherche complémentaire à mener pour les parents de Mathieu Joseph GEELENS et la fratrie de Germaine.
+### Acte de décès Maurice Geelens (Paris 1926)
+
+Source : Archives départementales de Paris, registres de décès Paris 14e arr., index alphabétique 1926, **entry n° 5381**. Référence V3E + 5MI. Transcrit par Ancestry, indexé sur Geneanet (compte `colgnecac75d` #117325).
+
+| Champ | Valeur |
+|---|---|
+| Nom complet | GEELENS Maurice Joseph Adrien Marie |
+| Sexe | Homme |
+| Naissance | 1er juillet 1890 — Verviers (Belgique) |
+| Décès | 19 octobre 1926 — Paris 14e arrondissement, France |
+| Père | GEELENS Mathieu Joseph |
+| Mère | PARISIS Eugénie |
+
+→ **Confirme** le témoignage Michel Majoros transmis par Yannick : « Maurice Geelens † 1926 » — date précise et lieu identifiés.
+
+⚡ **Coïncidence chronologique** : Germaine Geelens revient en Belgique en 1926 avec sa fille Jurgita (source : CArCoB PP 23). La même année, son frère Maurice meurt à Paris (octobre 1926). Possible lien — passage par Paris ou raison familiale.
 
 ### Lignée Parisis (4 générations)
 

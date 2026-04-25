@@ -502,7 +502,12 @@ Voir [docs/famille_kramer_zsigmond_arbre_2026-04-25.md](docs/famille_kramer_zsig
 
 (fichier annexé : `actes/CArCoB-inventaire-Smolski-Jurgita-PP23.pdf`)
 
-**[✓ témoignage direct]** **Fratrie mentionnée par Germaine à Michel** : un frère **Maurice Geelens**, décédé en **1926**, et une sœur **Alberte Geelens**. Pistes : actes d'état civil Verviers (registres de décès 1926 pour Maurice ; naissance/mariage/décès pour Alberte) ; `Arbeid-adelt.be` ou registres paroissiaux verviétois.
+**[✓ témoignage direct + acte primaire]** **Fratrie de Germaine** :
+
+- **Maurice Joseph Adrien Marie GEELENS** — né **1er juillet 1890 Verviers** (Belgique), décédé **19 octobre 1926 Paris 14e** (36 ans). Source : Archives départementales de Paris, registres de décès Paris 14e 1926, entry n° 5381 (V3E/5MI), transcrit Ancestry, indexé Geneanet `colgnecac75d` #117325. Coïncidence : décès de Maurice à Paris peu de mois après le retour de Germaine en Belgique avec Jurgita.
+- **Alberte GEELENS** — Verviers, Belgique. Profession : **enseignante** (comme sa sœur Germaine). Source : arbre Geneanet `michelmajoros` maintenu par Michel Majoros.
+
+**[✓]** **Dates approximatives des parents** (selon arbre `michelmajoros`) : Mathieu Joseph Geelens **~1855 – ~1933**, Eugénie Parisis **~1860 – ~1934**.
 
 ## 5. Ferenc Imre Majoros (Budapest 1923 – Köln 2008)
 
