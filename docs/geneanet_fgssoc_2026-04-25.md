@@ -51,40 +51,83 @@ Source : Archives départementales de Paris, registres de décès Paris 14e arr.
 
 ⚡ **Coïncidence chronologique** : Germaine Geelens revient en Belgique en 1926 avec sa fille Jurgita (source : CArCoB PP 23). La même année, son frère Maurice meurt à Paris (octobre 1926). Possible lien — passage par Paris ou raison familiale.
 
-### Lignée Parisis (4 générations)
+### Lignée Parisis (sources : `pbaudon` Paulette Baudon, fgssoc)
 
 ```
-Jean Joseph PARISIS × Anne Barbe GUSTIN
+Jean Joseph PARISIS (~1790) × Anne Barbe GUSTIN (~1797)
               │
-              └── Dieudonné Antoine PARISIS (1821-1887)
-                          │ ⚭
-                          Marie Catherine STEMBERT (1825) — fille de Mathieu Joseph STEMBERT × Marie Jeanne Joseph FRANCOTTE
-                          │
-                          └── Eugénie PARISIS (1860)
-                                      │ ⚭
-                                      Mathieu Joseph GEELENS (~1855)
-                                      │
-                                      └── Germaine GEELENS
-                                                  │ ⚭ (1) Jurgis SMALSTYS
-                                                  └── Yurgita SMOLSKI (1920-2012)
-                                                              │ ⚭ 1948 Verviers
-                                                              Ferenç MAJOROS (1923-2008)
+              ├── Dieudonné Antoine Joseph PARISIS (26.4.1821 Thimister – 1887, tisserand & boulanger)
+              │           │ ⚭ 29.8.1850 Verviers (acte 161)
+              │           Marie Catherine STEMBERT (1825-1899)
+              │           │
+              │           └── Eugénie PARISIS (~1860 – ~1934)
+              │                       │ ⚭
+              │                       Mathieu Joseph GEELENS (~1855 – ~1933, courtier industrie lainière)
+              │                       │
+              │                       ├── Germaine GEELENS (~1887 – 1960, institutrice decrolyenne) ⚭ Jurgis SMALSTYS
+              │                       ├── Maurice Joseph Adrien Marie GEELENS (1.7.1890 Verviers – 19.10.1926 Paris 14e)
+              │                       └── Alberte GEELENS (Verviers, enseignante)
+              │
+              └── Mathieu Joseph PARISIS (~1825) — frère de Dieudonné, possible parrain du futur Mathieu Joseph Geelens
 ```
 
-### Lignée Stembert (3 générations)
+### Lignée Stembert-Francotte (5 générations, source `pbaudon`)
 
 ```
-Guillaume Paschal Joseph STEMBERT × Marie Catherine BOUILLARD
-                    │
-                    └── Mathieu Joseph STEMBERT (1.6.1795 Verviers – 3.6.1861 Verviers, 66 ans)
-                                │ ⚭
-                                Marie Jeanne Joseph FRANCOTTE (1797-1852)
-                                — fille de Toussaint FRANCOTTE × Jeanne Hubertine GILSEN
-                                │
-                                └── Marie Catherine STEMBERT (1825) ⚭ Dieudonné Antoine PARISIS
+Jean François STEMBERT (†1774) × Marie Isabelle ALDENHOF
+                │
+                └── Martin Joseph STEMBERT (1736-1795) × Pétronille FAIRON (1735-1767)
+                            │
+                            └── Guillaume Paschal Joseph STEMBERT (1764-1836) × Marie Catherine BOUILLARD (†1828)
+                                        │
+                                        ├── Martin Joseph STEMBERT (1793-1849)
+                                        ├── Mathieu Joseph STEMBERT (1.6.1795 Verviers – 3.6.1861 Verviers, tisserand)
+                                        │           │ ⚭ 31.5.1815 Verviers (acte 69)
+                                        │           Marie Jeanne Joseph FRANCOTTE (1797-1852)
+                                        │           │ — fille de Toussaint Joseph FRANCOTTE × Jeanne Hubertine GILSEN
+                                        │           │
+                                        │           ├── Guillaume Joseph (1816-1816)
+                                        │           ├── Jeanne Hubertine Joseph (1819-1853) ⚭ Nicolas Joseph FOLLMAN 1838
+                                        │           ├── Mathieu Joseph (1821-1897)
+                                        │           ├── Jean Isidore (1824-1875) avec Marie Thérèse COUMONT
+                                        │           ├── ⭐ Marie Catherine (1825-1899) ⚭ 29.8.1850 Dieudonné Antoine Joseph PARISIS
+                                        │           ├── Jacques (1826-)
+                                        │           ├── Albertine Françoise (1829-1907)
+                                        │           ├── Angéline (1832-1866) ⚭ Jean Quirin Joseph MISSE 1859
+                                        │           ├── Toussaint Martin (1835-1893) ⚭ Marie Antoinette PAGNOULLE 1860
+                                        │           └── Garçon (1838-1838)
+                                        ├── Guillaume Joseph (1797-1866)
+                                        ├── Hubert Joseph (1800-1801)
+                                        ├── Marie Catherine (1802-1879)
+                                        └── Marie (~1806-1825)
 ```
 
-Source Geneanet : « Michèle Feryn / Geneanet ».
+Note manuscrite sur l'acte de mariage 1815 : « Témoins : Martin Stembert tisserand 46 ans, Jean Hubert Martin tisserand 24 ans, Nicolas Bastin tisserand 25 ans (3 oncles), Martin Joseph Stembert tisserand 22 ans (frère) ». **Cinq tisserands à un seul mariage** = milieu intégralement textile-Verviers.
+
+Sources : arbres Geneanet `pbaudon` (Paulette BAUDON, 13 772 ind), `milleur` (24 025 ind), `chrishenn`, `rstembert`. Indexation actes Liège (mariage 1815 acte 69, mariage 1850 acte 161, décès 1861 acte 411).
+
+### Lignée Geelens-Nokin (parents probables de Mathieu Joseph, source `mdelbrouck`)
+
+⚠️ **HYPOTHÈSE FORTE NON ENCORE CONFIRMÉE** : le **Joseph GEELENS (~1855, commissionnaire en draperie)** trouvé dans l'arbre Geneanet `mdelbrouck` (Marc DELBROUCK, 2 161 ind) serait notre **Mathieu Joseph GEELENS** (Mathieu = Mathias en wallon, "Joseph" tout court = abréviation du composé "Mathieu Joseph").
+
+```
+Jean Joseph NOKIN (†1795) × Catherine Joseph BAIRIN (1752)
+                                  │
+                                  └── Joseph NOKIN (1790-1861) × Jeanneton GUYOT (~1806)
+                                              │
+Mathias GEELENS (†1833) × Jeanne Marie FRYNS (†1842)
+                │
+                └── Mathias GEELENS (1827) × Marie NOKIN (1827-1897)
+                            │
+                            └── Joseph GEELENS (~1855, commissionnaire en draperie)
+                                       — présent comme témoin au décès de sa mère Marie NOKIN en 1897
+                                       — = potentiellement notre Mathieu Joseph Geelens
+                                         (cohérence : 1855 Verviers + draperie = lainerie)
+```
+
+→ **À confirmer** par : acte de mariage Geelens × Parisis (~1885 Verviers ?) qui mentionnerait les parents du marié, et acte de naissance de Joseph GEELENS 1855 Verviers.
+
+Note : si confirmé, **6 générations Geelens** seraient documentées (jusqu'à Jean Joseph Nokin †1795).
 
 ## Branche Smolski / Smalstys (Kamajai, Lituanie)
 

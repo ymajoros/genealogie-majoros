@@ -479,11 +479,13 @@ Voir [docs/famille_kramer_zsigmond_arbre_2026-04-25.md](docs/famille_kramer_zsig
 
 **[✓]** **Dates** : née à Verviers (1887 selon *Mémoire balte*, qui indique « 32 ans en 1919 » ; 1888 selon Wikipedia EN) — décédée en 1960.
 
-**[✓]** **Parents** : **Mathieu Joseph Geelens** (~1855 Verviers, *courtier dans l'industrie lainière*) × **Eugénie Parisis** (1860, fille de **Dieudonné Antoine Parisis** 1821-1887 × **Marie Catherine Stembert** 1825). Source : arbre Geneanet *fgssoc* (Françoise Gueur, 2e épouse de Ferenç Majoros) — sourcé Michèle Feryn / Geneanet.
+**[✓]** **Parents** : **Mathieu Joseph Geelens** (~1855 Verviers – ~1933, *courtier dans l'industrie lainière*) × **Eugénie Parisis** (~1860 – ~1934). Source : arbres Geneanet *fgssoc* (Françoise Gueur, ex-épouse de Michel Majoros, mère biologique de Yannick — sourcé Michèle Feryn) et *michelmajoros* (Michel Majoros).
 
-**[✓]** **Ascendance maternelle (Stembert-Francotte)** : Marie Catherine Stembert est la fille de **Mathieu Joseph Stembert** (1.6.1795 Verviers – 3.6.1861 Verviers) × **Marie Jeanne Joseph Francotte** (1797-1852). Grands-parents Stembert : **Guillaume Paschal Joseph Stembert × Marie Catherine Bouillard**. Grands-parents Francotte : **Toussaint Francotte × Jeanne Hubertine Gilsen**. Source : Geneanet fgssoc / Michèle Feryn.
+**[◐ hypothèse forte à confirmer]** **Parents de Mathieu Joseph Geelens** : **Mathias Geelens** (1827) × **Marie Nokin** (1827-1897), selon arbre Geneanet *mdelbrouck* (Marc Delbrouck) qui indexe un *Joseph Geelens* né ~1855 Verviers, *commissionnaire en draperie*, témoin au décès de sa mère Marie Nokin en 1897. Cohérence : Verviers + draperie/lainerie + Mathieu = Mathias en wallon. À confirmer par acte de mariage Geelens × Parisis (~1885 Verviers).
 
-**[✓]** **Ascendance Parisis** : Dieudonné Antoine Parisis (1821-1887) est le fils de **Jean Joseph Parisis × Anne Barbe Gustin**. Source : Geneanet fgssoc / Michèle Feryn.
+**[✓]** **Ascendance maternelle (Stembert-Francotte)** : Marie Catherine Stembert (**1825-1899**) est la fille de **Mathieu Joseph Stembert** (1.6.1795 – 3.6.1861 Verviers, **tisserand**) × **Marie Jeanne Joseph Francotte** (1797-1852, ⚭ 31.5.1815 Verviers, acte 69). Mathieu Joseph Stembert avait 10 enfants. Sa fratrie : Martin Joseph (1793-1849), Guillaume Joseph (1797-1866), Hubert Joseph (1800-1801), Marie Catherine (1802-1879), Marie (~1806-1825). Grands-parents Stembert : **Guillaume Paschal Joseph Stembert (1764-1836) × Marie Catherine Bouillard (†1828)**. Arrière-grands-parents : Martin Joseph Stembert (1736-1795) × Pétronille Fairon (1735-1767), eux-mêmes fils de Jean François Stembert (†1774) × Marie Isabelle Aldenhof (5 générations remontées). Grands-parents Francotte : **Toussaint Joseph Francotte × Jeanne Hubertine Gilsen**. Source : Geneanet *pbaudon* (Paulette Baudon, 13 772 ind).
+
+**[✓]** **Ascendance Parisis** : **Dieudonné Antoine Joseph Parisis** né **26 avril 1821 Thimister**, profession **tisserand & boulanger**, marié **29 août 1850 Verviers** (acte 161) à Marie Catherine Stembert. Frère : Mathieu Joseph Parisis (~1825). Parents : **Jean Joseph Parisis (~1790) × Anne Barbe Gustin (~1797)**. Source : Geneanet *pbaudon*.
 
 **[✓]** **Profession** : institutrice belge, pratiquant les méthodes d'Ovide Decroly (source : [*Mémoire balte*](http://fle.paixactive.org/memoire-balte/)).
 
