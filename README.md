@@ -479,6 +479,8 @@ Voir [docs/famille_kramer_zsigmond_arbre_2026-04-25.md](docs/famille_kramer_zsig
 
 **[✓]** **Dates** : née à Verviers (1887 selon *Mémoire balte*, qui indique « 32 ans en 1919 » ; 1888 selon Wikipedia EN) — décédée en 1960.
 
+**[✓]** **Parents** : **Mathieu Joseph Geelens** × **Eugénie Parisis** (source : arbre Geneanet *fgssoc*). Mathieu Joseph Geelens est l'ancêtre commun avec la branche Geneanet *fgssoc*.
+
 **[✓]** **Profession** : institutrice belge, pratiquant les méthodes d'Ovide Decroly (source : [*Mémoire balte*](http://fle.paixactive.org/memoire-balte/)).
 
 **[✓]** **Rencontre avec Jurgis** : Bruxelles, vers 1910, à la Nouvelle Université (*Mémoire balte*).
