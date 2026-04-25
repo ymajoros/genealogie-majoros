@@ -73,3 +73,48 @@ L'endpoint `oper=moreinfo&id=ID` retourne les co-occupants de la même tombe (pa
 2. **Lea Kramér Goldstein 1902-?** : destin pendant la Shoah — Yad Vashem (Page of Testimony à chercher).
 3. **Kramer Lászlóné Stern Irén** : si elle a eu une fille **Mária / Marishka**, c'est notre candidate principale pour la « Marishka » des années 80. À chercher dans BFL ou registres post-1985.
 4. **Sámuel Kramer × Göttler Fanni 1924** : pas trouvé à Kozma — peut-être encore vivant après 1985 (born ~1880-1890, possible centenary), ou enterré ailleurs.
+
+## CORRECTION 25 avril 2026 (matin)
+
+### Stern Irén = épouse de notre Dr. László Kramer ? À CONFIRMER
+
+**Le rattachement n'est PAS établi avec certitude.** Les indices concordants :
+
+- L'avis de décès de Sarolta Beck (*Pesti Napló* 4.7.1937) cite « **dr. Kramer Lászlóné menye** » (sa belle-fille, donc épouse de László) sans la nommer.
+- Une seule **Kramer Lászlóné Stern Irén** (1899-1985) est inhumée à Kozma utca, parc.U/1/sor.33/sir.18.
+- László a émigré au Brésil en 1946 (« sous le nom de Cantor » selon Michel Majoros).
+- Stern Irén † 1985 à Budapest, donc **n'a pas suivi** à São Paulo si elle est notre belle-grand-tante.
+
+**Mais** :
+- Plusieurs **Kramer László** existaient à Budapest dans cette génération (homonymie courante).
+- Sans **acte de mariage civil** (BFL Budapest) ou **acte de décès Stern Irén** (1985) qui nomme explicitement le mari, le rattachement reste hypothétique.
+- Il est aussi possible que la véritable épouse de notre Dr. László l'ait accompagné au Brésil et n'apparaisse pas dans les registres hongrois.
+
+**Action requise** : récupérer l'acte de décès de Stern Irén 1985 sur FS Hungary Civil Registration (qui couvre jusqu'à 1980, donc 1985 est limite — possible ou pas) ; ou consulter BFL pour acte de mariage Kramer László × Stern Irén.
+
+### Kramer Ármin : où est-il enterré ?
+
+Confirmé non inhumé à Kozma utca. Pistes par ordre de probabilité :
+
+1. **Cimetière israélite de Komárom** (lieu d'origine de Sarolta Beck — possible aussi de Kramer Ármin par alliance) — base Komárom à explorer
+2. **Cimetière israélite de Nyitra / Nitra** (lieu d'origine attribué de Kramer Zsigmond — pourrait l'être aussi pour Ármin) — registres slovaques
+3. **Cimetière israélite de Pozsony / Bratislava** — registres slovaques
+4. **Cimetière israélite Csörsz utcai (orthodoxe) à Budapest** — alternative à Kozma
+5. **Cimetière israélite Salgótarjáni utcai** (un des 3 cimetières juifs de Pest)
+6. **Décédé à l'étranger** (peu probable)
+
+L'absence de sépulture commune avec Brunn Jozefa (parc.40/sor.66/sir.20, sépulture individuelle) suggère qu'il est mort **avant** elle (probablement 1900-1925) et inhumé séparément, ou ailleurs.
+
+### Krammer Róza × Perlhefter Fábián †1933 : pas à Kozma non plus
+
+0 résultats pour Perlhäfter / Perlhefter / Perlheffer dans la base Kozma. Donc inhumés ailleurs (cimetière israélite Csörsz, ou autre).
+
+### Lea Kramér × Goldstein Jenő : pas à Kozma
+
+0 résultats pour « Goldstein Jenőné Kramer Lea » ni pour « Kramer Lea ». 
+
+**Hypothèse forte : victimes de la Shoah 1944**.
+- Mariés 28.8.1936 Budapest, donc Juifs hongrois sous le régime Horthy puis Szálasi
+- Pas de sépulture connue à Kozma ni Salgótarjáni
+- À vérifier sur **Yad Vashem Names Database** (recherche manuelle JS, accès Chrome requis)
+- À vérifier sur **MAZSIHISZ Holocaust victim register**
