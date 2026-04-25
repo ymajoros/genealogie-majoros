@@ -77,7 +77,7 @@ Confirme la fratrie szinóbányai (Jakab, Rezső, József + Cecília) en 1906. N
 
 | Question | État | Prochaine action |
 |---|---|---|
-| Parents de Kramer Ármin (notre, ~1840-1850) | Inconnus. fgssoc dit « Jozsef Kramer » mais sans source | Acte de naissance Ármin (Slovaquie/Komárno/Nitra registres juifs avant 1895) |
+| Parents de Kramer Ármin (notre, ~1840-1850) | Inconnus. (fgssoc indique « Jozsef Kramer » mais c'est une donnée dérivée de notre propre dépôt via Yannick/Michel — pas une source indépendante) | Acte de naissance Ármin (Slovaquie/Komárno/Nitra registres juifs avant 1895) |
 | Brunn Jozefa origine (~1840) | Inconnue. Sépulture Kozma 1925 seule source | Slovak Jewish records, base Macse, JewishGen |
 | Lien Ármin × szinóbányai | Pas attesté. Hypothèse de cousinage éloigné via un frère cadet d'Ignácz patriarche | Recherche acte de naissance d'Ignácz 1789 (Slovaquie) → identifier sa fratrie complète |
 | Lea Kramér × Goldstein Jenő — destin | Probablement Shoah 1944, non documenté FS | Yad Vashem recherche manuelle, USHMM, MAZSIHISZ |
@@ -91,7 +91,7 @@ Confirme la fratrie szinóbányai (Jakab, Rezső, József + Cecília) en 1906. N
 
 1. **szinóbányai Kramer (homonymes anoblis 1906)** : famille distincte de la nôtre par les preuves directes. Mais possiblement parents lointains via un frère cadet du patriarche Ignácz Kramer (1789-1881) — non prouvé.
 2. **Krammer Baja (Krammer Jakab × Stern Netti, ~1820-1907 Baja)** : famille Krammer du sud de la Hongrie, sans lien établi avec Nyitra/Komárom. Coïncidence onomastique sans plus.
-3. **Ármin Krámer 1843-1895 × Bürger Mária (Tree FS P99Q-5PV)** : parents Jozsef Kramer × Katalin Engl. Si « Jozsef » de fgssoc est le grand-père, ce Jozsef-là pourrait être lié — mais les enfants ne correspondent pas (Hermin, Gizella, József, Klotild, Ernestina ≠ Zsigmond/Júlia/Sámuel/Róza). Probable homonymie.
+3. **Ármin Krámer 1843-1895 × Bürger Mária (Tree FS P99Q-5PV)** : parents Jozsef Kramer × Katalin Engl. Les enfants ne correspondent pas (Hermin, Gizella, József, Klotild, Ernestina ≠ Zsigmond/Júlia/Sámuel/Róza) — homonymie. (Note : le « Jozsef » que fgssoc cite comme père de Zsigmond n'est pas indépendant ; ses données Kramer sont dérivées des nôtres via Yannick/Michel.)
 4. **Krámer Ignácz 1832-1901 × Singer Regina (parents Kramer Mayer × Leicht Mária)** : nouveau couple repéré. À investiguer.
 
 ## Stratégie pour la suite
