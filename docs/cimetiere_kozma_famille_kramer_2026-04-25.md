@@ -29,17 +29,21 @@ API découverte : `/wp-admin/admin-ajax.php?action=db_call&oper=search` (Angular
 |---|---|---|---|---|---|
 | **Frank Mórné Kramer Julia** | 1877 | 21 octobre 1962 | 85 | 265765 | parc. 38/D / sor. 33 / sir. 26 |
 
-### Kramer Lászlóné Stern Irén — épouse probable de notre Dr. László Kramer
+### Kramer Lászlóné Stern Irén — ❌ HYPOTHÈSE INVALIDÉE 25.4.2026 soir
 
 | Nom indexé | Naissance | Décès | Âge | ID base | Tombe |
 |---|---|---|---|---|---|
 | **Kramer Lászlóné Stern Irén** | **1899** | **16 janvier 1985** | **86** | 287008 | parc. U/1 / sor. 33 / sir. 18 |
 
-**Hypothèse** : épouse de notre Dr. **Kramer László** (1900?-? Brésil), restée à Budapest après son émigration au Brésil en 1946 (László → Cantor à São Paulo per témoignage Michel Majoros).
+**INVALIDATION (25 avril 2026, soir)** : la recherche FS Hungary Civil Registration sur László Kramer × Irén Stern retourne un **AUTRE** Krammer László :
 
-→ Stern Irén est **seule dans sa tombe** (parcelle U/1 = section ajoutée dans les années 1970-80). Cohérent avec un mari ailleurs (Brésil).
+> **Krammer László** — Death Registration **31 juillet 1954 Jászapáti**, Death **15 novembre 1944**, Parents **Weisz Rozália × Krammer Lipót**, Spouse **Stern Krammer Irén**
 
-→ **Si Marishka (visiteuse années 80s) était une fille de László × Stern Irén**, elle serait nièce de Maria et cousine de Ferenc. Stern Irén morte 1985 à 86 ans (née 1899) → enfants probables nés 1920-1940.
+→ Stern Irén (1899-1985) est l'épouse de **CE Krammer László** (parents Weisz Rozália × Krammer Lipót, mort 15.11.1944), **et NON de notre Dr. László Kramer** (parents Zsigmond × Sarolta Beck, émigré au Brésil 1946 sous le nom Cantor).
+
+→ La tombe individuelle parc.U/1 de Stern Irén à Kozma s'explique : son mari Krammer László † 15.11.1944 (probablement Shoah hongroise — la death registration différée à 1954 est typique des décès du génocide non documentés en temps réel). Pas de sépulture identifiée pour le mari.
+
+**Conclusion** : l'épouse réelle de notre Dr. László Kramer reste **inconnue**. Possibilités : partie au Brésil avec lui en 1946 ; décédée avant 1946 ; non encore identifiée dans les registres hongrois.
 
 ## Membres de famille NON présents au cimetière Kozma
 
@@ -74,23 +78,34 @@ L'endpoint `oper=moreinfo&id=ID` retourne les co-occupants de la même tombe (pa
 3. **Kramer Lászlóné Stern Irén** : si elle a eu une fille **Mária / Marishka**, c'est notre candidate principale pour la « Marishka » des années 80. À chercher dans BFL ou registres post-1985.
 4. **Sámuel Kramer × Göttler Fanni 1924** : pas trouvé à Kozma — peut-être encore vivant après 1985 (born ~1880-1890, possible centenary), ou enterré ailleurs.
 
-## CORRECTION 25 avril 2026 (matin)
+## CORRECTION 25 avril 2026 (soir) — Stern Irén RÉFUTÉ
 
-### Stern Irén = épouse de notre Dr. László Kramer ? À CONFIRMER
+### Stern Irén n'est PAS l'épouse de notre Dr. László Kramer
 
-**Le rattachement n'est PAS établi avec certitude.** Les indices concordants :
+**Réfutation établie 25 avril 2026 (soir)** : la recherche FS Hungary Civil Registration `q.givenName=László&q.surname=Kramer&q.spouseGivenName=Irén&q.spouseSurname=Stern` retourne un AUTRE couple :
 
-- L'avis de décès de Sarolta Beck (*Pesti Napló* 4.7.1937) cite « **dr. Kramer Lászlóné menye** » (sa belle-fille, donc épouse de László) sans la nommer.
-- Une seule **Kramer Lászlóné Stern Irén** (1899-1985) est inhumée à Kozma utca, parc.U/1/sor.33/sir.18.
-- László a émigré au Brésil en 1946 (« sous le nom de Cantor » selon Michel Majoros).
-- Stern Irén † 1985 à Budapest, donc **n'a pas suivi** à São Paulo si elle est notre belle-grand-tante.
+| Champ | Valeur |
+|---|---|
+| Name | **Krammer László** |
+| Death | **15 novembre 1944** |
+| Death Registration | **31 juillet 1954 Jászapáti**, Jász-Nagykun-Szolnok |
+| Parents | **Weisz Rozália × Krammer Lipot** |
+| Spouse | **Stern Krammer Irén** |
 
-**Mais** :
-- Plusieurs **Kramer László** existaient à Budapest dans cette génération (homonymie courante).
-- Sans **acte de mariage civil** (BFL Budapest) ou **acte de décès Stern Irén** (1985) qui nomme explicitement le mari, le rattachement reste hypothétique.
-- Il est aussi possible que la véritable épouse de notre Dr. László l'ait accompagné au Brésil et n'apparaisse pas dans les registres hongrois.
+→ Cette Stern Irén est **clairement** l'épouse de Krammer László (parents Weisz/Lipót, mort 1944), **pas** de notre Dr. László (parents Zsigmond × Sarolta, parti au Brésil 1946).
 
-**Action requise** : récupérer l'acte de décès de Stern Irén 1985 sur FS Hungary Civil Registration (qui couvre jusqu'à 1980, donc 1985 est limite — possible ou pas) ; ou consulter BFL pour acte de mariage Kramer László × Stern Irén.
+**Indices concordants pour cette nouvelle interprétation** :
+- Le mari Krammer László mort 15.11.1944 = période de la Shoah hongroise (déportations Auschwitz mars-juillet 1944, marches de la mort octobre-novembre 1944).
+- Death registration différée à 1954 (10 ans) = signature typique des décès Shoah documentés a posteriori par survivants.
+- Stern Irén veuve 1944, vit jusqu'en 1985, inhumée seule parc.U/1/33/18 — section moderne.
+- Origine du couple Krammer Lipót × Weisz Rozália = pas notre famille Kramer-Beck-Brunn.
+
+**Pour l'avis de décès de Sarolta Beck** (*Pesti Napló* 4.7.1937) qui cite « dr. Kramer Lászlóné menye » : l'épouse de notre Dr. László reste à identifier. Hypothèses :
+1. Mariée à Budapest avant 1937, mais pas trouvée par cette recherche FS spécifique
+2. Partie au Brésil avec László en 1946 (donc pas dans les registres hongrois post-1946)
+3. Décédée avant 1946 sans descendance identifiée
+
+**Action restante** : refaire la recherche FS sans le filtre `Stern` — chercher tous les Kramer László mariés à Budapest 1920-1946 dont l'épouse aurait pu accompagner le couple au Brésil.
 
 ### Kramer Ármin : où est-il enterré ?
 
@@ -156,3 +171,5 @@ Incohérences ou faiblesses :
 | Kramer Zsigmond | OUI parc.15/31/20 | Kozma utca |
 | Beck Sarolta | OUI parc.15/31/20 (commune) | Kozma utca |
 | Frank Mórné Kramer Julia (sœur, †21.10.1962) | OUI parc.38/D/33/26 | Kozma utca |
+| **Stern Irén** (parc.U/1/33/18, †1985) | OUI mais ❌ **PAS notre famille** — épouse Krammer László parents Weisz/Lipót †1944 (probable Shoah) | Kozma utca |
+| Épouse réelle de notre Dr. Kramer László | INCONNUE | Brésil (avec László ?) ou décédée avant 1946 |

@@ -86,3 +86,14 @@ Famille Majoros (côté paternel de Yannick) : début des années 1980 (≈ 1980
 - **Identification** : non confirmée, hypothèse #1 prioritaire
 - **Documents disponibles** : aucun direct sur Marishka
 - **Action attendue** : témoignage Michel + recherches FS post-reconnexion Chrome
+
+## MISE À JOUR 25 avril 2026 (soir)
+
+**L'hypothèse Stern Irén = épouse de László Kramer est INVALIDÉE** (cf. `cimetiere_kozma_famille_kramer_2026-04-25.md`). La Stern Irén inhumée à Kozma est l'épouse d'un AUTRE Krammer László (parents Weisz Rozália × Krammer Lipot, †15.11.1944, probable Shoah).
+
+→ Les hypothèses « fille de László × Stern Irén » sont donc **éliminées** comme piste pour Marishka.
+
+→ La fille de **Lea Kramér × Goldstein Jenő** (Top 1) reste la candidate principale, sous réserve de :
+- vérification du sort de Lea pendant la Shoah (Yad Vashem à compléter)
+- recherche FS d'enfants nés Goldstein 1937-1944 mère Lea
+- témoignage direct de Michel Majoros
