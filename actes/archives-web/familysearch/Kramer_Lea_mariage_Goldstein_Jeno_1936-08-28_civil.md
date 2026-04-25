@@ -29,7 +29,7 @@ L'audit critique du 25.4.2026 (qui plaçait ces deux affirmations à un niveau d
 | Vőlegény szülei | (à reconfirmer par lecture image — Goldstein Ferenc × Szép Mária selon FS Tree GXXH-PWQ) |
 | **A menyasszony (la mariée)** | **Krámer Lea** |
 | Menyasszony vallása | izr. (israélite) |
-| Menyasszony szül. helye / ideje | **Szabolcs (m.) / Nyíregyháza ?**, **1902** (à confirmer) |
+| Menyasszony szül. helye / ideje | ⭐ **Szabolcs (m.)** [comté de Szabolcs, NE Hongrie] — ville indistincte (probablement **Nyírkáta** ou **Nyíregyháza**), date **1902** (à confirmer par lecture image plus serrée). **NB : pas Budapest** — explique pourquoi les recherches FS Hungary CR « Lea Kramér 1902 Budapest » antérieures (33 hits) n'aboutissaient pas. |
 | Menyasszony lakhely | Budapest VII., **Károly u. 3** (même domicile que le marié) |
 | **Menyasszony szülei (parents de la mariée)** | ⭐ **« néhai » Krámer Simon (= Zsigmond, †16.5.1928)** × **Beck Sarolta** |
 | Aláírások (signatures, témoins) | Krammer József, Krammer Mór, özv. dr. Horváth Béla né (témoins) ; Goldstein Jenő (marié) ; Krammer Lea (mariée) |
@@ -51,6 +51,16 @@ L'audit critique du 25.4.2026 (qui plaçait ces deux affirmations à un niveau d
 - ⚠️ **Note importante : « Krámer Simon » vs « Krámer Zsigmond »** — l'acte de mariage 1936 nomme le père de Lea **« néhai Krámer Simon »**, alors que **toutes les autres sources primaires** sur notre aïeul utilisent **« Krámer Zsigmond »** (acte de naissance Mária 1898, acte de décès 1928, faire-part *Pesti Hírlap* 17.5.1928, sépulture Kozma utca, acte de décès Sarolta 1937). **Bilan : 5 « Zsigmond » contre 1 « Simon »**. Très probablement le même homme avec un **double prénom hongrois / hébreu** (usage courant chez les Juifs hongrois : prénom civil Zsigmond + prénom religieux/hébreu Shimon = Simon). Indices convergents : même épouse Beck Sarolta, même statut « néhai » (décédé) en 1936 cohérent avec † 16.5.1928, même patronyme Krámer, même milieu Budapest. La probabilité de deux Krámer distincts mariés tous les deux à une Beck Sarolta et tous décédés avant 1936 est nulle. À noter aussi que l'arbre FS [GXXH-YFJ](https://www.familysearch.org/tree/person/details/GXXH-YFJ) porte le titre « Simon Kramer » (probablement issu de cet acte 1936 indexé par FS). **Vérification possible** : l'acte de mariage Zsigmond × Sarolta (~1897) porterait probablement les deux prénoms côte à côte.
 - ⭐ **Témoins « Krammer József » et « Krammer Mór »** : pourraient être des **oncles paternels** de Lea (frères de Zsigmond ? À investiguer) — important indice pour la fratrie d'Ármin × Brunn Jozefa
 - ⭐ **« özv. dr. Horváth Béla né »** (veuve du Dr. Béla Horváth) : possible tante par alliance — autre branche à investiguer
+
+### Lea née en Szabolcs (NE Hongrie) — implication majeure
+
+Lea n'est **pas née à Budapest** comme on le supposait, mais en **comté de Szabolcs** (NE Hongrie, capitale Nyíregyháza). Sa sœur aînée Mária est née à Budapest VII. en 1898, donc :
+- **Soit** la famille a déménagé entre 1898 et 1902 vers le NE Hongrie, ou Sarolta est partie y accoucher (chez de la famille Beck ?)
+- **Soit** il existait un lien familial fort avec Szabolcs (parents, oncle ?)
+
+Cette information est **cohérente avec le hit ADT** « Goldstein Jenő Kramer 1936 » dans **Nyírvidék 1936.07** (quotidien régional de Nyíregyháza et Szabolcs) — ce n'est pas une coïncidence : Nyírvidék est le journal local de la région natale de Lea, qui annonce naturellement son mariage.
+
+**Action** : chercher l'acte de naissance de Lea dans les registres civils du comté de Szabolcs 1900-1905 (FS Hungary CR collection 1452460, MNL Szabolcs-Szatmár-Bereg Megyei Levéltára).
 
 ## Conséquences pour le dossier
 
