@@ -61,7 +61,7 @@ Pistes :
   ```
   q.givenName=Lea&q.surname=Krámer
   q.eventType=Birth&q.eventYear=1902 (range 1900-1905)
-  q.eventPlace=Szabolcs (ou Nyíregyháza)
+  q.eventPlace=  (ou Nyíregyháza)
   q.fatherGivenName=Simon (ou Zsigmond)
   q.fatherSurname=Krámer
   q.motherSurname=Beck

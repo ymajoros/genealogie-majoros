@@ -2,29 +2,31 @@
 
 Audit qualité de toutes les informations sur **Lea Kramér** (3ᵉ enfant de Zsigmond Kramer × Sarolta Beck) et son époux **Jenő Goldstein**.
 
-> ## ✅ MISE À JOUR 25.4.2026 SOIR — DOUTE LEVÉ par acte primaire image
+> ## 🚨 RÉ-OUVERTURE 25.4.2026 (NUIT TARDIVE) — RATTACHEMENT INVALIDÉ
 >
-> **Acte de mariage 28.8.1936 Budapest téléchargé depuis FamilySearch** ([ARK `3:1:S3HY-6S23-BSF`](https://www.familysearch.org/ark:/61903/3:1:S3HY-6S23-BSF?view=index), folyószám 1504, image 426/855, archive BFL) — voir [transcription complète](../../actes/archives-web/familysearch/Kramer_Lea_mariage_Goldstein_Jeno_1936-08-28_civil.md).
+> La conclusion intermédiaire (« doute levé, Lea = notre tante ») est **annulée** suite à une vérification haute-résolution.
 >
-> **L'acte nomme explicitement** :
-> - Marié : **Goldstein Jenő**, né 31 mars 1904 Hunyad m. (= Vajdahunyad)
-> - Mariée : **Krámer Lea**
-> - Parents de la mariée : ⭐ **« néhai Krámer Simon » (= Zsigmond, †16.5.1928) × Beck Sarolta**
-> - Témoins : Krammer József, Krammer Mór, özv. Dr. Horváth Béla né
+> **Procédure** : ouverture du FS image viewer en session authentifiée + zoom sur le champ « parents de la mariée » de l'entrée 1504 (i=425 dans le viewer). Lecture directe :
 >
-> **Conclusions confirmées** :
-> 1. ✅ Lea Krámer existait
-> 2. ✅ Elle est bien fille de notre Krámer Zsigmond × Beck Sarolta
-> 3. ✅ Elle a bien épousé Goldstein Jenő le 28 août 1936 à Budapest
+> - Père : « néhai **Krámer Simon** »
+> - Mère : ⭐ « **Keimovits Sarolta** » (et non « Beck Sarolta » comme je l'avais lu en basse résolution)
 >
-> **L'avertissement fondamental antérieur (rattachement non prouvé) est levé.** Ce qui suit dans le présent document garde sa valeur en tant qu'historique de l'enquête, mais les conclusions doivent être lues à la lumière de cette confirmation primaire.
+> **Confirmation par l'index FS** (QGTJ-GK87) qui dit aussi « Keimóvits Sarolta », et par une autre fiche FS Hungary CR (« Klinovits Sarolta × Kramer Simon, fils Lajos ») — variantes slaves de transcription Keimóvits/Klinovits, surnom de famille slave en -vits.
 >
-> **Hypothèses qui restent ouvertes** :
-> - Destin post-1936 (Israël vs Shoah) — l'audit ADT remonte 27 hits Új Kelet « Goldstein Jenő » Tel-Aviv 1949-77, présomption forte d'émigration
-> - Anomalie résiduelle : pourquoi Lea absente nominativement des faire-part 1928 et 1937 ? (en 1928 célibataire à 26 ans → possible omission par convention « gyermekei » ; en 1937 mariée depuis 1 an, peut-être hors Budapest)
-> - Marishka 1980 = fille de Lea & Jenő ? Plausible, à confirmer
+> **Conclusions corrigées** :
+> 1. ❌ Lea Krámer × Goldstein Jenő (1936, folyószám 1504) **n'est PAS notre famille**
+> 2. ❌ La fiche FS [GXXH-TDT](https://www.familysearch.org/tree/person/details/GXXH-TDT) a été **mal rattachée à GXXH-YFJ** (notre Zsigmond) par utilisateur XXY29 le 15.6.2022
+> 3. ✅ La PR #5 (« revue critique » du 25.4.2026 qui doutait du rattachement) avait **raison**
+> 4. ❌ Marishka 1980 ≠ Lea Kramer (Marishka redevient un mystère)
+> 5. ❌ Tous les hits ADT « Goldstein Jenő » Tel-Aviv 1949-77 (27 + 24 = 51 mentions) concernent une **AUTRE famille Goldstein-Krámer** — pas la nôtre
 >
-> **Note de vigilance — « Simon » vs « Zsigmond »** : l'acte 1936 nomme le père de Lea **« néhai Krámer Simon »**, alors que toutes les autres sources sur notre aïeul utilisent « Krámer Zsigmond » (5 sources « Zsigmond » : naissance Mária 1898, décès Zsigmond 1928, *Pesti Hírlap* 1928, sépulture Kozma utca, décès Sarolta 1937). Très probablement **double prénom civil hongrois (Zsigmond) + religieux/hébreu (Shimon = Simon)**, usage courant chez les Juifs hongrois. Indices convergents avec l'identité unique : **même épouse Beck Sarolta** dans 1928 et 1936 ; **même statut « néhai »** ; même patronyme et milieu. La probabilité de deux Krámer distincts mariés à Beck Sarolta et tous deux décédés avant 1936 est nulle. À noter, l'arbre FS [GXXH-YFJ](https://www.familysearch.org/tree/person/details/GXXH-YFJ) porte d'ailleurs le titre « Simon Kramer » (saisi à partir de cet acte 1936 indexé). **Vérification possible** : acte de mariage Zsigmond × Sarolta (~1897) porterait probablement les deux prénoms côte à côte.
+> **Cause de l'erreur** : XXY29 a vu sur l'index FS « Kramer Simon » (père de la mariée 1936) et a rattaché à GXXH-YFJ qui est aussi indexé « Simon Kramer » (titre principal de la fiche). La mère Keimovits Sarolta — totalement différente de notre Beck Sarolta — n'a pas été vérifiée. Ma propre lecture de l'image basse résolution (PR #7) reproduisait la même erreur.
+>
+> **Leçon** : ne jamais valider un rattachement d'arbre FS sans vérification haute-résolution de l'acte image lui-même, en particulier sur le **second parent** (mère) qui sert de discriminateur.
+
+---
+
+## Note historique : ce qui suit a été écrit pendant l'enquête, conclusions à présent obsolètes
 
 ---
 

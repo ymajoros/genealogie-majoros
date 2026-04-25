@@ -184,21 +184,28 @@ Mariage vraisemblablement printemps-été 1918 — acte à rechercher aux archiv
 
 **[?]** À investiguer : archives Budapesti Ügyvédi Kamara, listes de passagers 1946 (Arquivo Nacional Rio), Memorial do Imigrante São Paulo, Museu Judaico de São Paulo.
 
-### 3.6. Lea Krámer × Jenő Goldstein — 3ᵉ enfant **confirmé par acte primaire**
+### 3.6. Lea Krámer × Jenő Goldstein — ❌ **PAS notre famille** (correction 25.4.2026 nuit)
 
-**[✓ source primaire image — acte de mariage 28.8.1936 Budapest]** L'acte civil hongrois de mariage **n° 1504, Budapest, 28 août 1936** ([FS ARK `3:1:S3HY-6S23-BSF`](https://www.familysearch.org/ark:/61903/3:1:S3HY-6S23-BSF?view=index), image 426/855, Image Group 004403198, archive originale BFL) nomme :
-- **Goldstein Jenő**, né **31 mars 1904 Hunyad m.** (= Vajdahunyad / Hunedoara), izr.
-- **Krámer Lea**, izr., **née en comté de Szabolcs** (NE Hongrie — pas Budapest), domicile au mariage : **Budapest VII. Kazár u. 3** (cohabitation avec le marié)
-- **Parents de la mariée** : ⭐ **« néhai Krámer Simon »** × **Beck Sarolta**
-- Témoins : **Krammer József**, **Krammer Mór**, **özv. Dr. Horváth Béla né** (oncles paternels probables et tante par alliance — à investiguer)
+> **Annulation des conclusions antérieures** : la fiche FS [GXXH-TDT](https://www.familysearch.org/tree/person/details/GXXH-TDT) « Lea Kramér 1902 » a été **mal rattachée** à notre Krámer Zsigmond (GXXH-YFJ, indexé FS sous le titre erroné « Simon Kramer ») par l'utilisateur **XXY29** le 15 juin 2022.
+>
+> **Vérification définitive** : ouverture du FS image viewer en session authentifiée + **zoom haute résolution** sur le champ « parents de la mariée » de l'entrée 1504 de l'acte de mariage 28.8.1936 ([FS ARK `3:1:S3HY-6S23-BSF`](https://www.familysearch.org/ark:/61903/3:1:S3HY-6S23-BSF?view=index)) :
+>
+> - Père : « néhai **Krámer Simon** »
+> - Mère : ⭐ « **Keimovits Sarolta** » — **et NON « Beck Sarolta »**
+>
+> Ma lecture précédente « Beck Sarolta » sur l'image basse résolution (PR #7) était une **erreur**. L'index FS, une autre fiche FS Hungary CR (« Klinovits Sarolta × Kramer Simon, fils Lajos »), et le zoom haute résolution convergent : la mère est « Keimovits/Klinovits » (variante slave), pas Beck.
+>
+> **Conclusion** : la Lea Krámer × Goldstein Jenő mariée en août 1936 est une **vraie personne**, mais d'une **autre famille Krámer** (Krámer Simon × Keimovits Sarolta, Bp VII. Kazár u. 3) — pas notre Zsigmond × Sarolta Beck.
 
-> **Note « Simon » vs « Zsigmond »** : l'acte 1936 utilise le prénom « Simon » alors que les 5 autres sources primaires sur notre aïeul (acte naissance Mária 1898, acte décès Zsigmond 1928, faire-part *Pesti Hírlap* 1928, sépulture Kozma utca, acte décès Sarolta 1937) utilisent « Zsigmond ». Très probablement **double prénom hongrois (Zsigmond) + hébreu (Shimon = Simon)** — usage courant chez les Juifs hongrois. Identité confirmée par la même épouse **Beck Sarolta** et le même statut « néhai » (déjà décédé en 1936 — cohérent avec † 16.5.1928). À noter : l'arbre FS [GXXH-YFJ](https://www.familysearch.org/tree/person/details/GXXH-YFJ) porte d'ailleurs le titre « Simon Kramer », probablement saisi à partir de cet acte 1936.
+**Conséquences** :
+- Notre Zsigmond × Sarolta avait **2 enfants confirmés** : Mária (1898) et László (Dr., parti Brésil 1946). Pas de Lea.
+- Marishka (visiteuse Marbisous juin 1980) **n'est pas Lea Kramer** — son identité redevient mystère
+- Les 27 hits Új Kelet « Goldstein Jenő » Tel-Aviv 1949-77 concernent un **autre couple** Goldstein-Krámer
+- L'audit ADT massif autour de Lea/Jenő reste valide pour cette autre famille mais ne nous concerne pas
 
-→ **Confirme définitivement** : (1) l'existence de Lea Krámer ; (2) sa filiation à notre Krámer Zsigmond × Beck Sarolta ; (3) le mariage 28.8.1936 avec Jenő Goldstein. La saisie d'arbre FS [GXXH-TDT](https://www.familysearch.org/tree/person/details/GXXH-TDT) est confirmée. Détails et transcription : [actes/archives-web/familysearch/Kramer_Lea_mariage_Goldstein_Jeno_1936-08-28_civil.md](actes/archives-web/familysearch/Kramer_Lea_mariage_Goldstein_Jeno_1936-08-28_civil.md).
+**Crédit** : la PR #5 (« revue critique » qui doutait du rattachement) avait raison. Documenter cette correction sert d'avertissement contre les saisies non-vérifiées d'arbres FS.
 
-**[? *anomalie résiduelle*]** Lea reste absente nominativement des faire-part de ses parents (*Pesti Hírlap* 17.5.1928 Zsigmond ; *Pesti Napló* 4.7.1937 Sarolta) qui mentionnent uniquement « Mária et László gyermekei ». En 1928 Lea avait 26 ans, célibataire — possible omission par convention (les enfants célibataires sont parfois groupés sous « gyermekei »). En 1937, elle était mariée depuis un an seulement, vivait peut-être hors Budapest — autre explication possible.
-
-**[◐ destin post-1936 — hypothèses ouvertes]** Audit ADT 25.4.2026 : 27 hits « Goldstein Jenő » + Tel-Aviv et 24 + Haifa dans **Új Kelet 1949-1977** (journal hongrois-juif refondé Tel-Aviv 1948) → **forte présomption d'émigration en Israël après-guerre** plutôt que Shoah 1944. 1 hit Magyar Közlöny 1946 (à vérifier — halottá nyilvánítás ou autre). Hypothèse **Marishka 1980 = fille de Lea & Jenő** redevient plausible. Vérifications OCR ADT et Yad Vashem nécessaires. Détails : [docs/notes-recherche/lea_kramer_audit_2026-04-25.md](docs/notes-recherche/lea_kramer_audit_2026-04-25.md).
+Détails : [docs/notes-recherche/lea_kramer_audit_2026-04-25.md](docs/notes-recherche/lea_kramer_audit_2026-04-25.md) + [actes/archives-web/familysearch/Kramer_Lea_mariage_Goldstein_Jeno_1936-08-28_civil.md](actes/archives-web/familysearch/Kramer_Lea_mariage_Goldstein_Jeno_1936-08-28_civil.md).
 
 ## 4. Smalstys / Geelens (Kamajai, Verviers)
 
@@ -369,11 +376,11 @@ Chaque source est doublée d'une archive locale dans `actes/archives-web/` (capt
 
 1. **Dr. Kramer László / Cantor à São Paulo** — Arquivo Nacional Rio (listes 1946), Memorial do Imigrante SP, Museu Judaico SP, *alteração de nome*.
 2. **Épouse de Dr. Kramer László** — mentionnée *dr. Kramer Lászlóné* en 1937, identité inconnue (possiblement partie au Brésil avec lui).
-3. **Lea Kramér × Jenő Goldstein 1936** — destin à clarifier : audit 25.4.2026 ouvre l'**hypothèse forte d'une émigration en Israël** (27 hits Új Kelet Tel-Aviv 1949-77) au lieu de la Shoah. Vérifications Yad Vashem + OCR ADT requises. Voir [docs/notes-recherche/lea_kramer_audit_2026-04-25.md](docs/notes-recherche/lea_kramer_audit_2026-04-25.md).
+3. ~~**Lea Kramér × Jenő Goldstein 1936**~~ — ❌ **INVALIDÉ 25.4.2026 nuit** : ce couple n'est pas de notre famille (mère = Keimovits Sarolta, pas Beck Sarolta — vérifié par lecture image zoomée). Cf. §3.6.
 4. **Demi-frère Gabor Majoros** — registre foncier Pozsonyi u. 3, BFL, post-2041 (actes 90 ans).
 5. **Maryté Smolski (1890-1975 Kaunas)** — branche cousine lituanienne, descendance soviétique.
 6. **Branche Komárom Kramer** — Lővinger Mórné née Kramer Júlia (1827-1909), faire-part OSZK [handle 154194](http://hdl.handle.net/20.500.12346/154194). Possible parente lointaine d'Ármin Kramer.
-7. **Marishka, visiteuse début années 1980 à Marbisous (Belgique)** — visite chez Michel Majoros avec Maria Kramer + Ferenc Majoros ; **2 photos archivées** (`docs/Maria Kramer Ferenc Marishka visite Michel vers 1980 jardin.jpg`, `docs/Maria Kramer avec petit-enfant vers 1980 interieur.jpg`). Sur la photo de jardin, Yannick lui-même (3-4 ans, né 1977) à droite avec Ferenc. Marishka apparaît **âgée** (~75-85 ans) — nouvelle hypothèse top : **= Lea Kramer elle-même** (78 ans en 1980), sœur de Maria, supposée émigrée Israël après-guerre (27 hits Új Kelet Tel-Aviv 1949-77). Détails : [docs/recherche_Marishka_Hongrie_annees_80.md](docs/recherche_Marishka_Hongrie_annees_80.md).
+7. **Marishka, visiteuse début années 1980 à Marbisous (Belgique)** — visite chez Michel Majoros avec Maria Kramer + Ferenc Majoros ; **2 photos archivées** (`docs/Maria Kramer Ferenc Marishka visite Michel vers 1980 jardin.jpg`, `docs/Maria Kramer avec petit-enfant vers 1980 interieur.jpg`). Photo intérieure datée **juin 1980** ; sur la photo de jardin, Yannick lui-même (3 ans, né 1977) à droite avec Ferenc. Marishka apparaît **âgée** (~75-85 ans). Identité **inconnue** — l'hypothèse antérieure « = Lea Kramer » est **invalidée** par la correction 25.4.2026 nuit (Lea n'est pas notre famille, cf. §3.6). Hypothèses restantes : cousine germaine de Maria via Júlia/Sámuel/Róza Kramer ; demi-sœur Krammer Juliánna 1896 ; ou autre tante non identifiée. Détails : [docs/recherche_Marishka_Hongrie_annees_80.md](docs/recherche_Marishka_Hongrie_annees_80.md).
 
 ### 9.3. Adresses archivistiques utiles
 

@@ -1,12 +1,37 @@
-# Krámer Lea × Goldstein Jenő — acte de mariage, 28 août 1936 Budapest
+# Krámer Lea × Goldstein Jenő — acte de mariage, 28 août 1936 Budapest (**PAS NOTRE FAMILLE**)
 
-## ⭐ Importance
+## 🚨 CORRECTION CRITIQUE 25.4.2026 (nuit) — ce mariage n'est PAS de notre famille
 
-Cet acte **lève définitivement le doute** sur :
-1. l'**existence** de Lea Krámer
-2. son **rattachement** à notre famille Krámer Zsigmond × Beck Sarolta
+L'audit critique antérieur (PR #5) avait raison : **ce mariage concerne une AUTRE famille Krámer**, pas la nôtre.
 
-L'audit critique du 25.4.2026 (qui plaçait ces deux affirmations à un niveau de preuve faible — saisie FS isolée par utilisateur XXY29, image jamais vue) est **désormais corrigé** par cette source primaire image directement consultée.
+**Vérification définitive** : ouverture du FS image viewer en session authentifiée + zoom sur le champ « parents de la mariée » de l'entrée 1504 ⇒
+- Père : « néhai **Krámer Simon** » (déchiffré clairement)
+- Mère : ⭐ « **Keimovits Sarolta** » (et NON Beck Sarolta)
+
+**Ma lecture précédente « Beck Sarolta » sur l'image basse résolution était une erreur**. L'index FS (« Keimóvits Sarolta »), une autre fiche FS Hungary CR (« Klinovits Sarolta × Kramer Simon, fils Lajos »), et le zoom haute résolution convergent : la mère est **Keimovits** (variante slave Keimóvits/Klinovits selon transcripteurs), pas Beck.
+
+**Conséquence** : l'utilisateur **XXY29** (15 juin 2022) a **mal rattaché** cette source à GXXH-YFJ (notre Zsigmond, indexé FS sous le titre erroné « Simon Kramer »). C'est une homonymie partielle : père prénommé Simon dans cette famille, alors que notre Zsigmond a parfois aussi été indexé Simon — mais la mère (Beck pour nous, Keimovits pour eux) fait toute la différence.
+
+**La fiche FS GXXH-TDT « Lea Kramér 1902 »** dans l'arbre familial ne représente donc PAS une fille de Krámer Zsigmond × Beck Sarolta. Elle représente une vraie personne (Lea Krámer fille de Krámer Simon × Keimovits Sarolta), mal greffée à notre branche.
+
+## Annulation des conclusions antérieures
+
+- ❌ « Lea = 3ᵉ enfant de Zsigmond × Sarolta » — INVALIDÉ
+- ❌ « Marishka 1980 = Lea Kramer » — INVALIDÉ (Marishka redevient mystère)
+- ❌ « 27 hits Új Kelet "Goldstein Jenő" Tel-Aviv = présomption émigration de notre tante » — INVALIDÉ (concerne quelqu'un d'autre)
+- ❌ « Lea née en Szabolcs » — sans pertinence pour notre famille
+- ❌ Hypothèse Magyar Közlöny 1946 = halottá nyilvánítás de notre Lea — INVALIDÉE
+
+## Pourquoi cet acte reste archivé
+
+Bien que ce ne soit pas notre famille, le PDF reste utile :
+- Documenter l'erreur de rattachement par XXY29
+- Référence pour distinguer la **famille Krámer Simon × Keimovits Sarolta** (Bp VII. Kazár u. 3 — différente de la nôtre)
+- Témoins indiquent une famille Krammer (double M) avec József (Bp VII. Izabella u. 11) et Mór (Bp IV. Kazár u. 3) — branche distincte de la nôtre
+
+---
+
+## ⚠️ Tout ce qui suit est conservé pour mémoire et concerne une AUTRE famille
 
 ## Source FamilySearch
 
