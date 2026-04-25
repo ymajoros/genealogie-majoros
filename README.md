@@ -188,7 +188,7 @@ Mariage vraisemblablement printemps-été 1918 — acte à rechercher aux archiv
 
 **[✓ source primaire image — acte de mariage 28.8.1936 Budapest]** L'acte civil hongrois de mariage **n° 1504, Budapest, 28 août 1936** ([FS ARK `3:1:S3HY-6S23-BSF`](https://www.familysearch.org/ark:/61903/3:1:S3HY-6S23-BSF?view=index), image 426/855, Image Group 004403198, archive originale BFL) nomme :
 - **Goldstein Jenő**, né **31 mars 1904 Hunyad m.** (= Vajdahunyad / Hunedoara), izr.
-- **Krámer Lea**, izr., domicile au moment du mariage : **Budapest VII. Károly u. 3** (cohabitation avec le marié)
+- **Krámer Lea**, izr., **née en comté de Szabolcs** (NE Hongrie — pas Budapest), domicile au mariage : **Budapest VII. Kazár u. 3** (cohabitation avec le marié)
 - **Parents de la mariée** : ⭐ **« néhai Krámer Simon »** × **Beck Sarolta**
 - Témoins : **Krammer József**, **Krammer Mór**, **özv. Dr. Horváth Béla né** (oncles paternels probables et tante par alliance — à investiguer)
 
@@ -373,7 +373,7 @@ Chaque source est doublée d'une archive locale dans `actes/archives-web/` (capt
 4. **Demi-frère Gabor Majoros** — registre foncier Pozsonyi u. 3, BFL, post-2041 (actes 90 ans).
 5. **Maryté Smolski (1890-1975 Kaunas)** — branche cousine lituanienne, descendance soviétique.
 6. **Branche Komárom Kramer** — Lővinger Mórné née Kramer Júlia (1827-1909), faire-part OSZK [handle 154194](http://hdl.handle.net/20.500.12346/154194). Possible parente lointaine d'Ármin Kramer.
-7. **Marishka, visiteuse début années 1980** — visite chez Michel Majoros avec Maria Kramer + Ferenc Majoros ; **2 photos archivées** (`docs/Maria Kramer Ferenc Marishka visite Michel vers 1980 jardin.jpg`, `docs/Maria Kramer avec petit-enfant vers 1980 interieur.jpg`). Marishka apparaît **âgée** (~75-85 ans) — nouvelle hypothèse top : **= Lea Kramer elle-même** (78 ans en 1980), sœur de Maria, supposée émigrée Israël après-guerre (27 hits Új Kelet Tel-Aviv 1949-77). Détails : [docs/recherche_Marishka_Hongrie_annees_80.md](docs/recherche_Marishka_Hongrie_annees_80.md).
+7. **Marishka, visiteuse début années 1980 à Marbisous (Belgique)** — visite chez Michel Majoros avec Maria Kramer + Ferenc Majoros ; **2 photos archivées** (`docs/Maria Kramer Ferenc Marishka visite Michel vers 1980 jardin.jpg`, `docs/Maria Kramer avec petit-enfant vers 1980 interieur.jpg`). Sur la photo de jardin, Yannick lui-même (3-4 ans, né 1977) à droite avec Ferenc. Marishka apparaît **âgée** (~75-85 ans) — nouvelle hypothèse top : **= Lea Kramer elle-même** (78 ans en 1980), sœur de Maria, supposée émigrée Israël après-guerre (27 hits Új Kelet Tel-Aviv 1949-77). Détails : [docs/recherche_Marishka_Hongrie_annees_80.md](docs/recherche_Marishka_Hongrie_annees_80.md).
 
 ### 9.3. Adresses archivistiques utiles
 

@@ -95,9 +95,9 @@ Famille Majoros (côté paternel de Yannick) : début des années 1980 (≈ 1980
 
 ## ⭐ MISE À JOUR 25 avril 2026 (nuit) — preuve photographique
 
-Yannick a partagé deux photos de la visite (début années 80, lieu = chez Michel Majoros, probablement Bruxelles ou Köln) :
-- **`docs/Maria Kramer Ferenc Marishka visite Michel vers 1980 jardin.jpg`** — 5 personnes : Maria Kramer (gauche), **Marishka** (centre-gauche), une jeune femme inconnue, Ferenc Majoros (homme avec lunettes), un enfant
-- **`docs/Maria Kramer avec petit-enfant vers 1980 interieur.jpg`** — Maria avec un petit-enfant (BD)
+Yannick a partagé deux photos de la visite (**juin 1980**, lieu = chez Michel Majoros à **Marbisous**, Belgique) :
+- **`docs/Maria Kramer Ferenc Marishka visite Michel vers 1980 jardin.jpg`** — 5 personnes : Maria Kramer (gauche), **Marishka** (centre-gauche), une jeune femme inconnue, Ferenc Majoros (homme avec lunettes), un enfant (= **Yannick lui-même, ~3 ans**, né en 1977)
+- **`docs/Maria Kramer avec petit-enfant vers 1980 interieur.jpg`** — datée **juin 1980** — Maria avec un petit-enfant (BD), probablement Yannick aussi
 
 **Élément clé** : sur la photo de jardin, **Marishka apparaît clairement âgée** (~75-85 ans en 1980), pas du tout 38-43 comme l'hypothèse #1 le supposait. Elle est sur le même rang d'âge que Maria Kramer (82 en 1980).
 
