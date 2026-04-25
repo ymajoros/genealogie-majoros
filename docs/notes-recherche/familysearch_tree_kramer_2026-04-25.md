@@ -4,23 +4,18 @@
 
 | Personne | Tree ID FS | Dates | Notes |
 |---|---|---|---|
-| **Zsigmond Kramer** ("Simon Kramer") | **GXXH-YFJ** | †1928 (vide indexé) | Notre Zsigmond — entré comme « Simon » (déformation occidentale de Zsigmond=Sigismund) |
+| **Zsigmond Kramer** ("Simon Kramer") | **GXXH-YFJ** | †1928 | Notre Zsigmond — entré comme « Simon » dans l'index, ce qui a induit en erreur XXY29 (cf. ci-dessous) |
 | **Sarolta Beck** | **G5QQ-JFY** | 1873-1937 | Notre arrière-grand-mère |
-| **Mária Kramer** (épouse Majoros Ödön) | **G5QQ-7CG** | 1898-déc. | Notre grand-mère paternelle |
-| **Lea Kramér** (épouse Goldstein Jenő) | **GXXH-TDT** | 1902-déc. | Sœur cadette de Maria, probable Shoah 1944 |
+| **Mária Kramer** (épouse Majoros Ödön) | **G5QQ-7CG** | 1898-≈1983 | Notre grand-mère paternelle |
+| ~~Lea Kramér (GXXH-TDT)~~ | ❌ | — | **PAS notre famille** — fiche mal rattachée par XXY29 (mère Keimovits ≠ Beck). Voir [pistes-fermees/lea-kramer-goldstein-mauvais-rattachement/](../pistes-fermees/lea-kramer-goldstein-mauvais-rattachement/) |
 
 ## Sources rattachées à GXXH-YFJ Simon Kramer (3)
 
-| Date acte | Titre | Created | Contributeur FS |
-|---|---|---|---|
-| 1898 | Kramer Zsigmond, *Hungary CR 1895-1980* | 11 mars 2024 | **Katalin Demeter** |
-| 1936 | Kramer Simon, *Hungary CR 1895-1980* | 15 juin 2022 | **XXY29** |
-| 1937 | Kramer Zsigmond, *Hungary CR 1895-1980* | 11 mars 2024 | **Katalin Demeter** |
-
-Interprétation :
-- 1898 = naissance de Mária Kramer (la fille)
-- 1936 = mariage de Lea Kramér × Jenő Goldstein
-- 1937 = décès de Sarolta Beck
+| Date acte | Titre | Created | Contributeur FS | Statut |
+|---|---|---|---|---|
+| 1898 | Kramer Zsigmond, *Hungary CR 1895-1980* | 11 mars 2024 | **Katalin Demeter** | ✅ correct (naissance Mária) |
+| 1936 | Kramer Simon, *Hungary CR 1895-1980* | 15 juin 2022 | **XXY29** | ❌ **rattachement erroné** (mariage Lea Krámer × Goldstein Jenő, autre famille — mère Keimovits Sarolta) |
+| 1937 | Kramer Zsigmond, *Hungary CR 1895-1980* | 11 mars 2024 | **Katalin Demeter** | ✅ correct (décès Sarolta) |
 
 ⭐ **Contributeurs à contacter** :
 - **Katalin Demeter** — éditrice active mars 2024, possible cousine ou chercheuse partagée

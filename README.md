@@ -184,28 +184,11 @@ Mariage vraisemblablement printemps-été 1918 — acte à rechercher aux archiv
 
 **[?]** À investiguer : archives Budapesti Ügyvédi Kamara, listes de passagers 1946 (Arquivo Nacional Rio), Memorial do Imigrante São Paulo, Museu Judaico de São Paulo.
 
-### 3.6. Lea Krámer × Jenő Goldstein — ❌ **PAS notre famille** (correction 25.4.2026 nuit)
+### 3.6. Enfants de Krámer Zsigmond × Beck Sarolta — bilan
 
-> **Annulation des conclusions antérieures** : la fiche FS [GXXH-TDT](https://www.familysearch.org/tree/person/details/GXXH-TDT) « Lea Kramér 1902 » a été **mal rattachée** à notre Krámer Zsigmond (GXXH-YFJ, indexé FS sous le titre erroné « Simon Kramer ») par l'utilisateur **XXY29** le 15 juin 2022.
->
-> **Vérification définitive** : ouverture du FS image viewer en session authentifiée + **zoom haute résolution** sur le champ « parents de la mariée » de l'entrée 1504 de l'acte de mariage 28.8.1936 ([FS ARK `3:1:S3HY-6S23-BSF`](https://www.familysearch.org/ark:/61903/3:1:S3HY-6S23-BSF?view=index)) :
->
-> - Père : « néhai **Krámer Simon** »
-> - Mère : ⭐ « **Keimovits Sarolta** » — **et NON « Beck Sarolta »**
->
-> Ma lecture précédente « Beck Sarolta » sur l'image basse résolution (PR #7) était une **erreur**. L'index FS, une autre fiche FS Hungary CR (« Klinovits Sarolta × Kramer Simon, fils Lajos »), et le zoom haute résolution convergent : la mère est « Keimovits/Klinovits » (variante slave), pas Beck.
->
-> **Conclusion** : la Lea Krámer × Goldstein Jenő mariée en août 1936 est une **vraie personne**, mais d'une **autre famille Krámer** (Krámer Simon × Keimovits Sarolta, Bp VII. Kazár u. 3) — pas notre Zsigmond × Sarolta Beck.
+**[✓ confirmé par actes primaires]** Notre Krámer Zsigmond × Beck Sarolta a eu **2 enfants** : **Mária Kramer** (1898 — §3.3 ci-dessus) et **Dr. Kramer László** (parti Brésil 1946 — §3.5 ci-dessus). Sources convergentes : faire-part *Pesti Hírlap* 17.5.1928, *Pesti Napló* 4.7.1937, acte civil décès Sarolta 1937.
 
-**Conséquences** :
-- Notre Zsigmond × Sarolta avait **2 enfants confirmés** : Mária (1898) et László (Dr., parti Brésil 1946). Pas de Lea.
-- Marishka (visiteuse Marbisous juin 1980) **n'est pas Lea Kramer** — son identité redevient mystère
-- Les 27 hits Új Kelet « Goldstein Jenő » Tel-Aviv 1949-77 concernent un **autre couple** Goldstein-Krámer
-- L'audit ADT massif autour de Lea/Jenő reste valide pour cette autre famille mais ne nous concerne pas
-
-**Crédit** : la PR #5 (« revue critique » qui doutait du rattachement) avait raison. Documenter cette correction sert d'avertissement contre les saisies non-vérifiées d'arbres FS.
-
-Détails : [docs/notes-recherche/lea_kramer_audit_2026-04-25.md](docs/notes-recherche/lea_kramer_audit_2026-04-25.md) + [actes/archives-web/familysearch/Kramer_Lea_mariage_Goldstein_Jeno_1936-08-28_civil.md](actes/archives-web/familysearch/Kramer_Lea_mariage_Goldstein_Jeno_1936-08-28_civil.md).
+**[✗ piste fermée]** Une fiche FS [GXXH-TDT](https://www.familysearch.org/tree/person/details/GXXH-TDT) « Lea Kramér 1902 × Goldstein Jenő » avait été rattachée par erreur à notre Zsigmond. Vérification haute résolution de l'acte mariage 1936 : mère = **Keimovits Sarolta** (≠ Beck) → autre famille. Dossier complet déplacé en piste fermée : [docs/pistes-fermees/lea-kramer-goldstein-mauvais-rattachement/](docs/pistes-fermees/lea-kramer-goldstein-mauvais-rattachement/).
 
 ## 4. Smalstys / Geelens (Kamajai, Verviers)
 
@@ -298,7 +281,6 @@ Sources principales : **[CArCoB PP 23](http://www.carcob.eu/IMG/pdf/inventaire_s
 |---|---|---|
 | `ODon-Majoros-deces-1966-Budapest-XIV-cert978.jpg` | FamilySearch | [ARK `1:1:6V1G-YBG3`](https://www.familysearch.org/ark:/61903/1:1:6V1G-YBG3) |
 | `archives-web/familysearch/Kramer_Maria_naissance_1898_civil.pdf` | FamilySearch (BFL) | [ARK `3:1:S3HY-DTHW-8L`](https://www.familysearch.org/ark:/61903/3:1:S3HY-DTHW-8L?view=index) — img 836/861, Image Group 004403180 |
-| `archives-web/familysearch/Kramer_Lea_mariage_Goldstein_Jeno_1936-08-28_civil.pdf` | FamilySearch (BFL) | [ARK `3:1:S3HY-6S23-BSF`](https://www.familysearch.org/ark:/61903/3:1:S3HY-6S23-BSF?view=index) — img 426/855, Image Group 004403198 |
 | `archives-web/familysearch/Beck_Sarolta_deces_1937-07-04_civil.pdf` | FamilySearch (BFL) | [ARK `3:1:S3HT-6L6S-PV4`](https://www.familysearch.org/ark:/61903/3:1:S3HT-6L6S-PV4?view=index) — img 589/808, Image Group 004403191 |
 | `Annuaire-telephonique-Budapest-1920-p301-Majoros-Odon.pdf` | Hungaricana | [FszekCimNevTarak_20_00_1920 p.301](https://library.hungaricana.hu/en/view/FszekCimNevTarak_20_00_1920/?pg=301&layout=s) |
 | `Presse-1945-08-03-KulfBelfHirek-Majoros-Odon-tanacselnok.pdf` | Hungaricana | [KulfBelfHirek 1945.08.03 p.124](https://library.hungaricana.hu/en/view/KulfBelfHirek_1945_08_1__001-123/?pg=124&layout=s) |
@@ -359,6 +341,7 @@ Chaque source est doublée d'une archive locale dans `actes/archives-web/` (capt
 - [analyse_lien_zsigmond_szinobanyai.md](docs/pistes-fermees/analyse_lien_zsigmond_szinobanyai.md) — démonstration de non-parenté
 - [analyse_szinobanyai_kramer.md](docs/pistes-fermees/analyse_szinobanyai_kramer.md) — discussions méthodologiques
 - [homonymes_kramer_oszk_2026-04-25.md](docs/pistes-fermees/homonymes_kramer_oszk_2026-04-25.md) — Kramer Adolf Nyitra, Krammer-Baja non liés
+- [lea-kramer-goldstein-mauvais-rattachement/](docs/pistes-fermees/lea-kramer-goldstein-mauvais-rattachement/) — fiche FS GXXH-TDT mal rattachée à notre Zsigmond par utilisateur XXY29 (mère réelle Keimovits Sarolta ≠ Beck)
 
 ## 9. Questions ouvertes
 
@@ -376,7 +359,6 @@ Chaque source est doublée d'une archive locale dans `actes/archives-web/` (capt
 
 1. **Dr. Kramer László / Cantor à São Paulo** — Arquivo Nacional Rio (listes 1946), Memorial do Imigrante SP, Museu Judaico SP, *alteração de nome*.
 2. **Épouse de Dr. Kramer László** — mentionnée *dr. Kramer Lászlóné* en 1937, identité inconnue (possiblement partie au Brésil avec lui).
-3. ~~**Lea Kramér × Jenő Goldstein 1936**~~ — ❌ **INVALIDÉ 25.4.2026 nuit** : ce couple n'est pas de notre famille (mère = Keimovits Sarolta, pas Beck Sarolta — vérifié par lecture image zoomée). Cf. §3.6.
 4. **Demi-frère Gabor Majoros** — registre foncier Pozsonyi u. 3, BFL, post-2041 (actes 90 ans).
 5. **Maryté Smolski (1890-1975 Kaunas)** — branche cousine lituanienne, descendance soviétique.
 6. **Branche Komárom Kramer** — Lővinger Mórné née Kramer Júlia (1827-1909), faire-part OSZK [handle 154194](http://hdl.handle.net/20.500.12346/154194). Possible parente lointaine d'Ármin Kramer.

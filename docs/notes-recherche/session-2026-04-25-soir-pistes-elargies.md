@@ -8,18 +8,12 @@ Recherches négatives :
 - `Brunn Jozefa` (avec ou sans birth=1840, avec ou sans place=Nyitra) → **0 hits**
 - `Kramer Ármin` avec father=Kramer → **0 hits**
 - `Kramer + mother=Brunn Jozefa` → **0 hits**
-- `Lea Goldstein × Jenő Goldstein 1902` → **0 hits**
 
 → Notre lignée **Ármin × Brunn Jozefa et leurs enfants** n'apparaît PAS dans cette collection (qui couvre principalement les naissances/mariages d'enfants, et notre couple a fait leurs enfants hors période/lieu indexé).
 
 ### B. FS Hungary Civil Registration 1895-1980 (collection 1452460)
 
-- **Lea Kramér née 1902** : 33 hits, **aucun = notre Lea** (Kremener, Krammer Mátyás, Krammer János, etc. — homonymes ou variantes orthographiques).
-
-→ **Lea Kramér 1902 n'a pas d'acte de naissance indexé** dans la collection FS principale. Hypothèses :
-1. Naissance enregistrée hors Budapest (Komárom ?) ou avant 1895 (peu probable si née 1902).
-2. Index FS lacunaire pour Budapest 1900-1905 (district VII Erzsébetváros par exemple).
-3. Prénom ou nom orthographié différemment (Léa, Léna, Helena, Krammer…).
+> ⚠️ La recherche « Lea Kramér 1902 » faite à cette session a été motivée par l'hypothèse erronée d'une 3ᵉ enfant de notre Zsigmond × Sarolta. Hypothèse **invalidée** depuis (mère = Keimovits, ≠ Beck). Voir [pistes-fermees/lea-kramer-goldstein-mauvais-rattachement/](../pistes-fermees/lea-kramer-goldstein-mauvais-rattachement/).
 
 ### C. Geneanet — recherches noms de famille Kramer/Lővinger/Brunn
 
@@ -80,8 +74,7 @@ Confirme la fratrie szinóbányai (Jakab, Rezső, József + Cecília) en 1906. N
 | Parents de Kramer Ármin (notre, ~1840-1850) | Inconnus. (fgssoc indique « Jozsef Kramer » mais c'est une donnée dérivée de notre propre dépôt via Yannick/Michel — pas une source indépendante) | Acte de naissance Ármin (Slovaquie/Komárno/Nitra registres juifs avant 1895) |
 | Brunn Jozefa origine (~1840) | Inconnue. Sépulture Kozma 1925 seule source | Slovak Jewish records, base Macse, JewishGen |
 | Lien Ármin × szinóbányai | Pas attesté. Hypothèse de cousinage éloigné via un frère cadet d'Ignácz patriarche | Recherche acte de naissance d'Ignácz 1789 (Slovaquie) → identifier sa fratrie complète |
-| Lea Kramér × Goldstein Jenő — destin | Probablement Shoah 1944, non documenté FS | Yad Vashem recherche manuelle, USHMM, MAZSIHISZ |
-| Marishka 1980 | Non identifiée. Top hypothèse : fille de Lea × Goldstein | Témoignage Michel Majoros + photos famille |
+| Marishka 1980 | Non identifiée. Hypothèse « fille de Lea × Goldstein » **invalidée** 25.4.2026 nuit (Lea pas notre famille) ; pistes restantes : cousine via Júlia/Sámuel/Róza, Krammer Juliánna 1896, autre tante | Témoignage Michel Majoros + photos famille |
 | Descendance László Kramer-Cantor (Brésil) | Inconnue post-1946 | Arquivo Nacional Rio, APESP, Memorial do Imigrante SP |
 | Maryté Smolski (1890-1975 Kaunas) descendance | Branche cousine lituanienne, non explorée | Lietuvos valstybės istorijos archyvas (Vilnius) |
 | Kramer Mayer × Leicht Mária | Couple Kramer Hongrie ~1810-1830 vu en passant — 3e branche distincte | Investiguer si Mayer = frère d'Ignácz szinóbányai |
@@ -101,8 +94,7 @@ Confirme la fratrie szinóbányai (Jakab, Rezső, József + Cecília) en 1906. N
 1. **Slovak Jewish records** (Štátny archív v Nitre) : registres communautés israélites Komárno, Nitra, Pozsony 1820-1895 — pour Kramer Ármin, Brunn Jozefa, Lővinger Mór, et fratries.
 2. **JewishGen Hungary SIG** + **MACSE.org** : recherches collaboratives juives hongroises.
 3. **Témoignage Michel Majoros** : photos famille pour Marishka, fac-similés Brésil pour László.
-4. **Yad Vashem manuel via Chrome** (interface JS bot-detected) : Lea Kramér Goldstein, Jenő Goldstein.
-5. **Geni W.-E. Eckstein** : arbre szinóbányai géré, peut contenir des cousins.
+4. **Geni W.-E. Eckstein** : arbre szinóbányai géré, peut contenir des cousins.
 
 ## Sources consultées dans cette session
 

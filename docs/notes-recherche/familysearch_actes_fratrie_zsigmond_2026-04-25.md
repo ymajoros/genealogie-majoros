@@ -54,8 +54,7 @@ Recherche FS Slovakia Church and Synagogue Books 1592-1935 (collection 1554443) 
 
 ### Marishka (visiteuse Bruxelles 1980)
 
-- Recherche FS « Mariska Goldstein mère Lea Kramer » → 0 résultat hongrois
-- Hypothèse Lea × Goldstein → fille Mariska reste plausible mais **non documentée FS** (cohérent avec destin Shoah de la branche)
+- ~~Recherche FS « Mariska Goldstein mère Lea Kramer »~~ : faite sur l'hypothèse erronée que Lea Krámer × Goldstein Jenő (1936) était notre tante. Hypothèse **invalidée** 25.4.2026 nuit (mère = Keimovits, ≠ Beck). Voir [pistes-fermees/lea-kramer-goldstein-mauvais-rattachement/](../pistes-fermees/lea-kramer-goldstein-mauvais-rattachement/).
 
 ## Slovakia Church Books — pistes ouvertes pour origine Ármin
 

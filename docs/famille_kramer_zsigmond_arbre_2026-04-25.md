@@ -26,16 +26,17 @@ Les sources primaires sont copiées localement (cf. `actes/archives-web/`).
                                                                                             Nyitra 1872 –                  │
                                                                                             Budapest 16.5.1928              │
                                                                                             (cimetière Kozma utca)          │
-                                                                          ┌────────────────────┬──────────┴────────────┐
-                                                                    Mária Kramer       Kramer László            Lea Kramér
-                                                                    1898 – ≈1983       (Dr., né ≈1900,           12.8.1902 – ?
-                                                                    ⚭ Majoros Ödön     épigone Brésil 1946 → São Paulo)
-                                                                    1884-1966             ⚭ Kramer Lászlóné              ⚭ 28.8.1936 Jenő Goldstein
-                                                                                          (prénom inconnu)                  (1904, né Vajda-Hunyad)
-                                                                          │
+                                                                          ┌────────────────────┴──────┐
+                                                                    Mária Kramer                   Kramer László
+                                                                    14.12.1898 Bp VII. – ≈1983     (Dr., né ≈1900,
+                                                                    ⚭ Majoros Ödön                 émigré Brésil 1946 → São Paulo)
+                                                                    1884-12.8.1966                 ⚭ Kramer Lászlóné
+                                                                          │                       (prénom inconnu)
                                                                     Majoros Ferenc
-                                                                    1923-2008 → grand-père de Yannick
+                                                                    8.9.1923-6.3.2008 → grand-père de Yannick
 ```
+
+> **Note** : la fiche FS [GXXH-TDT](https://www.familysearch.org/tree/person/details/GXXH-TDT) « Lea Kramér 1902 × Goldstein Jenő » que l'on croyait être une 3ᵉ enfant a été démontrée comme **mauvais rattachement** (mère Keimovits Sarolta ≠ Beck). Voir [pistes-fermees/lea-kramer-goldstein-mauvais-rattachement/](pistes-fermees/lea-kramer-goldstein-mauvais-rattachement/).
 
 ## 2. Parents de Kramer Zsigmond
 
@@ -103,42 +104,14 @@ Ce sont **deux familles Beck distinctes** — il s'agit d'un patronyme courant. 
 
 ## 4. Enfants de Zsigmond × Sarolta
 
-L'arbre FamilySearch et les actes confirment **3 enfants** :
+Sources convergentes (Pesti Hírlap 17.5.1928, Pesti Napló 4.7.1937, acte décès Sarolta 1937, acte naissance Mária 1898) confirment **2 enfants** :
 
 | Prénom | Naissance | Décès | Conjoint | Sources |
 |---|---|---|---|---|
-| **Mária Kramer** (Mariska) | 1898 | ≈1983 Budapest | Dr. Majoros Ödön (1884-1966) | Az Est 30.4.1918 (fiançailles) ; FamilySearch [G5QQ-7CGL](https://www.familysearch.org/tree/person/details/G5QQ-7CGL) (privé) ; acte décès Majoros Ödön ARK [6V1G-YBGH](https://www.familysearch.org/ark:/61903/1:1:6V1G-YBGH) |
-| **Dr. Kramer László** | ≈1900 | ?, Brésil après 1946 | Kramer Lászlóné (prénom inconnu) | Pesti Hírlap 1928.05.17 ; Pesti Napló 1937.07.04 ; témoignage Michel Majoros |
-| **Lea Kramér** | 12 août 1902 | ? | Jenő Goldstein (b 31.3.1904 Vajda-Hunyad) ⚭ 28 août 1936 Budapest | FamilySearch [GXXH-TDT](https://www.familysearch.org/tree/person/details/GXXH-TDT) — **nouveau, non mentionné dans README jusqu'ici** |
+| **Mária Kramer** (Mariska) | 14 décembre 1898 Budapest VII. | ≈1983 Budapest | Dr. Majoros Ödön (1884-1966) | Acte civil naissance 1898 (FS ARK 3:1:S3HY-DTHW-8L) ; *Az Est* 30.4.1918 (fiançailles) ; FS [G5QQ-7CG](https://www.familysearch.org/tree/person/details/G5QQ-7CG) ; acte décès Majoros Ödön ARK [6V1G-YBGH](https://www.familysearch.org/ark:/61903/1:1:6V1G-YBGH) |
+| **Dr. Kramer László** | ≈1900 | ?, Brésil après 1946 | Kramer Lászlóné (prénom inconnu) | Pesti Hírlap 1928.05.17 ; Pesti Napló 1937.07.04 ; déclarant acte décès Sarolta 1937 ; témoignage Michel Majoros |
 
-### 4.1. Lea Kramér — branche à explorer
-
-**[✓ documenté arbre FS]** Lea Kramér née 12 août 1902, mariée le 28 août 1936 à Budapest avec Jenő Goldstein.
-
-Famille Goldstein/Garlon (FS [GXXH-PWQ](https://www.familysearch.org/tree/person/details/GXXH-PWQ)) :
-- Jenő Goldstein né 31 mars 1904 à **Vajda-Hunyad, Hunyad** (= Hunedoara, Roumanie aujourd'hui)
-- Parents : Ferenc Goldstein × Maria Szep
-- Frère : **Elemer Garlon** (1902-1979) — « Garlon » = magyarisation de Goldstein
-
-**Recherches ouvertes** :
-- Lea a-t-elle survécu à la Shoah ? (Goldstein, mariage en 1936, juifs hongrois → 1944-45 critique)
-- Enfants éventuels du couple Goldstein-Kramér ?
-- Le frère Elemer Garlon (1902-1979) est probablement aussi à Budapest.
-
-## 5. Cohérence avec les sources déjà documentées dans le README
-
-- **Pesti Hírlap, 17 mai 1928** (déjà documenté) cite « *Sz. Beck Sarolta felesége, Dr. Majoros Ödönné és Kramer László gyermekei* » → **Mária et László mentionnés, mais pas Lea**. Pourquoi ? Si Lea était vivante à 26 ans en 1928, elle aurait dû figurer sur l'avis de décès de son père. À investiguer :
-  - Lea peut-être absente de Budapest (pensionnaire, voyage) au moment de la rédaction
-  - Lea peut-être décédée avant 1928 (mais alors le mariage 1936 est impossible) — exclu
-  - Elle est peut-être incluse sous un nom différent, ou couverte par le « *gyermekei* » (« ses enfants »)
-  - **À vérifier** sur l'image originale du Pesti Hírlap
-
-- **Pesti Napló, 4 juillet 1937** (déjà documenté) cite « *Dr. Majoros Ödönné sz. Kramer Mária, dr. Kramer László gyermekei* » → de nouveau Lea n'est pas mentionnée nominativement. **Si Lea est vivante en 1937, le faire-part ne la nomme pas**, ce qui est inhabituel. Hypothèses :
-  - Lea pourrait avoir été déshéritée / brouillée avec sa famille (mariage tardif, mariage avec Goldstein, etc.)
-  - Lea pourrait être décédée entre 1928 et 1937 (mais alors mariage 1936 impossible, sauf si le mariage 1936 dans l'arbre FS est postdatée par erreur)
-  - Le mariage de 1936 figurant sur l'arbre FS pourrait concerner une autre Lea Kramér (homonyme)
-
-→ **Vérification croisée nécessaire** : actes civils de mariage 28 août 1936 Budapest pour Lea Kramér × Jenő Goldstein.
+> **Note** : la fiche FS [GXXH-TDT](https://www.familysearch.org/tree/person/details/GXXH-TDT) « Lea Kramér 1902 » avait été initialement supposée 3ᵉ enfant. **Hypothèse invalidée** par vérification haute-résolution de l'acte mariage 1936 (mère = Keimovits Sarolta ≠ Beck) — voir [pistes-fermees/lea-kramer-goldstein-mauvais-rattachement/](../pistes-fermees/lea-kramer-goldstein-mauvais-rattachement/).
 
 ## 6. Sources et copies locales
 
@@ -150,8 +123,6 @@ Famille Goldstein/Garlon (FS [GXXH-PWQ](https://www.familysearch.org/tree/person
 | Acte civil — Majoros Ödön †12.8.1966 (Mária mentionnée) | référence en ligne uniquement | <https://www.familysearch.org/ark:/61903/1:1:6V1G-YBGH> |
 | Arbre FS — Sarolta Beck (1873-1937) | référence en ligne uniquement | <https://www.familysearch.org/tree/person/details/G5QQ-JFY> |
 | Arbre FS — Simon Kramer (= Zsigmond) | référence en ligne uniquement | <https://www.familysearch.org/tree/person/details/GXXH-YFJ> |
-| Arbre FS — Lea Kramér (1902) | référence en ligne uniquement | <https://www.familysearch.org/tree/person/details/GXXH-TDT> |
-| Arbre FS — Jenő Goldstein (1904) | référence en ligne uniquement | <https://www.familysearch.org/tree/person/details/GXXH-PWQ> |
 
 ## 7. Pistes ouvertes
 
@@ -159,8 +130,6 @@ Famille Goldstein/Garlon (FS [GXXH-PWQ](https://www.familysearch.org/tree/person
 2. **Acte de naissance de Kramer Zsigmond** (Nyitra, ≈1872) — registre matrikel juif de Nyitra/Nitra (Slovenský národný archív, Bratislava).
 3. **Faire-part de Kramer Ármin** (entre 1901 et ~1928) — à chercher sur OSZK + presse.
 4. **Faire-part de Beck Nina** (mère de Zsigmond) — à chercher sur OSZK.
-5. **Acte de mariage Lea Kramér × Jenő Goldstein 28.8.1936** — registre civil Budapest.
-6. **Survie/destin de Lea Kramér après 1937** — bases Yad Vashem, USHMM, témoignage Shoah.
 7. **Tombeau de Kramer Zsigmond** — cimetière Kozma utca, Budapest (base MACSE).
 
 ## Mise à jour suite — Famille Beck Lipót × Mária Rauschnitz (côté Sarolta)

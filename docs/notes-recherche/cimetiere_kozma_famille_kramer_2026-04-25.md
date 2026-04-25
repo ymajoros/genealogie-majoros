@@ -51,7 +51,7 @@ Recherches négatives (count=0) :
 
 - **Kramer Ármin (notre, mari de Brunn Jozefa)** : pas trouvé. Décès entre 1901 (signataire faire-part Beck Gizella) et 1925 (Brunn Jozefa veuve à son décès). Lieu d'inhumation autre (autre cimetière israélite hongrois ? Nyitra ? Komárom ?).
 - **Cantor** (László émigré Brésil 1946) : 0 résultats. Cohérent avec décès au Brésil.
-- **Goldstein Lea** (= Lea Kramér × Jenő Goldstein 1936) : 0 résultats. Probable victime de la Shoah 1944 (déportée à Auschwitz comme la majorité des Juifs de Budapest), ou disparue / réfugiée.
+- ~~**Goldstein Lea**~~ : recherche faite sur l'hypothèse que Lea Krámer × Goldstein Jenő (1936) était notre tante — **hypothèse invalidée** 25.4.2026 nuit (mère = Keimovits Sarolta, ≠ Beck). Voir [pistes-fermees/lea-kramer-goldstein-mauvais-rattachement/](../pistes-fermees/lea-kramer-goldstein-mauvais-rattachement/).
 - **Beck Nina / Nanetta** (2e épouse de Kramer Ármin) : 0 résultats. Pas inhumée à Kozma.
 - **Perlhefter** (mari de Krammer Róza) : 0 résultats.
 - **Krammer Juliánna 1896** (demi-sœur paternelle) : 0 résultats à Kozma.
@@ -74,9 +74,7 @@ L'endpoint `oper=moreinfo&id=ID` retourne les co-occupants de la même tombe (pa
 ## Pistes ouvertes après cette session
 
 1. **Kramer Ármin (notre)** : son cimetière de décès — à chercher en dehors de Budapest. Hypothèses : Komárom (cimetière israélite), Nyitra (Slovaquie aujourd'hui Nitra), ou d'autres villes hongroises.
-2. **Lea Kramér Goldstein 1902-?** : destin pendant la Shoah — Yad Vashem (Page of Testimony à chercher).
-3. **Kramer Lászlóné Stern Irén** : si elle a eu une fille **Mária / Marishka**, c'est notre candidate principale pour la « Marishka » des années 80. À chercher dans BFL ou registres post-1985.
-4. **Sámuel Kramer × Göttler Fanni 1924** : pas trouvé à Kozma — peut-être encore vivant après 1985 (born ~1880-1890, possible centenary), ou enterré ailleurs.
+2. **Sámuel Kramer × Göttler Fanni 1924** : pas trouvé à Kozma — peut-être encore vivant après 1985 (born ~1880-1890, possible centenary), ou enterré ailleurs.
 
 ## CORRECTION 25 avril 2026 (soir) — Stern Irén RÉFUTÉ
 
@@ -124,16 +122,6 @@ L'absence de sépulture commune avec Brunn Jozefa (parc.40/sor.66/sir.20, sépul
 
 0 résultats pour Perlhäfter / Perlhefter / Perlheffer dans la base Kozma. Donc inhumés ailleurs (cimetière israélite Csörsz, ou autre).
 
-### Lea Kramér × Goldstein Jenő : pas à Kozma
-
-0 résultats pour « Goldstein Jenőné Kramer Lea » ni pour « Kramer Lea ». 
-
-**Hypothèse forte : victimes de la Shoah 1944**.
-- Mariés 28.8.1936 Budapest, donc Juifs hongrois sous le régime Horthy puis Szálasi
-- Pas de sépulture connue à Kozma ni Salgótarjáni
-- À vérifier sur **Yad Vashem Names Database** (recherche manuelle JS, accès Chrome requis)
-- À vérifier sur **MAZSIHISZ Holocaust victim register**
-
 ## Découverte additionnelle 25 avril 2026 (matin)
 
 ### Possible 5e sibling de Zsigmond : Rosenthall Miklósné née Kramer Mariska (1888-1928)
@@ -164,7 +152,6 @@ Incohérences ou faiblesses :
 | Kramer Ármin (mari Brunn Jozefa) | NON | Komárom / Nyitra / Pozsony / autre cimetière israélite hongrois |
 | Sámuel Kramer × Göttler Fanni 1924 | NON | Salgótarjáni / Csörsz / autre |
 | Krammer Róza × Perlhefter Fábián †20.12.1933 | NON | Salgótarjáni / Csörsz / Rákoskeresztúr |
-| Lea Kramér × Jenő Goldstein 1936 | NON | **Probable Shoah 1944** (Auschwitz) ; à vérifier Yad Vashem |
 | Krammer Juliánna née 10.5.1896 (demi-sœur paternelle) | NON | À investiguer |
 | Mariska Kramer × Miklós Rosenthall (5e sibling présumé) | OUI parc.39/73/51 | Kozma utca (Budapest) |
 | Brunn Jozefa = Braun Jozefin (mère) | OUI parc.40/66/20 | Kozma utca |
