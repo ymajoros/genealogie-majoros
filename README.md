@@ -180,13 +180,20 @@ Mariage vraisemblablement printemps-été 1918 — acte à rechercher aux archiv
 
 **[?]** À investiguer : archives Budapesti Ügyvédi Kamara, listes de passagers 1946 (Arquivo Nacional Rio), Memorial do Imigrante São Paulo, Museu Judaico de São Paulo.
 
-### 3.6. Lea Kramér × Jenő Goldstein — troisième enfant identifié
+### 3.6. Lea Kramér × Jenő Goldstein — 3ᵉ enfant *présumé* (saisie FS isolée, non confirmée)
 
-**[◐ arbre FS]** [`GXXH-TDT`](https://www.familysearch.org/tree/person/details/GXXH-TDT) — Lea Kramér née 12.8.1902, mariage **28.8.1936 Budapest** avec Jenő Goldstein (né 31.3.1904 Vajda-Hunyad, aujourd'hui Hunedoara, Roumanie) [`GXXH-PWQ`](https://www.familysearch.org/tree/person/details/GXXH-PWQ).
+> ⚠️ **Avertissement de fiabilité (audit 25.4.2026)** : le rattachement de « Lea Kramér née 1902 » à notre Zsigmond × Sarolta repose **uniquement sur une saisie d'arbre FamilySearch [GXXH-TDT](https://www.familysearch.org/tree/person/details/GXXH-TDT)** créée par un utilisateur non identifié, et sur une **source FS de 1936 attachée à GXXH-YFJ** dont l'image n'a jamais été consultée. **Aucun acte primaire ne nomme Lea comme fille de Zsigmond × Sarolta**. Lea **est absente de tous les faire-part familiaux** (Zsigmond 1928, Sarolta 1937, Brunn Jozefa 1925, Júlia 1962, Sámuel 1924). La recherche FS Hungary CR « Lea Kramér 1902 » donne 33 hits, **aucun = elle**. Tous les autres indices ADT (Egyenlőség, Új Kelet, Magyar Közlöny) prouvent qu'**un** couple Goldstein Jenő × Krámer Lea a existé en Hongrie/Israël, **mais pas qu'il s'agisse de notre famille**. Hypothèse alternative non écartée : Lea Kramér 1902 × Jenő Goldstein est une personne réelle d'une **autre famille Kramer**, mal rattachée à notre Zsigmond par un saisisseur tiers.
 
-**[? *omission inhabituelle*]** Lea n'apparaît PAS sur les avis de décès de ses parents (1928, 1937). Hypothèses : discorde antérieure, autre Lea Kramér homonyme, ou erreur d'attribution dans l'arbre FS.
+**[◐ arbre FS isolé — non vérifié]** [`GXXH-TDT`](https://www.familysearch.org/tree/person/details/GXXH-TDT) déclare Lea Kramér née 12.8.1902, mariage **28.8.1936 Budapest** avec Jenő Goldstein (né 31.3.1904 Vajda-Hunyad, aujourd'hui Hunedoara) [`GXXH-PWQ`](https://www.familysearch.org/tree/person/details/GXXH-PWQ). **Acte image jamais consulté.**
 
-**[◐ *audit ADT 25.4.2026 — nouvelle hypothèse*]** Survie probable + émigration en Israël. Recherche Hungaricana / ADT Plus a remonté **27 hits « Goldstein Jenő » + Tel-Aviv** et **24 hits + Haifa** étalés sur **Új Kelet 1949-1977** (journal hongrois-juif refondé à Tel-Aviv en 1948). 3 hits indépendants `"Goldstein Jenőné" Krámer` dans **Egyenlőség 1938** + **Pesti Hírlap 1930**. 1 hit `"Goldstein Jenő" Kramer 1936` dans **Nyírvidék juillet 1936** (probable annonce mariage). 1 hit Magyar Közlöny 1946 (peut-être halottá nyilvánítás Shoah, peut-être tout autre acte officiel). Détails et matrice de qualité : [docs/notes-recherche/lea_kramer_audit_2026-04-25.md](docs/notes-recherche/lea_kramer_audit_2026-04-25.md). Vérifications OCR ADT et Yad Vashem encore requises.
+**[? *Lea absente de tous les faire-part familiaux*]** Pesti Hírlap 17.5.1928 (Zsigmond) et Pesti Napló 4.7.1937 (Sarolta) nomment uniquement « Mária et László gyermekei ». Anomalie majeure non expliquée si Lea est leur fille réelle.
+
+**[◐ *audit ADT 25.4.2026 — pistes ouvertes mais non identifiantes*]** Hungaricana / ADT Plus remonte 27 hits « Goldstein Jenő » + Tel-Aviv et 24 + Haifa dans Új Kelet 1949-1977 ; 3 hits `"Goldstein Jenőné" Krámer` dans Egyenlőség 1938 + Pesti Hírlap 1930 ; 1 hit Nyírvidék juillet 1936. Aucun de ces hits ne prouve que la « Goldstein Jenőné Krámer » concernée est fille de Zsigmond × Sarolta. Détails : [docs/notes-recherche/lea_kramer_audit_2026-04-25.md](docs/notes-recherche/lea_kramer_audit_2026-04-25.md).
+
+**Pour confirmer (ou invalider) Lea = fille de Zsigmond × Sarolta** :
+1. **Voir l'image de l'acte FS Hungary CR 1936** rattaché à GXXH-YFJ par utilisateur XXY29 le 15.6.2022 — vérifier qu'il nomme Lea Kramér comme épouse ET Zsigmond Kramer × Sarolta Beck comme parents
+2. **BFL Budapest** registres civils : naissance 1902 + mariage 28.8.1936
+3. **Témoignage Michel Majoros** : sa mère Mária a-t-elle parlé d'une sœur Lea ?
 
 ## 4. Smalstys / Geelens (Kamajai, Verviers)
 
