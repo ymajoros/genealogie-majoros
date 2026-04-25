@@ -1,4 +1,6 @@
-# Synthèse exhaustive des recherches — 25 avril 2026 (soir/nuit)
+# Synthèse des recherches contextuelles — 25 avril 2026 (soir/nuit) [PISTE FERMÉE]
+
+> ⚠️ **Document archivé en piste fermée**. La majorité de cet état-des-lieux a été rédigée sous l'hypothèse erronée que **Lea Krámer × Goldstein Jenő (1936) était de notre famille**. Cette hypothèse est **invalidée** depuis : voir [README.md](README.md) du dossier piste fermée pour les détails (mère = Keimovits Sarolta, ≠ Beck Sarolta). Ce document est conservé comme contexte de recherche — il documente plus de 150 documents ADT identifiés sur la famille **Krámer Simon × Keimovits Sarolta** (Bp VII. Kazár u. 3) qui pourraient intéresser un autre généalogiste de cette branche distincte.
 
 Document de synthèse après recherches automatisées intensives sur la famille Kramer-Majoros. Liste tous les documents identifiés mais **pas encore téléchargés**, organisés par priorité et par membre de famille.
 
