@@ -1,8 +1,29 @@
 # Audit complet — Lea Kramer × Jenő Goldstein (25 avril 2026)
 
-Audit qualité de toutes les informations sur **Lea Kramér** (3ᵉ enfant de Zsigmond Kramer × Sarolta Beck) et son époux **Jenő Goldstein**.
+Audit qualité de toutes les informations sur **Lea Kramér** (présumée 3ᵉ enfant de Zsigmond Kramer × Sarolta Beck) et son époux **Jenő Goldstein**.
 
 **Tâche** : recouper sources, vérifier hypothèses, archiver, documenter par niveau de preuve.
+
+> ## 🚨 AVERTISSEMENT FONDAMENTAL (ajout après audit)
+>
+> **Le rattachement de Lea à notre famille n'est PAS confirmé par acte primaire.**
+>
+> Toute la chaîne de preuves repose sur :
+> 1. Une **saisie d'arbre FamilySearch [GXXH-TDT](https://www.familysearch.org/tree/person/details/GXXH-TDT)** créée par un utilisateur non identifié
+> 2. Une **source FS de 1936 attachée à GXXH-YFJ** (Zsigmond) par utilisateur **XXY29** le 15.6.2022 — **image jamais consultée**, l'interprétation « 1936 = mariage de Lea » par le chercheur précédent peut être fausse
+>
+> **Tous les autres indices** (3 hits ADT « Goldstein Jenőné » Krámer dans Egyenlőség 1938 et Pesti Hírlap 1930 ; 27 hits « Goldstein Jenő » Tel-Aviv dans Új Kelet 1949-77 ; Magyar Közlöny 1946 ; Nyírvidék 1936.07) **prouvent l'existence d'un couple Goldstein-Kramer en Hongrie/Israël, mais PAS qu'il s'agisse de la fille de Zsigmond × Sarolta**.
+>
+> **Indices CONTRE le rattachement** :
+> - ❌ Lea **absente** des faire-part Zsigmond 1928 (Pesti Hírlap), Sarolta 1937 (Pesti Napló), Brunn Jozefa 1925, Júlia 1962, Sámuel 1924
+> - ❌ FS Hungary CR « Lea Kramér 1902 » : 33 hits, **aucun = elle**
+> - ❌ FS Hungary Jewish Vital Records : 0 hit Lea Goldstein 1902 Budapest
+> - ❌ OSZK gyászjelentések, Geneanet, Kozma utca : 0 hit
+> - ❌ **Aucun témoignage familial direct** transmis par Yannick/Michel
+>
+> **Hypothèse alternative non écartée** : Lea Kramér 1902 × Jenő Goldstein 1936 est une personne réelle d'**une autre famille Kramer**, mal rattachée à notre Zsigmond par le saisisseur XXY29 dans l'arbre FS.
+>
+> **Tant que l'acte FS de 1936 n'est pas vu en image avec parents nommés (Zsigmond × Sarolta), tout le dossier Lea (Marishka, Israël, Shoah, eljegyzés) repose sur du sable.**
 
 ---
 
@@ -146,18 +167,20 @@ Quasi exclusivement **Új Kelet** (1949-1977), journal hongrois-juif refondé à
 
 → **Confirme l'absence de Lea dans le texte du faire-part Zsigmond 1928** (Lea = mention indépendante sur la même page).
 
-## 4. Hypothèses : matrice de qualité après audit
+## 4. Hypothèses : matrice de qualité **REVUE** après audit critique
+
+> **NB important** : la matrice ci-dessous distingue désormais (a) ce qui prouve qu'**une** personne nommée Lea Kramér a existé, de (b) ce qui prouverait qu'elle est **fille de Zsigmond × Sarolta**. Les deux questions étaient confondues dans la version initiale.
 
 | Hypothèse | Niveau de preuve | Sources convergentes | Sources divergentes |
 |---|---|---|---|
-| **Lea Kramér existe et est née ~1902** | ⭐⭐ Modéré | Arbre FS GXXH-TDT (utilisateur XXY29) ; FS Tree GXXH-YFJ source 1898 (= naissance de Mária, sa sœur aînée), 1936 (= mariage de Lea), 1937 (= décès Sarolta) **rattachées au père Simon/Zsigmond** | Aucun acte civil indépendant trouvé. Pas dans les 4 actes Hungary CR récemment confirmés (Zsigmond, Júlia, Sámuel, Róza enfants d'Ármin × Brunn Jozefa) |
-| **3ᵉ enfant de Zsigmond × Sarolta Beck** | ⭐⭐ Modéré | Arbre FS rattachement | **Absente des deux avis de décès** (1928 + 1937) — anomalie sérieuse non expliquée |
-| **Mariée 28.8.1936 Budapest à Jenő Goldstein** | ⭐⭐ Modéré | Source FS rattachée à GXXH-YFJ (« Kramer Simon, Hungary CR 1895-1980 » créé par XXY29 le 15.6.2022) | Acte image non vu ; pas trouvé dans recherche FS « Lea Kramér 1902 Budapest 1936 » |
-| **Mariage annoncé Nyírvidék juillet 1936** | ⭐⭐ Modéré-fort | ADT 1 hit `"Goldstein Jenő" Kramer 1936` — Nyírvidék 1936.07 pg 33 | OCR à vérifier |
-| **Lea = Goldstein Jenőné dans Egyenlőség 1938** | ⭐⭐⭐ Fort (3 hits indépendants) | 3 documents Egyenlőség (hebdo juif hongrois) + Pesti Hírlap 1930 | OCR à vérifier ; le Pesti Hírlap 1930 est 6 ans avant le mariage FS |
-| **Goldstein Jenő émigré Tel-Aviv/Haifa post-1948** | ⭐⭐⭐ Fort en présomption | 27 hits Tel-Aviv + 24 Haifa, 1949-1977, presse Új Kelet | Pas de confirmation d'identité (homonymes possibles) ; pas de Page of Testimony Yad Vashem identifiée |
-| **Halottá nyilvánítás 1946 (Lea ou Jenő déclarés morts Shoah)** | ⭐⭐ Modéré (à confirmer) | Magyar Közlöny 1946 pg 309 contient `"Goldstein Jenő" + "Lea"` ET `"Goldstein Jenőné" + "Lea"` | OCR à vérifier — pourrait aussi être une autre procédure (changement de nom, naturalisation, etc.) |
-| **Marishka 1980 = fille de Lea × Jenő** | ⭐ Faible (hypothèse) | Cohérence chronologique (Lea née 1902, Jenő 1904 ; fille hypothétique née ~1937-1942 = 38-43 ans en 1980) | Aucune trace documentaire d'enfant ; FS Hungary CR Births 1937-1944 mère Lea Kramér = 0 hit ; **possible si Lea & Jenő ont émigré, leur fille pourrait être à Tel-Aviv et venir visiter Bruxelles 1980** |
+| **(a) Une Lea Kramér née ~1902 a existé** | ⭐⭐ Modéré | Arbre FS GXXH-TDT (saisisseur non identifié) | Acte de naissance jamais consulté ; FS Hungary Jewish VR 1800-1945 = 0 hit ; FS Hungary CR Lea Kramér 1902 = 33 hits aucun ne correspond |
+| **(b) Cette Lea est fille de Zsigmond × Sarolta** | ⭐ **FAIBLE** | Saisie isolée GXXH-TDT ; source FS 1936 attachée à GXXH-YFJ par XXY29 (image non vue, **interprétation « 1936 = mariage de Lea » non vérifiée**) | ❌ Lea **absente** Pesti Hírlap 17.5.1928 (Zsigmond), Pesti Napló 4.7.1937 (Sarolta), faire-part Brunn Jozefa 1925, Júlia 1962, Sámuel 1924 ; ❌ aucun témoignage familial Yannick/Michel ; ❌ aucun acte image qui la nomme comme leur fille |
+| **Mariée 28.8.1936 Budapest à Jenő Goldstein** | ⭐ Faible | Arbre FS GXXH-TDT déclaratif | Acte image non vu ; recherche FS « Lea Kramér 1902 Budapest 1936 » 33 hits aucun = elle |
+| **« Goldstein Jenőné Krámer » dans Egyenlőség 1938** | ⭐⭐ Modéré (3 hits indépendants) | 3 documents Egyenlőség + Pesti Hírlap 1930 + Újság 1930 + Magyar Közlöny 1946 | **N'identifie PAS la personne** comme fille de Zsigmond × Sarolta — ce nom de couple peut désigner plusieurs familles distinctes en Hongrie 1900-1940 |
+| **Mariage annoncé Nyírvidék juillet 1936** | ⭐⭐ Modéré (1 hit) | ADT 1 hit `"Goldstein Jenő" Kramer 1936` — Nyírvidék 1936.07 pg 33 | OCR jamais lu ; pas d'identification des parents |
+| **Goldstein Jenő émigré Tel-Aviv/Haifa post-1948** | ⭐⭐⭐ Fort comme **fait** ; ⭐ faible comme **identification** | 27 hits Tel-Aviv + 24 Haifa, 1949-77 dans Új Kelet | Aucune confirmation que ce Jenő = mari de notre Lea (homonymes plausibles) |
+| **Halottá nyilvánítás 1946** | ⭐ Faible (à confirmer) | Magyar Közlöny 1946 pg 309 mentionne « Goldstein Jenő » + « Lea » | OCR jamais lu ; pourrait être autre procédure |
+| **Marishka 1980 = fille de Lea × Jenő** | ⭐ Très faible (hypothèse construite sur une hypothèse) | Cohérence chronologique théorique | Repose sur l'existence non prouvée de Lea dans notre famille **et** sur l'existence non prouvée d'une fille |
 
 ## 5. Le problème central : **deux scénarios possibles**
 
@@ -207,20 +230,26 @@ Quasi exclusivement **Új Kelet** (1949-1977), journal hongrois-juif refondé à
 2. **Magyar Zsidó Levéltár** — collection áldozatlisták 1945-46 (vie Magyar Zsidó Levéltár Budapest, EHRI portal `hu-002737-hu_hja_xx-c-4`)
 3. **Arhivele Naționale Hunedoara (Roumanie)** — registres israélites Vajdahunyad/Hunedoara 1900-1944 (parents Goldstein × Szép, frère Garlon)
 
-## 7. Verdict — qualité globale au 25 avril 2026
+## 7. Verdict — qualité globale au 25 avril 2026 (révisé)
 
-**Sur les 8 affirmations principales** sur Lea Kramer × Jenő Goldstein :
+### Ce qui est établi
+- **0 indice positif** d'un rattachement de Lea Kramér à notre famille Zsigmond × Sarolta autre que la saisie FS GXXH-TDT et la source FS 1936 (image non vue)
+- **5 indices négatifs** convergents : absence des 5 faire-part familiaux disponibles
+- **Existence d'un couple Goldstein Jenőné × Krámer** dans la presse hongroise 1930-1938 et israélienne 1949-1977 — **identité non liée à notre famille** par aucune source
 
-- **2 confirmées** par recoupement (absence des avis de décès de ses parents 1928/1937) ✓
-- **1 fortement probable** (annonce mariage juillet 1936 Nyírvidék) ⭐⭐⭐
-- **1 fortement probable** (existence Goldstein Jenőné Kramer dans Egyenlőség 1938) ⭐⭐⭐
-- **1 nouveau scénario fort à explorer** : émigration israélienne post-1948 (27 hits Új Kelet) ⭐⭐⭐
-- **3 affirmations restent au niveau « arbre FS uniquement »** : naissance 1902, mariage 28.8.1936, parents de Jenő — toutes plausibles mais **non confirmées par acte image consulté**
+### Conclusion révisée
 
-**Conclusion principale** :
-- L'**existence du couple Lea Kramér × Jenő Goldstein** est désormais **probable à 85%** (vs 60% avant l'audit), grâce aux 3+1+15 hits ADT.
-- Le **destin** du couple penche vers **survie + émigration Israël** plutôt que Shoah, contredisant l'hypothèse de travail antérieure. **À confirmer**.
-- L'**hypothèse Marishka = fille de Lea & Jenő** reste plausible mais nécessite vérification directe (Új Kelet 1949-1977 OCR).
+> **Au 25 avril 2026, le rattachement de « Lea Kramér née 1902 » à notre famille Zsigmond × Sarolta n'est étayé par aucune source primaire indépendante. C'est une hypothèse de travail issue d'une saisie FamilySearch isolée, contredite par toutes les sources testimoniales familiales (faire-part) et ne s'appuyant sur aucun acte image vu.**
+
+L'existence d'**une** Lea Kramér née ~1902 mariée à un Goldstein dans la presse hongroise est probable. Sa **filiation à Zsigmond × Sarolta** reste à démontrer.
+
+### Étape suivante incontournable
+
+**Voir l'image de la source FS 1936 attachée à GXXH-YFJ** (créée par utilisateur XXY29 le 15 juin 2022) :
+- Soit elle nomme Lea Kramér + Zsigmond Kramer × Sarolta Beck (parents de la mariée) → confirmation
+- Soit elle ne les nomme pas (autre acte concernant Zsigmond posthumément) → l'arbre GXXH-TDT est probablement une erreur de rattachement par XXY29
+
+Sans cette vérification image, **toutes les conclusions du présent audit sur la « branche Lea » sont à considérer comme spéculatives**.
 
 ## 8. Sources et copies locales
 
