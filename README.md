@@ -158,11 +158,13 @@ Autres homonymes (Krámer Zsigmond de Nyír-Bogdány, Sopron…) : voir [docs/no
 
 ### 3.3. Kramer Mária
 
+**[✓ source primaire image]** **Née 14 décembre 1898 Budapest VII. (Erzsébetváros), Föld utca 29** — acte civil de naissance, FamilySearch image ARK [`3:1:S3HY-DTHW-8L`](https://www.familysearch.org/ark:/61903/3:1:S3HY-DTHW-8L?view=index) (image 836/861, Image Group 004403180, archive originale BFL). Père Krámer Zsigmond *fűszerkereskedő* 29 ans ; mère Beck Sarolta 24 ans née Komárom ; religion israélite. Détails et transcription : [actes/archives-web/familysearch/Kramer_Maria_naissance_1898_civil.md](actes/archives-web/familysearch/Kramer_Maria_naissance_1898_civil.md).
+
 **[✓]** **Petite-fille personnellement connue par Yannick à Budapest** — décès estimé vers 1983.
 
-**[◐]** Fille de Zsigmond × Sarolta, sœur de László. Mention sur l'acte de décès d'Ödön : `Kramer (Majoros) Mária`, FS [`1:1:6V1G-YBGH`](https://www.familysearch.org/ark:/61903/1:1:6V1G-YBGH).
+**[◐]** Mention sur l'acte de décès d'Ödön : `Kramer (Majoros) Mária`, FS [`1:1:6V1G-YBGH`](https://www.familysearch.org/ark:/61903/1:1:6V1G-YBGH).
 
-**[?]** Dates précises de naissance, mariage et décès : actes non retrouvés (la collection FS Hungary CR 1895-1980 s'arrête avant son décès présumé).
+**[?]** Dates précises de mariage et décès : actes non retrouvés (la collection FS Hungary CR 1895-1980 s'arrête avant son décès présumé ~1983).
 
 ### 3.4. Fiançailles et mariage Majoros Ödön × Kramer Mária — 1918
 
@@ -285,6 +287,7 @@ Sources principales : **[CArCoB PP 23](http://www.carcob.eu/IMG/pdf/inventaire_s
 | Fichier | Source | Référence externe |
 |---|---|---|
 | `ODon-Majoros-deces-1966-Budapest-XIV-cert978.jpg` | FamilySearch | [ARK `1:1:6V1G-YBG3`](https://www.familysearch.org/ark:/61903/1:1:6V1G-YBG3) |
+| `archives-web/familysearch/Kramer_Maria_naissance_1898_civil.pdf` | FamilySearch (BFL) | [ARK `3:1:S3HY-DTHW-8L`](https://www.familysearch.org/ark:/61903/3:1:S3HY-DTHW-8L?view=index) — img 836/861, Image Group 004403180 |
 | `Annuaire-telephonique-Budapest-1920-p301-Majoros-Odon.pdf` | Hungaricana | [FszekCimNevTarak_20_00_1920 p.301](https://library.hungaricana.hu/en/view/FszekCimNevTarak_20_00_1920/?pg=301&layout=s) |
 | `Presse-1945-08-03-KulfBelfHirek-Majoros-Odon-tanacselnok.pdf` | Hungaricana | [KulfBelfHirek 1945.08.03 p.124](https://library.hungaricana.hu/en/view/KulfBelfHirek_1945_08_1__001-123/?pg=124&layout=s) |
 | `Annuaire-telephonique-Budapest-1948-03-p197-Majoros-Odon-tanacselnok.pdf` | Hungaricana | [FszekCimNevTarak_20_019_12 p.197](https://library.hungaricana.hu/en/view/FszekCimNevTarak_20_019_12/?pg=197&layout=s) |
