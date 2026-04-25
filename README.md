@@ -267,7 +267,7 @@ Sources principales : **[CArCoB PP 23](http://www.carcob.eu/IMG/pdf/inventaire_s
 
 **[✓]** Maintient l'arbre Geneanet [`michelmajoros`](https://gw.geneanet.org/michelmajoros) (31 individus).
 
-**Mariages** : 4 (Christine Degehet ; Françoise Gueur, divorcée → **Yannick Majoros** ; Valérie Vanderkelen → Nathanaël + Karim Majoros ; Nora Claes).
+**Mariages** : Christine Degehet ; **Françoise Gueur** (divorcée) → **Yannick + Nathanaël + Karim Majoros** ; Valérie Vanderkelen ; Nora Claes.
 
 ## 8. Sources et archives
 

@@ -5,10 +5,9 @@
 - **Profil Geneanet** : `fgssoc` = **Françoise GUEUR** (Premium member)
 - **Adresse** : Rue Général de Gaulle 268, 6180 Courcelles, Belgique
 - **Volume** : 4 184 individus, 1 638 noms de famille (mise à jour 25.4.2026)
-- **Lien familial** : ⭐ **Ex-épouse divorcée de Michel Majoros**, donc **mère biologique de Yannick Majoros** (Yannick = fils de Michel × Françoise Gueur)
-- **Source pour la branche Majoros** : « Yannick et Michel Majoros » + « Famille Majoros » (= contributions familiales directes)
+- **Lien familial** : ⭐ **Ex-épouse divorcée de Michel Majoros**, **mère biologique de Yannick, Nathanaël et Karim Majoros** (les trois fils de Michel × Françoise Gueur)
 
-⚠️ **Erreur dans l'arbre fgssoc** : l'arbre indique Françoise Gueur mariée 26.5.1976 Uccle à **Ferenç Majoros** (1923-2008). C'est **faux** — elle a été mariée à **Michel Majoros** (fils de Ferenç et de Jurgita Smolski). Probable saisie inversée par Françoise dans son propre arbre. Cette correction est confirmée par l'arbre `michelmajoros` (cf. infra).
+⚠️ **fgssoc n'est pas une source indépendante pour les Kramer** : toutes les données Kramer/Beck/Montag/Heiduska de fgssoc proviennent de contributions Yannick/Michel — c'est-à-dire de **nos propres recherches dans ce dépôt** ou de versions plus anciennes de celles-ci. Aucune « confirmation fgssoc » ne peut donc valider une hypothèse sur cette branche : c'est de la circularité. Toute info Kramer dans fgssoc est à **revérifier sur source primaire**.
 
 ## Arbre `michelmajoros` (Michel Majoros, père de Yannick)
 
@@ -16,9 +15,11 @@
 - Maintenu par **Michel Majoros** (Sosa 1)
 - Spouses listés pour Michel :
   - Christine Degehet
-  - **Françoise Gueur (divorced) → Yannick Majoros** ⭐
-  - Valérie Vanderkelen → Nathanaël Majoros + Karim Majoros
+  - **Françoise Gueur (divorced) → Yannick + Nathanaël + Karim Majoros** ⭐ (les trois fils de Michel × Françoise)
+  - Valérie Vanderkelen
   - Nora Claes
+
+> Note : l'arbre `michelmajoros` rattachait à tort Nathanaël et Karim à Valérie Vanderkelen ; correction Yannick (25.4.2026) — les trois fils sont nés du mariage avec Françoise Gueur.
 
 ## Branche Geelens-Parisis-Stembert (Verviers)
 
@@ -159,21 +160,13 @@ Jozsef KRAMER × ?              Joseph MONTAG × Zsofia HEIDUSKA
                                                                   Yannick MAJOROS
 ```
 
-⚠️ **Divergence majeure avec nos sources primaires** :
+⚠️ **« Jozsef Kramer » dans fgssoc — donnée dérivée non sourcée, à écarter** :
 
-L'arbre fgssoc indique **« Jozsef KRAMER »** comme père de Zsigmond Kramer.
+L'arbre fgssoc indique **« Jozsef KRAMER »** comme père de Zsigmond Kramer. Mais comme **fgssoc reproduit nos propres données** (ou des versions antérieures, transmises via Yannick/Michel), ce « Jozsef » n'est **pas** une donnée indépendante — c'est probablement un vieux placeholder non sourcé qui circule dans la famille.
 
-**Nos 4 actes FS Hungary CR confirment au contraire** : père = **Kramer Ármin** (× Brunn/Braun Jozefa) — cf. doc `familysearch_actes_fratrie_zsigmond_2026-04-25.md`.
+**Sources primaires actuelles (4 actes FS Hungary CR + faire-part Beck Sarolta 1937)** : père de Zsigmond = **Kramer Ármin** × Brunn/Braun Jozefa. Cf. `familysearch_actes_fratrie_zsigmond_2026-04-25.md`.
 
-Hypothèses pour résoudre la contradiction :
-1. **Erreur fgssoc** — saisie erronée par Françoise Gueur (à corriger)
-2. **Jozsef = grand-père** : si Jozsef Kramer est le père d'Ármin (= grand-père paternel de Zsigmond), alors :
-   - Cohérent avec FS Tree P99Q-5PV où Ármin Krámer 1843-1895 a parents **Jozsef Kramer × Katalin Engl**
-   - Mais ce P99Q-5PV est marié à Bürger Mária (pas Brunn Jozefa) — homonyme
-   - Possible toutefois que notre Ármin × Brunn Jozefa ait aussi pour père un Jozsef Kramer (multiple Kramer Ármin contemporains issus de la même génération frères et cousins)
-3. **Note** : aucun acte FS direct ne confirme Jozsef Kramer comme père d'Ármin pour notre branche
-
-→ **Action** : confronter avec Françoise Gueur pour comprendre sa source. Si "Jozsef" est juste un placeholder mal orthographié ou un témoignage oral non sourcé, le corriger en "Ármin".
+→ Pas de « divergence à résoudre » : c'est juste une donnée non vérifiée à corriger côté fgssoc lors d'un échange éventuel avec Françoise. Ne pas s'appuyer sur fgssoc comme « confirmation indépendante » d'une hypothèse Kramer (circularité).
 
 ### Note famille (fgssoc)
 
@@ -181,11 +174,11 @@ Hypothèses pour résoudre la contradiction :
 
 ✓ Confirme la date de divorce 1951 (cohérent avec mémoire `project_ferenc_divorce_gabor.md`).
 
-### 2e mariage de Ferenç (fgssoc)
+### Mariage Françoise × Michel
 
-> Married May 26, 1976 (Wednesday), Uccle, to **Françoise Nicole Marcelle GUEUR 1952**.
+> Married May 26, 1976 (Wednesday), Uccle.
 
-⭐ **Information clé** : Françoise Gueur née 1952, mariée 26.5.1976 Uccle à Ferenç Majoros — c'est elle qui maintient l'arbre fgssoc.
+Françoise Gueur née 1952, mariée 26.5.1976 Uccle à **Michel Majoros** (1950), divorcés. Trois fils : Yannick, Nathanaël et Karim Majoros. C'est Françoise qui maintient l'arbre fgssoc.
 
 ## Liste des branches fgssoc
 
@@ -198,6 +191,6 @@ L'arbre fgssoc compte **1 638 noms de famille** sur 4 184 individus. Les branche
 
 ## Pistes complémentaires fgssoc
 
-1. **Demander à Françoise Gueur** : sources de « Jozsef Kramer » comme père de Zsigmond ; archives familiales sur la branche Geelens (parents de Mathieu Joseph, fratrie de Germaine).
+1. **Demander à Françoise Gueur** : archives familiales sur la branche **Geelens** (parents de Mathieu Joseph, fratrie de Germaine) — c'est sur cette branche-là qu'elle peut apporter des données indépendantes. Pour les Kramer, **rien à attendre** : ses données viennent déjà de Yannick/Michel (et donc de notre dépôt).
 2. **Stembert-Bouillard, Francotte-Gilsen, Parisis-Gustin** : registres paroissiaux Verviers 1750-1850 à explorer (BMS Verviers, archives Bistum Lüttich).
 3. **Juozapas SMALSTYS × Karolyna GRIZAITE** : registres lituaniens Kamajai (paroisse catholique) ~1850-1880.
