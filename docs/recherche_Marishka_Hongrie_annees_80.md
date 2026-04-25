@@ -93,7 +93,47 @@ Famille Majoros (côté paternel de Yannick) : début des années 1980 (≈ 1980
 
 → Les hypothèses « fille de László × Stern Irén » sont donc **éliminées** comme piste pour Marishka.
 
-→ La fille de **Lea Kramér × Goldstein Jenő** (Top 1) reste la candidate principale, sous réserve de :
-- vérification du sort de Lea pendant la Shoah (Yad Vashem à compléter)
-- recherche FS d'enfants nés Goldstein 1937-1944 mère Lea
-- témoignage direct de Michel Majoros
+## ⭐ MISE À JOUR 25 avril 2026 (nuit) — preuve photographique
+
+Yannick a partagé deux photos de la visite (début années 80, lieu = chez Michel Majoros, probablement Bruxelles ou Köln) :
+- **`docs/Maria Kramer Ferenc Marishka visite Michel vers 1980 jardin.jpg`** — 5 personnes : Maria Kramer (gauche), **Marishka** (centre-gauche), une jeune femme inconnue, Ferenc Majoros (homme avec lunettes), un enfant
+- **`docs/Maria Kramer avec petit-enfant vers 1980 interieur.jpg`** — Maria avec un petit-enfant (BD)
+
+**Élément clé** : sur la photo de jardin, **Marishka apparaît clairement âgée** (~75-85 ans en 1980), pas du tout 38-43 comme l'hypothèse #1 le supposait. Elle est sur le même rang d'âge que Maria Kramer (82 en 1980).
+
+→ **Le classement antérieur des hypothèses est REMIS EN CAUSE**. La nouvelle hiérarchie favorise désormais une candidate **du même âge que Maria Kramer** (née ~1895-1905) :
+
+### NOUVELLE Top 1 — **Lea Krámer elle-même** ⭐⭐⭐⭐⭐
+
+**Hypothèse désormais la plus probable.**
+
+- Lea Krámer née **12 août 1902** (acte de mariage 1936 confirme parents Zsigmond × Sarolta) → **78 ans en 1980**
+- Cohérent avec l'âge apparent de Marishka sur la photo (~75-85)
+- Cohérent avec l'**audit ADT 25.4.2026** qui remonte 27 hits « Goldstein Jenő » + Tel-Aviv et 24 + Haifa dans Új Kelet 1949-1977 → **survie + émigration en Israël après-guerre**
+- « Marishka » serait alors un **diminutif/surnom familial** par lequel les Majoros appelaient Lea (peut-être confusion avec Maria Kramer = sa sœur), ou un autre prénom familial
+- **Émouvant** : Maria + Lea, les **deux dernières filles vivantes de Zsigmond × Sarolta**, réunies une dernière fois (Maria décède ~1983)
+
+Si confirmé, c'est aussi une **preuve visuelle directe que Lea Kramer a survécu à la Shoah** — info énorme pour le dossier.
+
+### Top 2 — Krammer Juliánna 1896 (demi-sœur paternelle hypothétique) ⭐⭐⭐
+
+- Née 10.5.1896 Budapest, parents Krammer Armin × **Beck Nanetta** (donc demi-sœur de notre Zsigmond, hypothèse à confirmer)
+- 84 ans en 1980 — cohérent avec âge apparent
+- Tante (par demi-sang) de Maria, donc rang générationnel cohérent
+- Resterait à expliquer pourquoi appelée Marishka et non Juliánna
+
+### Top 3 — Cousine germaine de Maria via Júlia, Sámuel, ou Róza Kramer ⭐⭐
+
+- Si une cousine germaine de Maria (née ~1898-1910) → 70-80 ans en 1980
+- Plusieurs candidates possibles dans la fratrie d'Ármin × Brunn Jozefa
+
+### ❌ ELIMINÉE — fille de Lea × Goldstein Jenő (~1937-1944)
+
+L'ancienne Top 1 (fille hypothétique de Lea, 38-43 ans) est **incompatible** avec l'âge apparent de Marishka sur la photo. Cette hypothèse est éliminée comme candidate principale, sauf si la "jeune femme brune" non identifiée de la photo de jardin est elle (mais l'utilisateur dit explicitement que c'est Marishka qui est la dame âgée).
+
+## Pistes pour confirmer Marishka = Lea
+
+1. **OCR Új Kelet 1949-1977** (sub. ADT Plus) — chercher annonces familiales, faire-part, mariages, contributions de « Goldstein Jenő » et/ou « Krámer Lea » à Tel-Aviv ou Haifa
+2. **Yad Vashem Pages of Testimony** — vérifier qu'aucun témoignage ne donne Lea comme victime Shoah (= preuve par négation)
+3. **Témoignage direct Michel Majoros** : dans son souvenir, qui était Marishka ? Maria avait-elle parlé d'une sœur Lea (vivant en Israël) ?
+4. **Album photo famille** : autres photos de la même visite, ou plus anciennes, pourraient porter au dos une légende manuscrite avec son nom complet

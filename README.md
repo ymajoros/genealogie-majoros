@@ -373,7 +373,7 @@ Chaque source est doublée d'une archive locale dans `actes/archives-web/` (capt
 4. **Demi-frère Gabor Majoros** — registre foncier Pozsonyi u. 3, BFL, post-2041 (actes 90 ans).
 5. **Maryté Smolski (1890-1975 Kaunas)** — branche cousine lituanienne, descendance soviétique.
 6. **Branche Komárom Kramer** — Lővinger Mórné née Kramer Júlia (1827-1909), faire-part OSZK [handle 154194](http://hdl.handle.net/20.500.12346/154194). Possible parente lointaine d'Ármin Kramer.
-7. **Marishka, visiteuse Bruxelles ~1980** — fille hypothétique de Lea Kramér × Goldstein ou autre nièce ; voir [docs/recherche_Marishka_Hongrie_annees_80.md](docs/recherche_Marishka_Hongrie_annees_80.md).
+7. **Marishka, visiteuse début années 1980** — visite chez Michel Majoros avec Maria Kramer + Ferenc Majoros ; **2 photos archivées** (`docs/Maria Kramer Ferenc Marishka visite Michel vers 1980 jardin.jpg`, `docs/Maria Kramer avec petit-enfant vers 1980 interieur.jpg`). Marishka apparaît **âgée** (~75-85 ans) — nouvelle hypothèse top : **= Lea Kramer elle-même** (78 ans en 1980), sœur de Maria, supposée émigrée Israël après-guerre (27 hits Új Kelet Tel-Aviv 1949-77). Détails : [docs/recherche_Marishka_Hongrie_annees_80.md](docs/recherche_Marishka_Hongrie_annees_80.md).
 
 ### 9.3. Adresses archivistiques utiles
 
