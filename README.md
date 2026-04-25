@@ -454,6 +454,10 @@ Voir [docs/famille_kramer_zsigmond_arbre_2026-04-25.md](docs/famille_kramer_zsig
 
 **[✓]** **Couple de paysans lituaniens de Kamajai**, parents de treize enfants dont cinq survivants. Source : [Wikipedia EN — Jurgis Smolskis](https://en.wikipedia.org/wiki/Jurgis_Smolskis), entrée biographique s.v. « Early life » ; recoupée par la notice [*Mémoire balte* (Paix active)](http://fle.paixactive.org/memoire-balte/).
 
+**[✓]** **Dates approximatives** (arbre Geneanet `michelmajoros`) : Juozapas Smalstys ~1850 – ~1924 ; Karolyna Grižaitė ~1855 – ~1925.
+
+**[✓]** **Sœur de Jurgis identifiée** : **Maryté SMOLSKI (Smalstys → Smalstyté à partir de 1920)** née 1890 à Kamajai (Lituanie, Empire de Russie) – décédée 1975 à Kaunas (Lituanie, URSS). Arbre Geneanet `michelmajoros`. → Branche cousine lituanienne ayant vécu sous régime soviétique.
+
 ### 4.2. Jurgis Smalstys = Jurgis Smolskis (1881 – 1919)
 
 **[✓]** **Article Wikipedia dédié** : <https://en.wikipedia.org/wiki/Jurgis_Smolskis>. Article également alimenté par le *Visuotinė lietuvių enciklopedija* (encyclopédie universelle lituanienne).
