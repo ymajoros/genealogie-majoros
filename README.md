@@ -479,7 +479,11 @@ Voir [docs/famille_kramer_zsigmond_arbre_2026-04-25.md](docs/famille_kramer_zsig
 
 **[✓]** **Dates** : née à Verviers (1887 selon *Mémoire balte*, qui indique « 32 ans en 1919 » ; 1888 selon Wikipedia EN) — décédée en 1960.
 
-**[✓]** **Parents** : **Mathieu Joseph Geelens** × **Eugénie Parisis** (source : arbre Geneanet *fgssoc*). Mathieu Joseph Geelens est l'ancêtre commun avec la branche Geneanet *fgssoc*.
+**[✓]** **Parents** : **Mathieu Joseph Geelens** (~1855 Verviers, *courtier dans l'industrie lainière*) × **Eugénie Parisis** (1860, fille de **Dieudonné Antoine Parisis** 1821-1887 × **Marie Catherine Stembert** 1825). Source : arbre Geneanet *fgssoc* (Françoise Gueur, 2e épouse de Ferenç Majoros) — sourcé Michèle Feryn / Geneanet.
+
+**[✓]** **Ascendance maternelle (Stembert-Francotte)** : Marie Catherine Stembert est la fille de **Mathieu Joseph Stembert** (1.6.1795 Verviers – 3.6.1861 Verviers) × **Marie Jeanne Joseph Francotte** (1797-1852). Grands-parents Stembert : **Guillaume Paschal Joseph Stembert × Marie Catherine Bouillard**. Grands-parents Francotte : **Toussaint Francotte × Jeanne Hubertine Gilsen**. Source : Geneanet fgssoc / Michèle Feryn.
+
+**[✓]** **Ascendance Parisis** : Dieudonné Antoine Parisis (1821-1887) est le fils de **Jean Joseph Parisis × Anne Barbe Gustin**. Source : Geneanet fgssoc / Michèle Feryn.
 
 **[✓]** **Profession** : institutrice belge, pratiquant les méthodes d'Ovide Decroly (source : [*Mémoire balte*](http://fle.paixactive.org/memoire-balte/)).
 
