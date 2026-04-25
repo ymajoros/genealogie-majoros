@@ -162,3 +162,30 @@ Famille Goldstein/Garlon (FS [GXXH-PWQ](https://www.familysearch.org/tree/person
 5. **Acte de mariage Lea Kramér × Jenő Goldstein 28.8.1936** — registre civil Budapest.
 6. **Survie/destin de Lea Kramér après 1937** — bases Yad Vashem, USHMM, témoignage Shoah.
 7. **Tombeau de Kramer Zsigmond** — cimetière Kozma utca, Budapest (base MACSE).
+
+## Mise à jour suite — Famille Beck Lipót × Mária Rauschnitz (côté Sarolta)
+
+L'examen des sources FS attachées aux personae **Lipót Beck (G5Q3-BJX)**, **Mária Rauschnitz (G5Q3-B9S)** et **Ignac Beck (GSFV-3DY)** précise :
+
+### Frères/sœurs de Sarolta Beck (1873-1937)
+
+| Enfant | Naissance | Décès | Conjoint | Notes |
+|---|---|---|---|---|
+| **Békesi József** (= József Beck) | 1854 | 3 nov 1918 Budapest, entry 4138 | **Ehrenfeld Mária** | Magyarisation du patronyme Beck → Békesi (FS [`CJVQ-HYN2`](https://www.familysearch.org/ark:/61903/1:1:CJVQ-HYN2)) |
+| **Ignac Beck** | 1864 | 18 juillet 1934 Budapest | non précisé | 4 sources FS dont 1901 (mariage probable), 1905, 1934 (décès), 1937 |
+| **Sarolta Beck** (notre lignée) | 1873 | 3 juillet 1937 Budapest | Kramer Zsigmond (1872-1928) | Inhumée Kozma utca |
+
+### Ascendance maternelle de Sarolta
+
+- **Père : Lipót Beck** (G5Q3-BJX, 3 sources FS : 1918 Békesi József †, 1934 Ignác †, 1937 Sarolta †)
+- **Mère : Mária Rauschnitz** (G5Q3-B9S, 3 sources idem)
+
+Ni Lipót ni Mária Rauschnitz n'ont leur propre acte de décès indexé sur FS — ils ne sont mentionnés que dans les actes de leurs enfants.
+
+### Tension persistante avec l'index FS de l'acte 1928 de Zsigmond
+
+L'index FS de l'acte 785 attribue à Beck Sarolta une mère prénommée « **Jozefa** ». L'arbre FS dit « Mária Rauschnitz ». Conclusions :
+
+- **Hypothèse retenue** : « Jozefa » est en fait le prénom de la mère de **Zsigmond** (Brunn Jozefa), pas de Sarolta. Le bénévole a séparé incorrectement le nom complet « Brunn Jozefa » en deux personae (cf. analyse plus haut).
+- La vraie mère de Sarolta reste **Mária Rauschnitz** par l'arbre FS, cohérent avec les 3 sources de Mária Rauschnitz (toutes liées aux enfants).
+
