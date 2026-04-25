@@ -149,12 +149,14 @@ Une seconde famille Kramer de Budapest, les **szinóbányai Kramer** (anoblis 19
 
 Autres homonymes (Krámer Zsigmond de Nyír-Bogdány, Sopron…) : voir [docs/notes-recherche/details-historiques.md §F](docs/notes-recherche/details-historiques.md).
 
-### 3.2. Beck Sarolta — décès juillet 1937
+### 3.2. Beck Sarolta — décès 4 juillet 1937
+
+**[✓ source primaire image]** Acte civil de décès — **4 juillet 1937 Budapest, V. Pozsonyi út 3** ([FS ARK `3:1:S3HT-6L6S-PV4`](https://www.familysearch.org/ark:/61903/3:1:S3HT-6L6S-PV4?view=index), image 589/808, Image Group 004403191, archive originale BFL). « Özv. Krámer Zsigmondné szül. Beck Sarolta », 64 ans, izr. Père : Beck Lipót. **Déclarant : dr. Krámer László** (son fils). Détails et transcription : [actes/archives-web/familysearch/Beck_Sarolta_deces_1937-07-04_civil.md](actes/archives-web/familysearch/Beck_Sarolta_deces_1937-07-04_civil.md).
 
 **[✓]** *Pesti Napló* 4.7.1937 (88ᵉ année, n° 148) + *Ujság* 4.7.1937 :
 > …özv. Kramer Zsigmondné szül. Beck Sarolta […] a rákoskeresztúri temető halottasházából. Dr. Majoros Ödönné sz. Kramer Mária, dr. Kramer László gyermekei, dr. Kramer Lászlóné menye, dr. Majoros Ödön veje, Majoros Ferenc unokája…
 
-**Résultats** : **Beck Sarolta † début juillet 1937**, inhumée cimetière israélite Rákoskeresztúr (= Kozma utca). Son fils László est désormais **Dr. Kramer László** et marié.
+**Résultats** : **Beck Sarolta † 4 juillet 1937 Budapest V. Pozsonyi út 3**, inhumée cimetière israélite Rákoskeresztúr (= Kozma utca). Son fils László est désormais **Dr. Kramer László** et marié. Domicile au décès = même adresse que celle ultérieure du Dr. Majoros Ödön (gendre, *tanácselnök*) en mars 1948 — confirmation que Sarolta vivait avec sa fille Mária et son gendre Ödön.
 
 ### 3.3. Kramer Mária
 
@@ -182,20 +184,21 @@ Mariage vraisemblablement printemps-été 1918 — acte à rechercher aux archiv
 
 **[?]** À investiguer : archives Budapesti Ügyvédi Kamara, listes de passagers 1946 (Arquivo Nacional Rio), Memorial do Imigrante São Paulo, Museu Judaico de São Paulo.
 
-### 3.6. Lea Kramér × Jenő Goldstein — 3ᵉ enfant *présumé* (saisie FS isolée, non confirmée)
+### 3.6. Lea Krámer × Jenő Goldstein — 3ᵉ enfant **confirmé par acte primaire**
 
-> ⚠️ **Avertissement de fiabilité (audit 25.4.2026)** : le rattachement de « Lea Kramér née 1902 » à notre Zsigmond × Sarolta repose **uniquement sur une saisie d'arbre FamilySearch [GXXH-TDT](https://www.familysearch.org/tree/person/details/GXXH-TDT)** créée par un utilisateur non identifié, et sur une **source FS de 1936 attachée à GXXH-YFJ** dont l'image n'a jamais été consultée. **Aucun acte primaire ne nomme Lea comme fille de Zsigmond × Sarolta**. Lea **est absente de tous les faire-part familiaux** (Zsigmond 1928, Sarolta 1937, Brunn Jozefa 1925, Júlia 1962, Sámuel 1924). La recherche FS Hungary CR « Lea Kramér 1902 » donne 33 hits, **aucun = elle**. Tous les autres indices ADT (Egyenlőség, Új Kelet, Magyar Közlöny) prouvent qu'**un** couple Goldstein Jenő × Krámer Lea a existé en Hongrie/Israël, **mais pas qu'il s'agisse de notre famille**. Hypothèse alternative non écartée : Lea Kramér 1902 × Jenő Goldstein est une personne réelle d'une **autre famille Kramer**, mal rattachée à notre Zsigmond par un saisisseur tiers.
+**[✓ source primaire image — acte de mariage 28.8.1936 Budapest]** L'acte civil hongrois de mariage **n° 1504, Budapest, 28 août 1936** ([FS ARK `3:1:S3HY-6S23-BSF`](https://www.familysearch.org/ark:/61903/3:1:S3HY-6S23-BSF?view=index), image 426/855, Image Group 004403198, archive originale BFL) nomme :
+- **Goldstein Jenő**, né **31 mars 1904 Hunyad m.** (= Vajdahunyad / Hunedoara), izr.
+- **Krámer Lea**, izr., domicile au moment du mariage : **Budapest VII. Károly u. 3** (cohabitation avec le marié)
+- **Parents de la mariée** : ⭐ **« néhai Krámer Simon »** × **Beck Sarolta**
+- Témoins : **Krammer József**, **Krammer Mór**, **özv. Dr. Horváth Béla né** (oncles paternels probables et tante par alliance — à investiguer)
 
-**[◐ arbre FS isolé — non vérifié]** [`GXXH-TDT`](https://www.familysearch.org/tree/person/details/GXXH-TDT) déclare Lea Kramér née 12.8.1902, mariage **28.8.1936 Budapest** avec Jenő Goldstein (né 31.3.1904 Vajda-Hunyad, aujourd'hui Hunedoara) [`GXXH-PWQ`](https://www.familysearch.org/tree/person/details/GXXH-PWQ). **Acte image jamais consulté.**
+> **Note « Simon » vs « Zsigmond »** : l'acte 1936 utilise le prénom « Simon » alors que les 5 autres sources primaires sur notre aïeul (acte naissance Mária 1898, acte décès Zsigmond 1928, faire-part *Pesti Hírlap* 1928, sépulture Kozma utca, acte décès Sarolta 1937) utilisent « Zsigmond ». Très probablement **double prénom hongrois (Zsigmond) + hébreu (Shimon = Simon)** — usage courant chez les Juifs hongrois. Identité confirmée par la même épouse **Beck Sarolta** et le même statut « néhai » (déjà décédé en 1936 — cohérent avec † 16.5.1928). À noter : l'arbre FS [GXXH-YFJ](https://www.familysearch.org/tree/person/details/GXXH-YFJ) porte d'ailleurs le titre « Simon Kramer », probablement saisi à partir de cet acte 1936.
 
-**[? *Lea absente de tous les faire-part familiaux*]** Pesti Hírlap 17.5.1928 (Zsigmond) et Pesti Napló 4.7.1937 (Sarolta) nomment uniquement « Mária et László gyermekei ». Anomalie majeure non expliquée si Lea est leur fille réelle.
+→ **Confirme définitivement** : (1) l'existence de Lea Krámer ; (2) sa filiation à notre Krámer Zsigmond × Beck Sarolta ; (3) le mariage 28.8.1936 avec Jenő Goldstein. La saisie d'arbre FS [GXXH-TDT](https://www.familysearch.org/tree/person/details/GXXH-TDT) est confirmée. Détails et transcription : [actes/archives-web/familysearch/Kramer_Lea_mariage_Goldstein_Jeno_1936-08-28_civil.md](actes/archives-web/familysearch/Kramer_Lea_mariage_Goldstein_Jeno_1936-08-28_civil.md).
 
-**[◐ *audit ADT 25.4.2026 — pistes ouvertes mais non identifiantes*]** Hungaricana / ADT Plus remonte 27 hits « Goldstein Jenő » + Tel-Aviv et 24 + Haifa dans Új Kelet 1949-1977 ; 3 hits `"Goldstein Jenőné" Krámer` dans Egyenlőség 1938 + Pesti Hírlap 1930 ; 1 hit Nyírvidék juillet 1936. Aucun de ces hits ne prouve que la « Goldstein Jenőné Krámer » concernée est fille de Zsigmond × Sarolta. Détails : [docs/notes-recherche/lea_kramer_audit_2026-04-25.md](docs/notes-recherche/lea_kramer_audit_2026-04-25.md).
+**[? *anomalie résiduelle*]** Lea reste absente nominativement des faire-part de ses parents (*Pesti Hírlap* 17.5.1928 Zsigmond ; *Pesti Napló* 4.7.1937 Sarolta) qui mentionnent uniquement « Mária et László gyermekei ». En 1928 Lea avait 26 ans, célibataire — possible omission par convention (les enfants célibataires sont parfois groupés sous « gyermekei »). En 1937, elle était mariée depuis un an seulement, vivait peut-être hors Budapest — autre explication possible.
 
-**Pour confirmer (ou invalider) Lea = fille de Zsigmond × Sarolta** :
-1. **Voir l'image de l'acte FS Hungary CR 1936** rattaché à GXXH-YFJ par utilisateur XXY29 le 15.6.2022 — vérifier qu'il nomme Lea Kramér comme épouse ET Zsigmond Kramer × Sarolta Beck comme parents
-2. **BFL Budapest** registres civils : naissance 1902 + mariage 28.8.1936
-3. **Témoignage Michel Majoros** : sa mère Mária a-t-elle parlé d'une sœur Lea ?
+**[◐ destin post-1936 — hypothèses ouvertes]** Audit ADT 25.4.2026 : 27 hits « Goldstein Jenő » + Tel-Aviv et 24 + Haifa dans **Új Kelet 1949-1977** (journal hongrois-juif refondé Tel-Aviv 1948) → **forte présomption d'émigration en Israël après-guerre** plutôt que Shoah 1944. 1 hit Magyar Közlöny 1946 (à vérifier — halottá nyilvánítás ou autre). Hypothèse **Marishka 1980 = fille de Lea & Jenő** redevient plausible. Vérifications OCR ADT et Yad Vashem nécessaires. Détails : [docs/notes-recherche/lea_kramer_audit_2026-04-25.md](docs/notes-recherche/lea_kramer_audit_2026-04-25.md).
 
 ## 4. Smalstys / Geelens (Kamajai, Verviers)
 
@@ -288,6 +291,8 @@ Sources principales : **[CArCoB PP 23](http://www.carcob.eu/IMG/pdf/inventaire_s
 |---|---|---|
 | `ODon-Majoros-deces-1966-Budapest-XIV-cert978.jpg` | FamilySearch | [ARK `1:1:6V1G-YBG3`](https://www.familysearch.org/ark:/61903/1:1:6V1G-YBG3) |
 | `archives-web/familysearch/Kramer_Maria_naissance_1898_civil.pdf` | FamilySearch (BFL) | [ARK `3:1:S3HY-DTHW-8L`](https://www.familysearch.org/ark:/61903/3:1:S3HY-DTHW-8L?view=index) — img 836/861, Image Group 004403180 |
+| `archives-web/familysearch/Kramer_Lea_mariage_Goldstein_Jeno_1936-08-28_civil.pdf` | FamilySearch (BFL) | [ARK `3:1:S3HY-6S23-BSF`](https://www.familysearch.org/ark:/61903/3:1:S3HY-6S23-BSF?view=index) — img 426/855, Image Group 004403198 |
+| `archives-web/familysearch/Beck_Sarolta_deces_1937-07-04_civil.pdf` | FamilySearch (BFL) | [ARK `3:1:S3HT-6L6S-PV4`](https://www.familysearch.org/ark:/61903/3:1:S3HT-6L6S-PV4?view=index) — img 589/808, Image Group 004403191 |
 | `Annuaire-telephonique-Budapest-1920-p301-Majoros-Odon.pdf` | Hungaricana | [FszekCimNevTarak_20_00_1920 p.301](https://library.hungaricana.hu/en/view/FszekCimNevTarak_20_00_1920/?pg=301&layout=s) |
 | `Presse-1945-08-03-KulfBelfHirek-Majoros-Odon-tanacselnok.pdf` | Hungaricana | [KulfBelfHirek 1945.08.03 p.124](https://library.hungaricana.hu/en/view/KulfBelfHirek_1945_08_1__001-123/?pg=124&layout=s) |
 | `Annuaire-telephonique-Budapest-1948-03-p197-Majoros-Odon-tanacselnok.pdf` | Hungaricana | [FszekCimNevTarak_20_019_12 p.197](https://library.hungaricana.hu/en/view/FszekCimNevTarak_20_019_12/?pg=197&layout=s) |

@@ -1,29 +1,30 @@
 # Audit complet — Lea Kramer × Jenő Goldstein (25 avril 2026)
 
-Audit qualité de toutes les informations sur **Lea Kramér** (présumée 3ᵉ enfant de Zsigmond Kramer × Sarolta Beck) et son époux **Jenő Goldstein**.
+Audit qualité de toutes les informations sur **Lea Kramér** (3ᵉ enfant de Zsigmond Kramer × Sarolta Beck) et son époux **Jenő Goldstein**.
 
-**Tâche** : recouper sources, vérifier hypothèses, archiver, documenter par niveau de preuve.
-
-> ## 🚨 AVERTISSEMENT FONDAMENTAL (ajout après audit)
+> ## ✅ MISE À JOUR 25.4.2026 SOIR — DOUTE LEVÉ par acte primaire image
 >
-> **Le rattachement de Lea à notre famille n'est PAS confirmé par acte primaire.**
+> **Acte de mariage 28.8.1936 Budapest téléchargé depuis FamilySearch** ([ARK `3:1:S3HY-6S23-BSF`](https://www.familysearch.org/ark:/61903/3:1:S3HY-6S23-BSF?view=index), folyószám 1504, image 426/855, archive BFL) — voir [transcription complète](../../actes/archives-web/familysearch/Kramer_Lea_mariage_Goldstein_Jeno_1936-08-28_civil.md).
 >
-> Toute la chaîne de preuves repose sur :
-> 1. Une **saisie d'arbre FamilySearch [GXXH-TDT](https://www.familysearch.org/tree/person/details/GXXH-TDT)** créée par un utilisateur non identifié
-> 2. Une **source FS de 1936 attachée à GXXH-YFJ** (Zsigmond) par utilisateur **XXY29** le 15.6.2022 — **image jamais consultée**, l'interprétation « 1936 = mariage de Lea » par le chercheur précédent peut être fausse
+> **L'acte nomme explicitement** :
+> - Marié : **Goldstein Jenő**, né 31 mars 1904 Hunyad m. (= Vajdahunyad)
+> - Mariée : **Krámer Lea**
+> - Parents de la mariée : ⭐ **« néhai Krámer Simon » (= Zsigmond, †16.5.1928) × Beck Sarolta**
+> - Témoins : Krammer József, Krammer Mór, özv. Dr. Horváth Béla né
 >
-> **Tous les autres indices** (3 hits ADT « Goldstein Jenőné » Krámer dans Egyenlőség 1938 et Pesti Hírlap 1930 ; 27 hits « Goldstein Jenő » Tel-Aviv dans Új Kelet 1949-77 ; Magyar Közlöny 1946 ; Nyírvidék 1936.07) **prouvent l'existence d'un couple Goldstein-Kramer en Hongrie/Israël, mais PAS qu'il s'agisse de la fille de Zsigmond × Sarolta**.
+> **Conclusions confirmées** :
+> 1. ✅ Lea Krámer existait
+> 2. ✅ Elle est bien fille de notre Krámer Zsigmond × Beck Sarolta
+> 3. ✅ Elle a bien épousé Goldstein Jenő le 28 août 1936 à Budapest
 >
-> **Indices CONTRE le rattachement** :
-> - ❌ Lea **absente** des faire-part Zsigmond 1928 (Pesti Hírlap), Sarolta 1937 (Pesti Napló), Brunn Jozefa 1925, Júlia 1962, Sámuel 1924
-> - ❌ FS Hungary CR « Lea Kramér 1902 » : 33 hits, **aucun = elle**
-> - ❌ FS Hungary Jewish Vital Records : 0 hit Lea Goldstein 1902 Budapest
-> - ❌ OSZK gyászjelentések, Geneanet, Kozma utca : 0 hit
-> - ❌ **Aucun témoignage familial direct** transmis par Yannick/Michel
+> **L'avertissement fondamental antérieur (rattachement non prouvé) est levé.** Ce qui suit dans le présent document garde sa valeur en tant qu'historique de l'enquête, mais les conclusions doivent être lues à la lumière de cette confirmation primaire.
 >
-> **Hypothèse alternative non écartée** : Lea Kramér 1902 × Jenő Goldstein 1936 est une personne réelle d'**une autre famille Kramer**, mal rattachée à notre Zsigmond par le saisisseur XXY29 dans l'arbre FS.
+> **Hypothèses qui restent ouvertes** :
+> - Destin post-1936 (Israël vs Shoah) — l'audit ADT remonte 27 hits Új Kelet « Goldstein Jenő » Tel-Aviv 1949-77, présomption forte d'émigration
+> - Anomalie résiduelle : pourquoi Lea absente nominativement des faire-part 1928 et 1937 ? (en 1928 célibataire à 26 ans → possible omission par convention « gyermekei » ; en 1937 mariée depuis 1 an, peut-être hors Budapest)
+> - Marishka 1980 = fille de Lea & Jenő ? Plausible, à confirmer
 >
-> **Tant que l'acte FS de 1936 n'est pas vu en image avec parents nommés (Zsigmond × Sarolta), tout le dossier Lea (Marishka, Israël, Shoah, eljegyzés) repose sur du sable.**
+> **Note de vigilance — « Simon » vs « Zsigmond »** : l'acte 1936 nomme le père de Lea **« néhai Krámer Simon »**, alors que toutes les autres sources sur notre aïeul utilisent « Krámer Zsigmond » (5 sources « Zsigmond » : naissance Mária 1898, décès Zsigmond 1928, *Pesti Hírlap* 1928, sépulture Kozma utca, décès Sarolta 1937). Très probablement **double prénom civil hongrois (Zsigmond) + religieux/hébreu (Shimon = Simon)**, usage courant chez les Juifs hongrois. Indices convergents avec l'identité unique : **même épouse Beck Sarolta** dans 1928 et 1936 ; **même statut « néhai »** ; même patronyme et milieu. La probabilité de deux Krámer distincts mariés à Beck Sarolta et tous deux décédés avant 1936 est nulle. À noter, l'arbre FS [GXXH-YFJ](https://www.familysearch.org/tree/person/details/GXXH-YFJ) porte d'ailleurs le titre « Simon Kramer » (saisi à partir de cet acte 1936 indexé). **Vérification possible** : acte de mariage Zsigmond × Sarolta (~1897) porterait probablement les deux prénoms côte à côte.
 
 ---
 
