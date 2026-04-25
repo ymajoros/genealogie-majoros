@@ -83,3 +83,58 @@ La **vraie branche maternelle de Zsigmond** est désormais **Brunn**, à explore
 Ajouter §3.x sur la fratrie de Zsigmond : Sámuel, Rozália/Róza (1871-1933), Julia (1877-1962).
 
 Mettre à jour `docs/famille_kramer_zsigmond_arbre_2026-04-25.md` (annexe principale de la nuit).
+## Mise à jour (suite recherches 25 avril 2026 02h)
+
+### Mère de Zsigmond confirmée par 4 actes FS
+
+**Brunn / Braun Jozefa** est confirmée comme épouse de Kramer Ármin et mère de **4 enfants** par recoupement de **4 actes FS Hungary Civil Registration** distincts :
+
+| Acte | Enfant | Date | Indexation mère |
+|---|---|---|---|
+| Mariage Kramer Sámuel × Göttler Fanni | Sámuel | 5 oct 1924 | "Braun Jozefa" |
+| Mariage Perlhefter Fábián × Krammer Róza | Rozália = Róza | 3 nov 1920 | "Braun Jozefa" |
+| Décès Krammer Róza | Rozália | 20 déc 1933 | "Braun Jozefa" |
+| Décès Kramer Julia | Julia | 21 oct 1962 | "Braun Jozefa" |
+| Décès Kramer Zsigmond | Zsigmond | 16 mai 1928 | "Braun" + "Jozefa" séparés (erreur d'indexation) |
+
+→ **Indexation erronée pour le seul acte 785** (Zsigmond) où le bénévole a séparé le nom complet de la mère ; les 4 autres actes le confirment comme « Braun Jozefa ».
+
+### Sépulture probable de Brunn Jozefa
+
+**Find a Grave Index** a une entrée **« Arminne Braun Kramer »** (= Krámer Árminné née Braun) :
+- Burial **1925 Budapest**
+- Birth **1840** → décès à 85 ans
+- **Cimetière : Kozmatur** (= Kozma utcai izraelita temető)
+- ARK : `Q2WB-LX1R`
+
+→ Cohérent avec la lignée : si vraiment notre Brunn Jozefa, elle est née ~1840 et décédée 1925 Kozma utca. Inhumée au **même cimetière** que son fils Zsigmond (1928) et sa belle-fille Sarolta (1937).
+
+### Lead alternatif Beck Nanetta (= Nina ?)
+
+L'arbre FS contient une entrée **Krammer Juliánna née 10 mai 1896** (Birth Registration 14 mai 1896, certificat 29) :
+- Père : Krammer Armin
+- Mère : **Beck Nanetta**
+- ARK 6JB3-SJ3R
+
+« Nanetta » est diminutif allemand d'Anna / Nina. Si **Beck Nanetta = Beck Nina** (mariée à Kramer Ármin selon faire-part 1901 Stern Józsefné Beck Gizella), alors :
+- Krammer Juliánna 1896 = enfant de Kramer Ármin × Beck Nina
+- = **demi-sœur paternelle de Zsigmond** (du côté Ármin × Beck Nina)
+- = Brunn Jozefa et Beck Nina seraient **co-vivantes** vers 1896 (Brunn † 1925)
+
+Cela impliquerait soit :
+- Une situation hors-mariage / extra-conjugale pour Krammer Ármin avec Beck Nina vers 1895-1896
+- Brunn Jozefa décédée bien avant 1925 et l'inhumation 1925 « Arminne Braun Kramer » concerne un autre Kramer Ármin homonyme
+- Deux Kramer Ármin à Budapest, l'un de Brunn Jozefa, l'autre de Beck Nanetta
+
+→ À investiguer plus avant. Le fait que **3 actes** confirment Brunn Jozefa comme épouse en 1924, 1933, 1962 (référant rétrospectivement à elle comme mère) suggère qu'elle a vécu jusqu'au moins 1924 (elle pourrait être encore vivante au mariage de Sámuel).
+
+### Entrée 785 image originale — colonne 8 lue
+
+Le manuscrit du registre Halottak 1928 (jan), entry 785, a sur la colonne « szülőinek családi és utóneve » (parents) 5 lignes :
+1. néhai (le défunt) — qualificatif
+2. Kramer — surname père
+3. Ármin — given name père
+4. Brunn — surname mère
+5. Jozefa — given name mère
+
+Lecture cohérente : père **néhai Kramer Ármin**, mère **Brunn Jozefa**.
