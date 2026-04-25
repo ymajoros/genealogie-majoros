@@ -103,17 +103,11 @@ Yannick a partagé deux photos de la visite (**juin 1980**, lieu = chez Michel M
 
 → **Le classement antérieur des hypothèses est REMIS EN CAUSE**. La nouvelle hiérarchie favorise désormais une candidate **du même âge que Maria Kramer** (née ~1895-1905) :
 
-### NOUVELLE Top 1 — **Lea Krámer elle-même** ⭐⭐⭐⭐⭐
+### ❌ ANCIENNE Top 1 — Lea Krámer elle-même — INVALIDÉE 25.4.2026 nuit
 
-**Hypothèse désormais la plus probable.**
+L'hypothèse « Marishka = Lea Krámer » a été invalidée par la **vérification haute-résolution de l'acte de mariage 1936** : la mère de Lea est **Keimovits Sarolta** et non Beck Sarolta. Donc cette Lea Krámer (1902) n'est pas la sœur de notre Mária — c'est une autre famille Krámer, mal rattachée à GXXH-YFJ par l'utilisateur XXY29.
 
-- Lea Krámer née **12 août 1902** (acte de mariage 1936 confirme parents Zsigmond × Sarolta) → **78 ans en 1980**
-- Cohérent avec l'âge apparent de Marishka sur la photo (~75-85)
-- Cohérent avec l'**audit ADT 25.4.2026** qui remonte 27 hits « Goldstein Jenő » + Tel-Aviv et 24 + Haifa dans Új Kelet 1949-1977 → **survie + émigration en Israël après-guerre**
-- « Marishka » serait alors un **diminutif/surnom familial** par lequel les Majoros appelaient Lea (peut-être confusion avec Maria Kramer = sa sœur), ou un autre prénom familial
-- **Émouvant** : Maria + Lea, les **deux dernières filles vivantes de Zsigmond × Sarolta**, réunies une dernière fois (Maria décède ~1983)
-
-Si confirmé, c'est aussi une **preuve visuelle directe que Lea Kramer a survécu à la Shoah** — info énorme pour le dossier.
+→ Marishka **n'est pas Lea Kramer**. Identité reste inconnue. Voir §3.6 du README pour la correction complète.
 
 ### Top 2 — Krammer Juliánna 1896 (demi-sœur paternelle hypothétique) ⭐⭐⭐
 
