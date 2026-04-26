@@ -113,7 +113,7 @@ Kramer Mária   László Kramer       Montag Ödön → Majoros Ödön          
 | 6 | **Krámer Isák** | 11 décembre 1878 | Nyitra | possible = Kramer Sámuel (mariage Göttler Fanni 5.10.1924 Bp) sous double prénom Isák/Sámuel |
 | 7 | **Krámer Adolf** | 12 août 1881 | Temes ⚠️ | destin inconnu |
 
-→ Notre Zsigmond a au moins **6 frères/sœurs germains**, fils/filles d'**Ármin (= Hermann) Kramer × Brunn (= Josefine) Braun**, tous nés à **Ujlak (Nyitra)** entre 1865 et 1881. Détail et pistes : [docs/notes-recherche/kramer-armin-ujlak-nyitra-2026-04-26.md](docs/notes-recherche/kramer-armin-ujlak-nyitra-2026-04-26.md).
+→ Notre Zsigmond a au moins **6 frères/sœurs germains**, fils/filles d'**Ármin (= Hermann) Kramer × Brunn (= Josefine) Braun**, tous nés à **Ujlak (Nyitra)** entre 1865 et 1881. Détail et pistes : [docs/notes-recherche/kramer-armin-ujlak-nyitra-2026-04-26.md](docs/notes-recherche/kramer-armin-ujlak-nyitra-2026-04-26.md). **Les 7 actes de naissance sont archivés en PDF** dans [actes/archives-web/familysearch/ujlak-nyitra-fratrie-kramer/](actes/archives-web/familysearch/ujlak-nyitra-fratrie-kramer/README.md) (le README détaille les vérifications visuelles individuelles).
 
 **[✓ origine confirmée Ujlak / Nyitra]** L'acte de naissance de **Netti Kramer 7.5.1865** (FS index ARK [`1:1:6XXD-3F1Y`](https://www.familysearch.org/ark:/61903/1:1:6XXD-3F1Y), source Slovakia Church and Synagogue Books folder 004542024 Item 6 image 64) localise la famille à **Ujlak (= Nyitraújlak / Veľký Lapáš, comitat de Nyitra)** en 1865 — confirme l'origine NW Hongrie de notre lignée Kramer. Détails et pistes d'exploitation : [docs/notes-recherche/kramer-armin-ujlak-nyitra-2026-04-26.md](docs/notes-recherche/kramer-armin-ujlak-nyitra-2026-04-26.md).
 
