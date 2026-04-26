@@ -102,7 +102,7 @@ Source : **Dunainé Bognár Júlia – Kanyó Ferenc, „A második világhábor
 
 > *Krämer Ignáczné Lőwinger Paula Jozefina htb. Nyitraújlak 1886.12.16. Müller Rozália [mère]... Mint deportált Auschwitzban meghalt 1944. Holtnyilv. 1944 aug 15.*
 
-**Krämer Ignáczné née à Nyitraújlak (= notre Ujlak/Veľký Lapáš) le 16.12.1886** :
+**Krämer Ignáczné née à Nyitraújlak (= notre Ujlak/Veľké Zálužie) le 16.12.1886** :
 - Mariée à un Krämer Ignác (cousin de notre famille — fils d'un frère ou cousin d'Ármin ?)
 - **Déportée à Auschwitz et morte 1944** ; déclaration de décès officielle 15.8.1944
 - Connectée à Szeged (résidence post-mariage probablement)

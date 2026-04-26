@@ -12,7 +12,7 @@ Téléchargements effectués via session FamilySearch authentifiée (compte `Yan
 
 ## Famille
 
-Tous enfants de **Krámer Hermán** (= notre Krámer Ármin) × **Braun Josefine** (= notre Brunn Jozefa). Nés à **Ujlak / Nyitraújlak / Veľký Lapáš** (district Nitra, Slovaquie aujourd'hui).
+Tous enfants de **Krámer Hermán** (= notre Krámer Ármin) × **Braun Josefine** (= notre Brunn Jozefa). Nés à **Ujlak / Nyitraújlak / Veľké Zálužie** (district Nitra, Slovaquie aujourd'hui).
 
 | PDF | Enfant | Date naissance | Index ARK | Image ARK | Notes |
 |---|---|---|---|---|---|
