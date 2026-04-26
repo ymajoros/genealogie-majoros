@@ -101,16 +101,21 @@ Kramer Mária   László Kramer       Montag Ödön → Majoros Ödön          
 
 **[✓ source primaire]** **Père : Kramer Ármin** (déjà *néhai* en 1928) ; **Mère : Brunn (Braun) Jozefa**. Source : lecture directe de l'image de l'acte civil n° 785 (Budapest VII., Halottak 1928) ARK [`S3HT-D553-567`](https://www.familysearch.org/ark:/61903/3:1:S3HT-D553-567?cc=1452460&lang=en) ; index FS [`6TFN-D6MW`](https://www.familysearch.org/ark:/61903/1:1:6TFN-D6MW). L'acte donne **âge 56**, **né 1872**, **épouse Beck Sarolta**, **domicile V. Lipót-körút 11**, **profession magántisztviselő**.
 
-**[✓ recoupement par 4 actes FS de fratrie]** Quatre actes civils confirment **Brunn Jozefa × Kramer Ármin** comme parents :
+**[✓ recoupement par 5 actes FS de fratrie]** Cinq actes confirment **Brunn Jozefa × Kramer Ármin** comme parents :
 
-| Enfant | Acte | Date | Conjoint |
+| Enfant | Acte | Date | Conjoint / lieu |
 |---|---|---|---|
-| Kramer Sámuel | mariage | 5 oct 1924, Budapest | Göttler Fanni |
+| ⭐ **Kramer Netti** (aînée) | naissance | **7 mai 1865, Ujlak (Nyitra)** | — |
 | Krammer Róza (~1871-20.12.1933) | mariage 1920 + décès 1933 | 3 nov 1920 + 20 déc 1933 | Perlhefter Fábián |
-| Kramer Julia (1877-21.10.1962) | décès | 21 oct 1962 Budapest | Frank Mór |
 | Kramer Zsigmond (1872-16.5.1928) — *notre lignée* | décès | 16 mai 1928 | Beck Sarolta |
+| Kramer Julia (1877-21.10.1962) | décès | 21 oct 1962 Budapest | Frank Mór |
+| Kramer Sámuel | mariage | 5 oct 1924, Budapest | Göttler Fanni |
 
-→ Notre Zsigmond a au moins **3 frères/sœurs germains** (Sámuel, Róza, Julia) issus de Kramer Ármin × Brunn Jozefa.
+→ Notre Zsigmond a au moins **4 frères/sœurs germains** (Netti aînée, Sámuel, Róza, Julia) issus de Kramer Ármin × Brunn Jozefa.
+
+**[✓ origine confirmée Ujlak / Nyitra]** L'acte de naissance de **Netti Kramer 7.5.1865** (FS index ARK [`1:1:6XXD-3F1Y`](https://www.familysearch.org/ark:/61903/1:1:6XXD-3F1Y), source Slovakia Church and Synagogue Books folder 004542024 Item 6 image 64) localise la famille à **Ujlak (= Nyitraújlak / Veľký Lapáš, comitat de Nyitra)** en 1865 — confirme l'origine NW Hongrie de notre lignée Kramer. Détails et pistes d'exploitation : [docs/notes-recherche/kramer-armin-ujlak-nyitra-2026-04-26.md](docs/notes-recherche/kramer-armin-ujlak-nyitra-2026-04-26.md).
+
+**[ℹ Ármin = Hermann Kramer]** L'index FS appelle notre Ármin « **Kramer Herman** » (variante germanique-yiddish standard d'Ármin en milieu juif hongrois — Hermann/Herman remplace souvent Ármin/Áron dans les registres germanophones).
 
 **[◐]** **Brunn Jozefa † 1925 Budapest, 85 ans** — Find a Grave [`Q2WB-LX1R`](https://www.familysearch.org/ark:/61903/1:1:Q2WB-LX1R) « Arminne Braun Kramer », Burial 1925 Kozma utca, Birth 1840. Sépulture cimetière Kozma utca confirmée par la base [database.budapestjewishcemetery.com](https://database.budapestjewishcemetery.com/) (parc.40/sor.66/sir.20).
 
@@ -359,6 +364,7 @@ Chaque source est doublée d'une archive locale dans `actes/archives-web/` (capt
 
 1. **Dr. Kramer László / Cantor à São Paulo** — Arquivo Nacional Rio (listes 1946), Memorial do Imigrante SP, Museu Judaico SP, *alteração de nome*.
 2. **Épouse de Dr. Kramer László** — mentionnée *dr. Kramer Lászlóné* en 1937, identité inconnue (possiblement partie au Brésil avec lui).
+3. **Parents et fratrie de Krámer Ármin** (= Hermann Kramer) — Ujlak/Nyitraújlak/Veľký Lapáš, Slovaquie, registres juifs Nitra 1820-1860 (FS folder 004542024 ou Slovenský národný archív). Cousinage hypothétique avec szinóbányai Kramer (anoblis 1906, blason armorié) à confirmer ou écarter via parents d'Ignácz Kramer 1789-1881.
 4. **Demi-frère Gabor Majoros** — registre foncier Pozsonyi u. 3, BFL, post-2041 (actes 90 ans).
 5. **Maryté Smolski (1890-1975 Kaunas)** — branche cousine lituanienne, descendance soviétique.
 6. **Branche Komárom Kramer** — Lővinger Mórné née Kramer Júlia (1827-1909), faire-part OSZK [handle 154194](http://hdl.handle.net/20.500.12346/154194). Possible parente lointaine d'Ármin Kramer.
