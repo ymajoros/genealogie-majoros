@@ -60,6 +60,24 @@ Vérification à faire sur les images sources des actes 1867 et 1881.
 
 → **Notre lignée Kramer-Brunn Jozefa = 7 enfants confirmés par index FS**, tous nés à Ujlak (NW Hongrie, Nyitra) entre 1865 et 1881.
 
+### 3.bis. ARK FamilySearch des 7 actes de naissance (capturés 26.4.2026 après-midi)
+
+| # | Enfant | Date | Index FS (`1:1:`) | Image FS (`3:1:`) |
+|---|---|---|---|---|
+| 1 | Kramer Netti | 7.5.1865 | [`6XXD-3F1Y`](https://www.familysearch.org/ark:/61903/1:1:6XXD-3F1Y) | [`9TSQ-GW`](https://www.familysearch.org/ark:/61903/3:1:9398-9TSQ-GW?view=index) ✓ téléchargé |
+| 2 | Kramer Regi | 5.3.1867 | [`6X6Q-FFZW`](https://www.familysearch.org/ark:/61903/1:1:6X6Q-FFZW) | [`9TS7-CK`](https://www.familysearch.org/ark:/61903/3:1:9398-9TS7-CK?view=index) |
+| 3 | Kramer Sigmund | 24.12.1871 | [`6DS2-Y632`](https://www.familysearch.org/ark:/61903/1:1:6DS2-Y632) | [`9T96-SG`](https://www.familysearch.org/ark:/61903/3:1:9398-9T96-SG?view=index) |
+| 4 | Krámer Sali | 15.7.1873 | [`68B6-BJ3V`](https://www.familysearch.org/ark:/61903/1:1:68B6-BJ3V) | [`9T96-4G`](https://www.familysearch.org/ark:/61903/3:1:9398-9T96-4G?view=index) |
+| 5 | Krámer Julie | 1.1.1877 | [`6D22-2WRW`](https://www.familysearch.org/ark:/61903/1:1:6D22-2WRW) | [`9T9J-8X`](https://www.familysearch.org/ark:/61903/3:1:9398-9T9J-8X?view=index) |
+| 6 | Krámer Isák | 11.12.1878 | [`66XG-M4G1`](https://www.familysearch.org/ark:/61903/1:1:66XG-M4G1) | [`9T9N-GF`](https://www.familysearch.org/ark:/61903/3:1:9398-9T9N-GF?view=index) |
+| 7 | Krámer Adolf | 12.8.1881 | [`68BR-3NZT`](https://www.familysearch.org/ark:/61903/1:1:68BR-3NZT) | [`9T9N-BD`](https://www.familysearch.org/ark:/61903/3:1:9398-9T9N-BD?view=index) |
+
+**Pour télécharger les 6 actes restants** (chacun en PDF FS standard) :
+1. Cliquer sur le lien Image FS de chaque ligne
+2. Bouton télécharger (icône flèche bas dans la barre d'outils du viewer)
+3. Choisir « PDF Record Image with Highlights »
+4. Sauvegarder dans `actes/archives-web/familysearch/`
+
 Devenir de **Netti Kramer 1865** : inconnu. Hypothèses :
 - Décédée en bas âge (avant 1867 — voir ci-dessous)
 - Mariée et survie ailleurs (à chercher dans Hungary CR)
