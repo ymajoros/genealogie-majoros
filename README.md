@@ -101,17 +101,19 @@ Kramer Mária   László Kramer       Montag Ödön → Majoros Ödön          
 
 **[✓ source primaire]** **Père : Kramer Ármin** (déjà *néhai* en 1928) ; **Mère : Brunn (Braun) Jozefa**. Source : lecture directe de l'image de l'acte civil n° 785 (Budapest VII., Halottak 1928) ARK [`S3HT-D553-567`](https://www.familysearch.org/ark:/61903/3:1:S3HT-D553-567?cc=1452460&lang=en) ; index FS [`6TFN-D6MW`](https://www.familysearch.org/ark:/61903/1:1:6TFN-D6MW). L'acte donne **âge 56**, **né 1872**, **épouse Beck Sarolta**, **domicile V. Lipót-körút 11**, **profession magántisztviselő**.
 
-**[✓ recoupement par 5 actes FS de fratrie]** Cinq actes confirment **Brunn Jozefa × Kramer Ármin** comme parents :
+**[✓ recoupement 7 enfants par index FS Jewish VR + 4 actes Hungary CR]** Recherche FS Hungary Jewish Vital Records Index 1800-1945 (collection 1857881) `father=Herman + mother=Josefine Braun` retourne 7 enfants nés à **Ujlak (Nyitra)** :
 
-| Enfant | Acte | Date | Conjoint / lieu |
-|---|---|---|---|
-| ⭐ **Kramer Netti** (aînée) | naissance | **7 mai 1865, Ujlak (Nyitra)** | — |
-| Krammer Róza (~1871-20.12.1933) | mariage 1920 + décès 1933 | 3 nov 1920 + 20 déc 1933 | Perlhefter Fábián |
-| Kramer Zsigmond (1872-16.5.1928) — *notre lignée* | décès | 16 mai 1928 | Beck Sarolta |
-| Kramer Julia (1877-21.10.1962) | décès | 21 oct 1962 Budapest | Frank Mór |
-| Kramer Sámuel | mariage | 5 oct 1924, Budapest | Göttler Fanni |
+| Ord | Enfant | Naissance Ujlak | Lieu (index) | Recoupement actes ultérieurs |
+|---|---|---|---|---|
+| 1 | **Kramer Netti** | 7 mai 1865 | Nyitra | destin inconnu |
+| 2 | **Kramer Regi(na)** | 5 mars 1867 | Temes ⚠️ | = probable Krammer Róza (mariage Perlhefter Fábián 1920, †20.12.1933 Bp) |
+| 3 | **Kramer Sigmund** | **24 décembre 1871** | Nyitra | ⭐ = notre Zsigmond (acte décès 1928 + Kozma DB) |
+| 4 | **Krámer Sali** | 15 juillet 1873 | Nyitra | destin inconnu |
+| 5 | **Krámer Julie** | 1 janvier 1877 | Nyitra | = notre Júlia (Frank Mórné, †21.10.1962 Bp) |
+| 6 | **Krámer Isák** | 11 décembre 1878 | Nyitra | possible = Kramer Sámuel (mariage Göttler Fanni 5.10.1924 Bp) sous double prénom Isák/Sámuel |
+| 7 | **Krámer Adolf** | 12 août 1881 | Temes ⚠️ | destin inconnu |
 
-→ Notre Zsigmond a au moins **4 frères/sœurs germains** (Netti aînée, Sámuel, Róza, Julia) issus de Kramer Ármin × Brunn Jozefa.
+→ Notre Zsigmond a au moins **6 frères/sœurs germains**, fils/filles d'**Ármin (= Hermann) Kramer × Brunn (= Josefine) Braun**, tous nés à **Ujlak (Nyitra)** entre 1865 et 1881. Détail et pistes : [docs/notes-recherche/kramer-armin-ujlak-nyitra-2026-04-26.md](docs/notes-recherche/kramer-armin-ujlak-nyitra-2026-04-26.md).
 
 **[✓ origine confirmée Ujlak / Nyitra]** L'acte de naissance de **Netti Kramer 7.5.1865** (FS index ARK [`1:1:6XXD-3F1Y`](https://www.familysearch.org/ark:/61903/1:1:6XXD-3F1Y), source Slovakia Church and Synagogue Books folder 004542024 Item 6 image 64) localise la famille à **Ujlak (= Nyitraújlak / Veľký Lapáš, comitat de Nyitra)** en 1865 — confirme l'origine NW Hongrie de notre lignée Kramer. Détails et pistes d'exploitation : [docs/notes-recherche/kramer-armin-ujlak-nyitra-2026-04-26.md](docs/notes-recherche/kramer-armin-ujlak-nyitra-2026-04-26.md).
 
