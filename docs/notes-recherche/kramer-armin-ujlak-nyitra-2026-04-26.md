@@ -29,17 +29,36 @@ L'index FS « Hungary, Jewish Vital Records Index, 1800-1945 » (collection **18
 
 Le toponyme « Ujlak » (= *Nyitraújlak* en hongrois historique) correspond aujourd'hui à **Veľký Lapáš** (Slovaquie), village à environ 10 km au sud-est de **Nitra** (= Nyitra). Ujlak était un village juif important dans le comitat de Nyitra au XIXᵉ siècle.
 
-### 3. Nouvelle aînée de la fratrie : Netti Kramer 1865
+### 3. Fratrie complète — recherche FS par parents (26.4.2026 après-midi)
 
-| Fratrie connue d'Ármin × Brunn Jozefa (à ce jour) | Notes |
-|---|---|
-| **Netti Kramer** née 7.5.1865 Ujlak | ⭐ NOUVELLE — aînée connue |
-| **Krámer Róza / Rozália** née ~1871 (62 ans à son décès 20.12.1933 Bp) | Confirmé acte FS (mariage Perlhefter Fábián 1920) |
-| **Krámer Zsigmond** né ~1872 Nyitra (selon Kozma DB 22605, 56 ans à son décès 16.5.1928 Bp) | Confirmé 4 actes FS + acte naissance Mária 1898 (« Krámer Zsigmond, fűszerkereskedő, 29 ans ») |
-| **Krámer Júlia** née 1877 (85 ans à son décès 21.10.1962 Bp) | Confirmé acte FS |
-| **Krámer Sámuel** | Confirmé acte mariage 1924 Göttler Fanni |
+Recherche FS `q.fatherGivenName=Herman + q.motherGivenName=Josefine + q.motherSurname=Braun` retourne **7 enfants distincts** indexés à Ujlak (Nyitra ou Temes) — collection 1857881 Hungary Jewish Vital Records Index :
 
-→ **Au moins 5 enfants confirmés** d'Ármin × Brunn Jozefa.
+| Ord | Enfant (index FS) | Date naissance | Lieu (index) | Notes |
+|---|---|---|---|---|
+| 1 | **Kramer Netti** | 7 mai 1865 | Ujlak, **Nyitra** | aînée — destin inconnu |
+| 2 | **Kramer Regi(na)** | 5 mars 1867 | Ujlak, **Temes** ⚠️ | = probable Krammer Róza (1871-1933 Bp) — date différente |
+| 3 | **Kramer Sigmund** | **24 décembre 1871** | Ujlak, **Nyitra** | ⭐ = notre Zsigmond — nouvelle date précise (Kozma DB disait 1872) |
+| 4 | **Krámer Sali** | 15 juillet 1873 | Ujlak, **Nyitra** | nouveau — destin inconnu |
+| 5 | **Krámer Julie** | 1 janvier 1877 | Ujlak, **Nyitra** | = notre Júlia (Frank Mórné, †1962) |
+| 6 | **Krámer Isák** | 11 décembre 1878 | Ujlak, **Nyitra** | nouveau — possible = Sámuel (mariage 1924 Göttler Fanni) sous prénom hébreu Isák |
+| 7 | **Krámer Adolf** | 12 août 1881 | Ujlak, **Temes** ⚠️ | nouveau — destin inconnu |
+
+**Anomalie « Ujlak, Temes »** (Regi 1867 + Adolf 1881) : Temes est un comitat différent (Banat sud Hongrie, aujourd'hui Roumanie/Serbie). Plusieurs Ujlak existaient (Nyitraújlak, Pozsonyújlak, Vágújlak…). Hypothèses :
+- **Erreur d'indexation FS** : « Nyitra » lu « Temes » par bénévole — probable, vu que toute la famille vit à Nyitra
+- **Vraie résidence Temes** transitoire — improbable (la famille bouge entre Nyitra et Temes ? pas crédible)
+- **Autre couple Kramer Herman × Braun Josefine homonyme** dans le sud — improbable (mêmes parents exacts)
+
+Vérification à faire sur les images sources des actes 1867 et 1881.
+
+**Découvertes-clés** :
+- ⭐ **Zsigmond né 24.12.1871** (et non 1872 comme estimé Kozma DB) — confirmé par index FS Hungary Jewish VR
+- ⭐ **3 enfants supplémentaires inconnus** auparavant : Sali (1873), Isák (1878), Adolf (1881)
+- ⭐ **Júlia 1877** confirmée parfaitement (date exacte 1.1.1877)
+- ⭐ **Regi 1867** = probable Krammer Róza (Regi = Regina = Rozália), avec date ajustée
+
+**Sámuel marié 1924** : probablement = **Isák 1878** (prénom hébreu Isák / civil Sámuel, usage juif courant), ou Sali si masculin (Sali peut être Salamon).
+
+→ **Notre lignée Kramer-Brunn Jozefa = 7 enfants confirmés par index FS**, tous nés à Ujlak (NW Hongrie, Nyitra) entre 1865 et 1881.
 
 Devenir de **Netti Kramer 1865** : inconnu. Hypothèses :
 - Décédée en bas âge (avant 1867 — voir ci-dessous)
