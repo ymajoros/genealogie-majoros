@@ -27,7 +27,9 @@ L'index FS « Hungary, Jewish Vital Records Index, 1800-1945 » (collection **18
 
 ### 2. Identification du lieu « Ujlak, Nyitra »
 
-Le toponyme « Ujlak » (= *Nyitraújlak* en hongrois historique) correspond aujourd'hui à **Veľký Lapáš** (Slovaquie), village à environ 10 km au sud-est de **Nitra** (= Nyitra). Ujlak était un village juif important dans le comitat de Nyitra au XIXᵉ siècle.
+Le toponyme « Ujlak » (= *Nyitraújlak* en hongrois historique) correspond aujourd'hui à **Veľké Zálužie** (Slovaquie), village à environ 12 km au **sud-ouest** de **Nitra** (= Nyitra). Ujlak était un village juif important dans le comitat de Nyitra au XIXᵉ siècle.
+
+**Rectification 26.4.2026 soir** : ne pas confondre avec **Veľký Lapáš** (= *Nagylapás* en hongrois), village voisin distinct au sud-est de Nitra. Toutes les occurrences erronées de « Veľký Lapáš » dans nos notes ont été corrigées.
 
 ### 3. Fratrie complète — recherche FS par parents (26.4.2026 après-midi)
 
@@ -107,7 +109,7 @@ L'index FS contient une **2ᵉ Netti Kramer née 23 mai 1867 Nyitra**, parents *
 
 ### Avantages immédiats
 
-1. **Origine géographique précise** : la famille vivait à **Ujlak (Nyitraújlak / Veľký Lapáš)** en 1865, soit ~10 km de Nitra. Toutes les naissances/mariages/décès Kramer-Brunn dans la communauté juive de Nyitra 1840-1880 sont à explorer.
+1. **Origine géographique précise** : la famille vivait à **Ujlak (Nyitraújlak / Veľké Zálužie)** en 1865, soit ~10 km de Nitra. Toutes les naissances/mariages/décès Kramer-Brunn dans la communauté juive de Nyitra 1840-1880 sont à explorer.
 
 2. **Acte de mariage Ármin × Brunn Jozefa** : ~1862-1864 (avant Netti 1865) à Nyitra ou Komárom. Probable dans la même collection FS 1554443 (Item 6 de folder 004542024 — couvre aussi mariages 1850-1895).
 
@@ -146,17 +148,17 @@ Mother surname : Weinberger
 ### C. Ressources Slovaquie
 
 - **Slovenský národný archív, Bratislava** — fonds communauté israélite de Nitra, registres 1820-1895
-- **Štátny archív v Nitre** — archives départementales (départementales) de Nitra, registres locaux Veľký Lapáš
+- **Štátny archív v Nitre** — archives départementales (départementales) de Nitra, registres locaux Veľké Zálužie
 - **Žup Vitajte na Slovensku — JewishGen Slovakia SIG** — base collaborative
 
 ### D. Identification "Ujlak"
 
 Plusieurs villages portaient le nom Ujlak en Hongrie historique :
-- **Nyitraújlak / Veľký Lapáš** (district Nitra, Slovaquie) ⭐ correspond ici
+- **Nyitraújlak / Veľké Zálužie** (district Nitra, Slovaquie) ⭐ correspond ici
 - **Pozsonyújlak / Nová Ves** (district Bratislava)
 - **Vágújlak / Nové Mesto nad Váhom** (district Trenčín)
 
-L'index FS dit explicitement « Ujlak, Nyitra » — donc le **comitat de Nyitra** est le plus probable, soit **Nyitraújlak / Veľký Lapáš**.
+L'index FS dit explicitement « Ujlak, Nyitra » — donc le **comitat de Nyitra** est le plus probable, soit **Nyitraújlak / Veľké Zálužie**.
 
 ## Commit historique
 
