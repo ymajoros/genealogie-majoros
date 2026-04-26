@@ -115,6 +115,16 @@ Kramer Mária   László Kramer       Montag Ödön → Majoros Ödön          
 
 → Notre Zsigmond a au moins **6 frères/sœurs germains**, fils/filles d'**Ármin (= Hermann) Kramer × Brunn (= Josefine) Braun**, tous nés à **Ujlak (Nyitra)** entre 1865 et 1881. Détail et pistes : [docs/notes-recherche/kramer-armin-ujlak-nyitra-2026-04-26.md](docs/notes-recherche/kramer-armin-ujlak-nyitra-2026-04-26.md). **Les 7 actes de naissance sont archivés en PDF** dans [actes/archives-web/familysearch/ujlak-nyitra-fratrie-kramer/](actes/archives-web/familysearch/ujlak-nyitra-fratrie-kramer/README.md) (le README détaille les vérifications visuelles individuelles).
 
+**[◐ recoupements Kozma + Hungaricana 26.4.2026 soir]** Devenir de 5 enfants sur 7 identifié par recoupement avec base cimetière Kozma utca + presse hongroise — voir [docs/notes-recherche/kramer-fratrie-pistes-suite-2026-04-26.md](docs/notes-recherche/kramer-fratrie-pistes-suite-2026-04-26.md) :
+- ⭐ **Adolf 1881** = probable **Krámer Ármin †17.8.1927 Bp** (Kozma 40/29/23, ép. Deutsch Kornélia) — interchangeabilité Adolf/Ármin
+- ⭐ **Isák 1878** = probable **Krämer Izsák †15.5.1957 Bp** (Kozma 30B/27/22, ép. Hoffmann Mindel)
+- **Júlia 1877** confirmée à Kozma (38D/33/26 †21.10.1962)
+- **Brunn Jozefa** confirmée Kozma 40/66/20 †10.11.1925
+- **Lichtblau Jakabné Krámer Róza** †22.11.1925 (parc.40 sor.66 sir.34, **même rangée que Jozefa, à 12 jours d'intervalle**) = probable sœur/belle-sœur (à confirmer)
+- **Netti** et **Sali** : devenir toujours inconnu
+
+Découverte annexe : firme **« Kramer Adolf és fia »** (matériaux/asbestes) à Nyitra dès 1896, devenue Ferrenit Asbestpalagyár dans les années 1920 — branche cousine ou diversification de notre Ármin/Hermán comme commerçant chimique (Czégek Kézikönyve 1887). **Krämer Ignáczné Lőwinger Paula Jozefina** née Nyitraújlak 16.12.1886, déportée et morte Auschwitz 1944 — branche cousine Nyitraújlak.
+
 **[✓ origine confirmée Ujlak / Nyitra]** L'acte de naissance de **Netti Kramer 7.5.1865** (FS index ARK [`1:1:6XXD-3F1Y`](https://www.familysearch.org/ark:/61903/1:1:6XXD-3F1Y), source Slovakia Church and Synagogue Books folder 004542024 Item 6 image 64) localise la famille à **Ujlak (= Nyitraújlak / Veľký Lapáš, comitat de Nyitra)** en 1865 — confirme l'origine NW Hongrie de notre lignée Kramer. Détails et pistes d'exploitation : [docs/notes-recherche/kramer-armin-ujlak-nyitra-2026-04-26.md](docs/notes-recherche/kramer-armin-ujlak-nyitra-2026-04-26.md).
 
 **[ℹ Ármin = Hermann Kramer]** L'index FS appelle notre Ármin « **Kramer Herman** » (variante germanique-yiddish standard d'Ármin en milieu juif hongrois — Hermann/Herman remplace souvent Ármin/Áron dans les registres germanophones).
