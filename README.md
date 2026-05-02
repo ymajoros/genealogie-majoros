@@ -1,6 +1,6 @@
 # Famille Majoros — côté paternel de Yannick
 
-État des connaissances au 25 avril 2026. Chaque affirmation est suivie d'une source (document original, fichier annexé, ou lien). Relecture critique : **Michel Majoros** (père de Yannick). Scans famille : **Daniel Binon**.
+État des connaissances au 2 mai 2026. Chaque affirmation est suivie d'une source (document original, fichier annexé, ou lien). Relecture critique : **Michel Majoros** (père de Yannick). Scans famille : **Daniel Binon**.
 
 > **Statut des sources**
 > - **[✓]** — Source primaire disponible (reproduite ou annexée).
@@ -30,7 +30,7 @@ Kramer Zsigmond  ⚭  Beck Sarolta            │                               
     ┌────┴────┐                              │                                           │
 Kramer Mária   László Kramer       Montag Ödön → Majoros Ödön              Jurgis Smalstys (Smolskis)  ⚭  Germaine "Maine" Geelens
 († ~1983,      (→ Brésil 1946,     (Zenta 1884/1888 – Budapest 1966)       (Kamajai 1881 – Pakriaunis 1919)   (Verviers 1887/88 – 1960)
- Budapest)      « Cantor »          avocat, Dr.iur., tanácselnök                militant LSDP, délégué       institutrice decrolyenne
+ Budapest)      « Kantor »          avocat, Dr.iur., tanácselnök                militant LSDP, délégué       institutrice decrolyenne
                   à São Paulo)      Tribunal Budapest dès 1945                    Grand Seimas Vilnius
          │            │                       │                                              │
          └─────────┬──┘                        │                                              │
@@ -78,10 +78,15 @@ Kramer Mária   László Kramer       Montag Ödön → Majoros Ödön          
 
 **[✓]** **Décès** : 12 août 1966, Budapest. Acte n° 978, registre Halottak Budapest XIV. FS [`1:1:6V1G-YBG3`](https://www.familysearch.org/ark:/61903/1:1:6V1G-YBG3).
 
-**[?]** **Naissance** : 1884 selon l'acte de décès ; date alternative 3 novembre 1888 Zenta circulant oralement, sans pièce justificative retrouvée.
+**[?]** **Naissance** : **1884** selon l'acte de décès 1966 ; **1888** (3 novembre) selon la tradition orale ; l'acte de mariage 1918 (col. 3) porte une date manuscrite que la lecture haute-définition lit « 1894 ápr. 3 » — incompatible avec la fin d'études 1908 (cf. ci-dessous), donc à relire comme « 1884 » ou « 1888 ». Pièces : `actes/ODon-Majoros-deces-1966-Budapest-XIV-cert978.jpg` ; `actes/Mariage_Majoros_Kramer_1918-12-19_Budapest_acte203_p3.jpg`.
+
+**[✓ source primaire]** **Études de droit — Université Ferenc József de Kolozsvár** : diplôme **n° 943-1908/9 délivré le 23 décembre 1908** par la *Kolozsvári Magyar Királyi Ferencz József Tudományegyetem*. Source : aranyoklevél (golden diploma 50 ans) délivré par l'Université József Attila de Szeged le 16 septembre 1963 — voir [actes/archives-web/Majoros_Odon_Aranyoklevel_1963.md](actes/archives-web/Majoros_Odon_Aranyoklevel_1963.md). Image : `actes/Majoros_Odon_Aranyoklevel_1963-09-16_Szeged_diplome-1908-Kolozsvar.jpg`.
+
+→ **Inscription présumée à Kolozsvár vers 1904** (cursus juridique standard de 4 ans + thèse). Archives universitaires : (1) **Arhivele Naționale Cluj**, fonds *Universitatea Regele Ferdinand I (Kolozsvár/Cluj)* ; (2) **Egyetemi Levéltár du SZTE** (Szeged) où une partie des registres d'inscription a suivi le repli de 1919-1921 ; (3) annuaires universitaires Kolozsvár numérisés sur Hungaricana.
 
 **Carrière à Budapest** :
 - **1918** : avocat (`ügyvéd`), officier de réserve impérial-royal, *hadbíró* (auditeur militaire) — *Az Est* 30.4.1918 (avis de fiançailles avec Krámer Mariska).
+- **19 décembre 1918** : **mariage** avec Krámer Mária à Budapest, désormais **törvényszéki jegyző** (greffier de tribunal), domicilié V. Lipót körút 11 (déjà cohabitation avec sa future belle-famille). Acte civil n° 203, témoins Dr Bajor Dezső et Dr Fazekas Imre. Voir [actes/archives-web/Mariage_Majoros_Kramer_1918_civil.md](actes/archives-web/Mariage_Majoros_Kramer_1918_civil.md).
 - **1920** : domicile **V. Lipót-körút 11** partagé avec son beau-père Zsigmond Kramer (*Annuaire téléphonique 1920*). Pas Bajza u. 2 (correction d'une lecture OCR antérieure).
 - **3 août 1945** : nommé *tanácselnök* (président de chambre) du Tribunal de Budapest par le ministre de la Justice — communiqué MTI / *Külföldi-Belföldi Hírek* 3.8.1945 p. 14.
 - **Mars 1948** : confirmé en fonction, **V. Pozsonyi út 3** — *Annuaire téléphonique mars 1948 p. 197*.
@@ -190,20 +195,43 @@ Autres homonymes (Krámer Zsigmond de Nyír-Bogdány, Sopron…) : voir [docs/no
 **[✓]** *Az Est* 30.4.1918 :
 > Dr. Majoros Ödön cs. és kir. tart. főhadnagy hadbíró eljegyezte Krámer Mariskát…
 
-Mariage vraisemblablement printemps-été 1918 — acte à rechercher aux archives de Budapest (BFL).
+**[✓ source primaire image]** **Mariage civil 19 décembre 1918, Budapest, folyószám n° 203**. Cas particulier : les fiancés sont **déjà co-domiciliés** au V. Lipót körút 11 (résidence de Zsigmond Kramer) à la date de l'acte. Officiant *anyakönyvvezető* : Gozsi [prénom illisible]. Témoins : Dr. **Bajor Dezső** (V. Pekk u.) et Dr. **Fazekas Imre** (V. Akácfa u. 15) — deux confrères juristes. Profession d'Ödön déjà passée d'**ügyvéd** (avril 1918) à **törvényszéki jegyző** (décembre 1918). Acte conservé en 3 photographies (`actes/Mariage_Majoros_Kramer_1918-12-19_Budapest_acte203_p1..p3.jpg`) ; transcription : [actes/archives-web/Mariage_Majoros_Kramer_1918_civil.md](actes/archives-web/Mariage_Majoros_Kramer_1918_civil.md).
+
+**[?]** **Mentions marginales col. 9 (utólagos bejegyzések)** — dates 1939, 1958/1960 ; signature « Sekulés (?) István sk akv. ». À transcrire en haute résolution. Hypothèses : enregistrement du décret de magyarisation Montag → Majoros, ou notification du décès d'un des époux au registre du mariage (pratique de l'État civil hongrois).
 
 ### 3.5. László (Lazslo) Kramer — branche brésilienne
 
 ![László Kramer](docs/grand%20oncle%20possible%20Laszlo%20Kramer.JPG)
 *Photographie identifiée par Michel Majoros comme probable László Kramer*
 
-**[✓ témoignage Michel]** *Dr.* attesté en 1937 (juriste ou médecin). Frère de Maria Kramer ; émigré au **Brésil en 1946**, fait souche à **São Paulo** sous le nom **Cantor**. Ferenc a gardé le contact jusqu'à fin XXᵉ, puis perdu.
+**[✓ source primaire image]** **László Kramer = Ladislas KANTOR** (et non *Cantor*), **né 20 avril 1903**, fils de Krámer Zsigmond (*Sigismundo*) et Beck Sarolta (*Charlotte*). **Profession à l'enregistrement São Paulo : *técnico-químico* (chimiste industriel)** — pas juriste ni médecin. Source : fiche d'enregistrement *Delegacia Especializada de Estrangeiros* n° **226 607**, dressée à **São Paulo le 2 avril 1947** ; carteira de identidade délivrée le **10 septembre 1947**. Index FS [`1:1:69VG-XPNZ`](https://www.familysearch.org/ark:/61903/1:1:69VG-XPNZ) (collection *Brasil, São Paulo, Cartões de Imigração, 1902-1980*). Image et transcription : [actes/archives-web/Kantor_Ladislas_DEE_1947.md](actes/archives-web/Kantor_Ladislas_DEE_1947.md).
 
-**[?]** À investiguer : archives Budapesti Ügyvédi Kamara, listes de passagers 1946 (Arquivo Nacional Rio), Memorial do Imigrante São Paulo, Museu Judaico de São Paulo.
+**[✓ itinéraire 1946-1951 reconstitué]**
+- **8 mars 1946** — passeport hongrois n° 7344 délivré à Budapest.
+- **19 décembre 1946** — visa permanent n° 5670 par le Consulat du Brésil à Paris (≈ 9 mois en France).
+- **10 janvier 1947** — débarquement à Rio de Janeiro (paquebot à identifier).
+- **2 avril 1947** — enregistrement São Paulo, Travessa Soufino Viana 12 ; emploi *Ind. Brasil. de Peixes Ltd.*
+- **7 janvier 1948** — Alameda Lorena 1151 ; emploi Rua Barão de Duprat 529.
+- **11 décembre 1948** — Rua Sr. Mello Alves 227 ; emploi avec Diguel (?) Ehrlich, 87/97.
+- **26 février 1951** — Rua Frei Galvão 60, Itaim Bibi.
+
+**[◐ témoignage Michel Majoros]** Ferenc Imre Majoros a visité Ladislas et sa descendance dans les années 1970-1980, et y a édité une traduction portugaise de son ouvrage *Convenções internacionais no campo do direito internacional privado* (à localiser : USP, FGV-SP, Biblioteca Nacional do Brasil, WorldCat — à confirmer si Ladislas figure comme préfacier ou éditeur scientifique).
+
+**[◐ recoupement faire-part 1928 et 1937]** Le faire-part *Pesti Hírlap* du 17.5.1928 mentionne « **Kramer László** » (sans Dr., 25 ans), celui de *Pesti Napló* / *Ujság* 4.7.1937 « **dr. Kramer László** […] dr. Kramer Lászlóné menye ». La promotion de László au titre de « dr. » entre 1928 et 1937 est cohérente avec un **doctorat en chimie** ou doctorat technique, **pas un doctorat en droit ni en médecine** — ce qui contredit la tradition orale et résout l'ambiguïté du README au 25 avril 2026.
+
+**[?]** **Épouse mentionnée en 1937** (« dr. Kramer Lászlóné ») : identité à retrouver. État civil sur fiche brésilienne 1947 = vide → soit **veuf** (épouse non émigrée, possiblement victime de la Shoah 1944), soit **divorcé**, soit **non remarié** à cette date.
+
+**[?]** **Descendance brésilienne** (cousins au 2ᵉ-4ᵉ degré de Yannick) : à rechercher via cartórios de São Paulo (registres mariage post-1947), Junta Comercial JUCESP, Hevra Kadisha São Paulo, Museu Judaico de São Paulo (Centro de Memória).
 
 ### 3.6. Enfants de Krámer Zsigmond × Beck Sarolta — bilan
 
-**[✓ confirmé par actes primaires]** Notre Krámer Zsigmond × Beck Sarolta a eu **2 enfants** : **Mária Kramer** (1898 — §3.3 ci-dessus) et **Dr. Kramer László** (parti Brésil 1946 — §3.5 ci-dessus). Sources convergentes : faire-part *Pesti Hírlap* 17.5.1928, *Pesti Napló* 4.7.1937, acte civil décès Sarolta 1937.
+**[✓ confirmé par actes primaires]** Notre Krámer Zsigmond × Beck Sarolta a eu **2 enfants** :
+- **Krámer Mária** (Budapest **14 décembre 1898** – Budapest ~1983) — voir §3.3.
+- **Krámer László** = **Ladislas Kantor** (Budapest région **20 avril 1903** – São Paulo, date à établir) — voir §3.5.
+
+Sources convergentes : acte mariage Ödön × Mária 19.12.1918, faire-part *Pesti Hírlap* 17.5.1928, *Pesti Napló* 4.7.1937, acte civil décès Sarolta 1937, fiche DEE São Paulo 02.04.1947 (FS `1:1:69VG-XPNZ`).
+
+**[?]** Lieu et acte de naissance de László (avril 1903) : à rechercher dans les actes civils Budapest VII. (Erzsébetváros, où sa sœur Mária est née en 1898) — collection *Hungary, Civil Registration, 1895-1980* sur FamilySearch ; Image Group ≈ 0044031xx.
 
 **[✗ piste fermée]** Une fiche FS [GXXH-TDT](https://www.familysearch.org/tree/person/details/GXXH-TDT) « Lea Kramér 1902 × Goldstein Jenő » avait été rattachée par erreur à notre Zsigmond. Vérification haute résolution de l'acte mariage 1936 : mère = **Keimovits Sarolta** (≠ Beck) → autre famille. Dossier complet déplacé en piste fermée : [docs/pistes-fermees/lea-kramer-goldstein-mauvais-rattachement/](docs/pistes-fermees/lea-kramer-goldstein-mauvais-rattachement/).
 
@@ -297,6 +325,14 @@ Sources principales : **[CArCoB PP 23](http://www.carcob.eu/IMG/pdf/inventaire_s
 | Fichier | Source | Référence externe |
 |---|---|---|
 | `ODon-Majoros-deces-1966-Budapest-XIV-cert978.jpg` | FamilySearch | [ARK `1:1:6V1G-YBG3`](https://www.familysearch.org/ark:/61903/1:1:6V1G-YBG3) |
+| `ODon-Majoros-deces-1966-Budapest-XIV-cert978-registre.jpg` | Scan famille (Michel Majoros, mai 2026) | Registre BFL Halottak Budapest XIV (vue de page) |
+| `Mariage_Majoros_Kramer_1918-12-19_Budapest_acte203_p1.jpg` | Scan famille (Michel Majoros, mai 2026) | Acte civil n° 203, registre BFL (district à confirmer, probablement V. ker.) |
+| `Mariage_Majoros_Kramer_1918-12-19_Budapest_acte203_p2.jpg` | Scan famille (Michel Majoros, mai 2026) | idem (vue de page) |
+| `Mariage_Majoros_Kramer_1918-12-19_Budapest_acte203_p3.jpg` | Scan famille (Michel Majoros, mai 2026) | idem (col. 1-7) |
+| `Majoros_Odon_Aranyoklevel_1963-09-16_Szeged_diplome-1908-Kolozsvar.jpg` | Scan famille (Michel Majoros, mai 2026) | Diplôme original SZTE Szeged, 16.9.1963 |
+| `Kantor_Ladislas_DEE_226607_1947_recto.png` | Scan famille (Michel Majoros, mai 2026) | Carteira 226.607, DEE São Paulo, 02.04.1947 |
+| `Kantor_Ladislas_DEE_226607_1947_verso.png` | Scan famille (Michel Majoros, mai 2026) | idem (verso) |
+| `Kantor_Ladislas_FamilySearch_immigration_1947.png` | Capture FamilySearch | [ARK `1:1:69VG-XPNZ`](https://www.familysearch.org/ark:/61903/1:1:69VG-XPNZ) |
 | `archives-web/familysearch/Kramer_Maria_naissance_1898_civil.pdf` | FamilySearch (BFL) | [ARK `3:1:S3HY-DTHW-8L`](https://www.familysearch.org/ark:/61903/3:1:S3HY-DTHW-8L?view=index) — img 836/861, Image Group 004403180 |
 | `archives-web/familysearch/Beck_Sarolta_deces_1937-07-04_civil.pdf` | FamilySearch (BFL) | [ARK `3:1:S3HT-6L6S-PV4`](https://www.familysearch.org/ark:/61903/3:1:S3HT-6L6S-PV4?view=index) — img 589/808, Image Group 004403191 |
 | `Annuaire-telephonique-Budapest-1920-p301-Majoros-Odon.pdf` | Hungaricana | [FszekCimNevTarak_20_00_1920 p.301](https://library.hungaricana.hu/en/view/FszekCimNevTarak_20_00_1920/?pg=301&layout=s) |
@@ -324,6 +360,7 @@ Chaque source est doublée d'une archive locale dans `actes/archives-web/` (capt
 | URL publique | Personne | Apport | Archive locale |
 |---|---|---|---|
 | [FS `6V1G-YBG3`](https://www.familysearch.org/ark:/61903/1:1:6V1G-YBG3) | Ödön, Mária, József, Zsófia | Acte de décès 1966 | [`familysearch-Majoros-Odon-1966.md`](actes/archives-web/familysearch-Majoros-Odon-1966.md) |
+| [FS `69VG-XPNZ`](https://www.familysearch.org/ark:/61903/1:1:69VG-XPNZ) | Ladislas Kantor | Cartão imigração SP 1947 | [`Kantor_Ladislas_DEE_1947.md`](actes/archives-web/Kantor_Ladislas_DEE_1947.md) |
 | [Geneanet `fgssoc`](https://gw.geneanet.org/fgssoc) | Branche maternelle Yannick | Arbre 4 184 ind | [`geneanet-fgssoc-Yannick-Majoros.md`](actes/archives-web/geneanet-fgssoc-Yannick-Majoros.md) |
 | [Geneanet `michelmajoros`](https://gw.geneanet.org/michelmajoros) | Lignée Majoros | Arbre 31 ind, sources Jurjita Smolski | (consulté en ligne) |
 | [Geneanet `pbaudon`](https://gw.geneanet.org/pbaudon) | Stembert-Parisis-Francotte | 13 772 individus, sourcé acte par acte | (consulté en ligne) |
@@ -365,7 +402,7 @@ Chaque source est doublée d'une archive locale dans `actes/archives-web/` (capt
 ### 9.1. À vérifier sur pièce
 
 1. **Acte de naissance Zsigmond Kramer** (Nyitra, ~1872) ; **acte de mariage Kramer × Beck** (vraisemblablement Komárom ou Budapest 1890s).
-2. **Acte de naissance et de mariage d'Ödön Majoros** (Zenta 1884 ou 1888 ; Budapest 1918) — BFL.
+2. **Acte de naissance d'Ödön Majoros** (Zenta 1884 ou 1888 — Arhiv Vojvodine, fonds *Matičnih knjiga*). L'acte de mariage (Budapest 19.12.1918, n° 203) est désormais documenté (§3.4).
 3. **Décret de magyarisation Montag → Majoros** (Belügyi Közlöny / Budapesti Közlöny).
 4. **Heiduska Zsófia** — lieu de naissance, relation au clan Heiduska de Zenta (Pejin 2003 + Arhiv Vojvodine).
 5. **Décès Maria Kramer ~1983** (Kormányhivatal BFKH + Chevra Kadisha Síp utca 12).
@@ -374,13 +411,24 @@ Chaque source est doublée d'une archive locale dans `actes/archives-web/` (capt
 
 ### 9.2. Branches à poursuivre
 
-1. **Dr. Kramer László / Cantor à São Paulo** — Arquivo Nacional Rio (listes 1946), Memorial do Imigrante SP, Museu Judaico SP, *alteração de nome*.
+1. **Ladislas Kantor (= László Kramer) à São Paulo, et descendance** — direction § 3.5 :
+   (a) liste de passagers Rio 10.1.1947, Arquivo Nacional ([SIAN](https://sian.an.gov.br/)) ;
+   (b) cartórios de mariage São Paulo capitale post-1947 (registrocivil.org.br) ;
+   (c) JUCESP — éventuelles sociétés d'un *técnico-químico* ;
+   (d) Hevra Kadisha São Paulo (cimetières israélites Butantã / Embu / Vila Mariana) — recherche d'inhumation ;
+   (e) Centro de Memória du Museu Judaico de São Paulo ([museujudaicosp.org.br](https://museujudaicosp.org.br/)) — déposer un signalement ;
+   (f) traduction portugaise de l'ouvrage de Ferenc Majoros à localiser (USP, FGV-SP, BN-BR, WorldCat) — peut révéler dédicace ou éditeur scientifique cousin.
 2. **Épouse de Dr. Kramer László** — mentionnée *dr. Kramer Lászlóné* en 1937, identité inconnue (possiblement partie au Brésil avec lui).
 3. **Parents et fratrie de Krámer Ármin** (= Hermann Kramer) — Ujlak/Nyitraújlak/Veľké Zálužie, Slovaquie, registres juifs Nitra 1820-1860 (FS folder 004542024 ou Slovenský národný archív). Cousinage hypothétique avec szinóbányai Kramer (anoblis 1906, blason armorié) à confirmer ou écarter via parents d'Ignácz Kramer 1789-1881. **Cousinage local Nyitra à investiguer** : Adolf Kramer (Ferrenit Asbestpalagyár 1867-1948, Nyitra ville, fils Sándor+Miksa) ; Krämer Hermán droguiste Nyitra 1887 (fondé de pouvoir Krämer Gyula) ; Krämer Ignác × Lőwinger Paula née Nyitraújlak 1886 (Szeged, déportés 1944). Voir [docs/notes-recherche/cousinage-kramer-nyitra-2026-04-26.md](docs/notes-recherche/cousinage-kramer-nyitra-2026-04-26.md).
 4. **Demi-frère Gabor Majoros** — registre foncier Pozsonyi u. 3, BFL, post-2041 (actes 90 ans).
 5. **Maryté Smolski (1890-1975 Kaunas)** — branche cousine lituanienne, descendance soviétique.
 6. **Branche Komárom Kramer** — Lővinger Mórné née Kramer Júlia (1827-1909), faire-part OSZK [handle 154194](http://hdl.handle.net/20.500.12346/154194). Possible parente lointaine d'Ármin Kramer.
 7. **Marishka, visiteuse début années 1980 à Marbisous (Belgique)** — visite chez Michel Majoros avec Maria Kramer + Ferenc Majoros ; **2 photos archivées** (`docs/Maria Kramer Ferenc Marishka visite Michel vers 1980 jardin.jpg`, `docs/Maria Kramer avec petit-enfant vers 1980 interieur.jpg`). Photo intérieure datée **juin 1980** ; sur la photo de jardin, Yannick lui-même (3 ans, né 1977) à droite avec Ferenc. Marishka apparaît **âgée** (~75-85 ans). Identité **inconnue** — l'hypothèse antérieure « = Lea Kramer » est **invalidée** par la correction 25.4.2026 nuit (Lea n'est pas notre famille, cf. §3.6). Hypothèses restantes : cousine germaine de Maria via Júlia/Sámuel/Róza Kramer ; demi-sœur Krammer Juliánna 1896 ; ou autre tante non identifiée. Détails : [docs/recherche_Marishka_Hongrie_annees_80.md](docs/recherche_Marishka_Hongrie_annees_80.md).
+8. **Diplôme et inscription d'Ödön Majoros à Kolozsvár 1904-1908** — direction § 2.2 :
+   (a) **Arhivele Naționale ale României, Direcția Județeană Cluj** : fonds *Universitatea Regele Ferdinand I (Cluj)* ;
+   (b) **Egyetemi Levéltár SZTE Szeged** : registres d'inscription rapatriés en 1919-1921 ;
+   (c) **MNL OL** : K 636 et K 802 (ministère hongrois des cultes et de l'instruction publique) ;
+   (d) **Hungaricana** : annuaires universitaires de Kolozsvár 1900-1910 (matricule des étudiants).
 
 ### 9.3. Adresses archivistiques utiles
 
