@@ -237,7 +237,14 @@ Autres homonymes (Krámer Zsigmond de Nyír-Bogdány, Sopron…) : voir [docs/no
 
 **[✓ Hungaricana 2.5.2026] Épouse identifiée : Bokor Panni** (= Anna Bokor). **Fiançailles 30 avril 1933** annoncées dans 7 journaux ; **mariage 16 décembre 1933** annoncé dans 3 journaux (*Pesti Napló, Pesti Hírlap, Magyarság* 1933-12-17). C'est elle la « dr. Kramer Lászlóné menye » du faire-part 1937.
 
-**[✓ Yad Vashem 2.5.2026] Bokor Panni meurtrie dans la Shoah (1944) — IDENTIFICATION TRÈS PROBABLE** : **Dr. Anna Bokor née Elek** (1909 Ujpest, Pest-Pilis-Solt-Kiskun), Married to **Laszlo**, murdered. Source : *Az Ujpesti Zsidóság Története*, Yizkor book Tel Aviv 1975. URL : <https://collections.yadvashem.org/en/names/5019833>. Le titre **Dr.** suggère qu'elle aussi avait un doctorat (chimie ou autre profession académique). Cohérent avec son absence de la liste de survivants Szolnok 1945. Voir [docs/notes-recherche/yad-vashem-bokor-panni-2026-05-02.md](docs/notes-recherche/yad-vashem-bokor-panni-2026-05-02.md) — point à valider : « née Elek » à concilier avec « Bokor Panni » dans la presse 1933 (acte civil mariage 1933 nécessaire pour trancher).
+**[✓ Yad Vashem + Hungaricana 2.5.2026] Bokor Panni IDENTIFIÉE : Dr. Anna Elek-Bokor (1909 Újpest – murdered Shoah 1944)** :
+- **Anna Elek** née 1909 Újpest, **gyógyszerészdoktor (doctorat en pharmacie)** diplômée BME 1931 (*Gyógyszerészek Lapja* 1930-31, *Gyógyszerészeti Hetilap* 1931, *BME Gyógyszerészi Szemle* 1939, registre pharmaciens 1942)
+- Nom d'usage **« Bokor Panni »** ou **« Bokor Anna »** déjà attesté en presse dès **août 1931** (avant le mariage Krámer) — donc « Bokor » est **nom d'usage / artistique / nom maternel**, pas d'un mariage antérieur
+- Mariage 16 décembre 1933 Budapest avec **László Krámer (chimiste BME)** — couple **chimie + pharmacie**
+- **Murdered in Shoah 1944** depuis Újpest. Yad Vashem item 5019833. Source : Yizkor *Az Újpesti Zsidóság Története* Tel Aviv 1975.
+- URL : <https://collections.yadvashem.org/en/names/5019833>
+- Détails complets : [docs/notes-recherche/arbre-bokor-elek-2026-05-02.md](docs/notes-recherche/arbre-bokor-elek-2026-05-02.md) (recoupements Hungaricana ADT exhaustifs) ; [docs/notes-recherche/yad-vashem-bokor-panni-2026-05-02.md](docs/notes-recherche/yad-vashem-bokor-panni-2026-05-02.md) (fiche YV)
+- Famille Elek/Bokor parents non encore identifiés — voies : BFL Újpest acte naissance 1909, annonces de mariage 1933 (3 journaux ADT), Yizkor book Tel Aviv 1975
 
 **[?]** **Descendance brésilienne** (cousins au 2ᵉ-4ᵉ degré de Yannick) : à rechercher via cartórios de São Paulo (registres mariage post-1947), Junta Comercial JUCESP, Hevra Kadisha São Paulo, Museu Judaico de São Paulo (Centro de Memória).
 
