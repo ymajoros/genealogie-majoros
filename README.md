@@ -237,14 +237,7 @@ Autres homonymes (Krámer Zsigmond de Nyír-Bogdány, Sopron…) : voir [docs/no
 
 **[✓ Hungaricana 2.5.2026] Épouse identifiée : Bokor Panni** (= Anna Bokor). **Fiançailles 30 avril 1933** annoncées dans 7 journaux ; **mariage 16 décembre 1933** annoncé dans 3 journaux (*Pesti Napló, Pesti Hírlap, Magyarság* 1933-12-17). C'est elle la « dr. Kramer Lászlóné menye » du faire-part 1937.
 
-**[✓ Yad Vashem + Hungaricana 2.5.2026] Bokor Panni IDENTIFIÉE : Dr. Anna Elek-Bokor (1909 Újpest – murdered Shoah 1944)** :
-- **Anna Elek** née 1909 Újpest, **gyógyszerészdoktor (doctorat en pharmacie)** diplômée BME 1931 (*Gyógyszerészek Lapja* 1930-31, *Gyógyszerészeti Hetilap* 1931, *BME Gyógyszerészi Szemle* 1939, registre pharmaciens 1942)
-- Nom d'usage **« Bokor Panni »** ou **« Bokor Anna »** déjà attesté en presse dès **août 1931** (avant le mariage Krámer) — donc « Bokor » est **nom d'usage / artistique / nom maternel**, pas d'un mariage antérieur
-- Mariage 16 décembre 1933 Budapest avec **László Krámer (chimiste BME)** — couple **chimie + pharmacie**
-- **Murdered in Shoah 1944** depuis Újpest. Yad Vashem item 5019833. Source : Yizkor *Az Újpesti Zsidóság Története* Tel Aviv 1975.
-- URL : <https://collections.yadvashem.org/en/names/5019833>
-- Détails complets : [docs/notes-recherche/arbre-bokor-elek-2026-05-02.md](docs/notes-recherche/arbre-bokor-elek-2026-05-02.md) (recoupements Hungaricana ADT exhaustifs) ; [docs/notes-recherche/yad-vashem-bokor-panni-2026-05-02.md](docs/notes-recherche/yad-vashem-bokor-panni-2026-05-02.md) (fiche YV)
-- Famille Elek/Bokor parents non encore identifiés — voies : BFL Újpest acte naissance 1909, annonces de mariage 1933 (3 journaux ADT), Yizkor book Tel Aviv 1975
+**[? — identification Bokor Panni à reprendre]** Hypothèse précédente « Bokor Panni = Anna Bokor née Elek 1909 Újpest » (PR #27, #29, #30) **INVALIDÉE** par lecture du Yizkor *Az Újpesti Zsidóság Története* Tel Aviv 1975 (PR #32) : **Anna Elek dr. *1909 était l'épouse de *Bokor László dr. *1901*, pas de notre Krámer László *1903** (couple Bokor László × Anna Elek, fille Évike *1935, **tous murdered Shoah 1944**). Notre Bokor Panni (épouse de Krámer László mariée 16.12.1933) **reste donc non identifiée**. Pistes : Bokor Magdolna *1914 Újpest (autre martyre du Yizkor) ? Autre famille Bokor ? Voir [docs/notes-recherche/CORRECTION-bokor-panni-anna-elek-2026-05-02.md](docs/notes-recherche/CORRECTION-bokor-panni-anna-elek-2026-05-02.md). Reste vrai : Bokor Panni présumée victime Shoah (absente du listing survivants Szolnok 1945).
 
 **[?]** **Descendance brésilienne** (cousins au 2ᵉ-4ᵉ degré de Yannick) : à rechercher via cartórios de São Paulo (registres mariage post-1947), Junta Comercial JUCESP, Hevra Kadisha São Paulo, Museu Judaico de São Paulo (Centro de Memória).
 
