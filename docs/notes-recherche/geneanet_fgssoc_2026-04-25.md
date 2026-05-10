@@ -194,3 +194,63 @@ L'arbre fgssoc compte **1 638 noms de famille** sur 4 184 individus. Les branche
 1. **Demander à Françoise Gueur** : archives familiales sur la branche **Geelens** (parents de Mathieu Joseph, fratrie de Germaine) — c'est sur cette branche-là qu'elle peut apporter des données indépendantes. Pour les Kramer, **rien à attendre** : ses données viennent déjà de Yannick/Michel (et donc de notre dépôt).
 2. **Stembert-Bouillard, Francotte-Gilsen, Parisis-Gustin** : registres paroissiaux Verviers 1750-1850 à explorer (BMS Verviers, archives Bistum Lüttich).
 3. **Juozapas SMALSTYS × Karolyna GRIZAITE** : registres lituaniens Kamajai (paroisse catholique) ~1850-1880.
+
+---
+
+## Addendum 10 mai 2026 — refresh fgssoc
+
+**Volume** : passé de 4 184 à **4 391 individus** (+207 entre 25.4 et 10.5.2026). Dernière modification : 10/5/2026 (jour de la consultation).
+
+**Découvertes pour notre lignée Geelens** : les fiches Marie NOKIN et Mathias Jr GEELENS sont désormais **datées et localisées précisément**, et l'ascendance Nokin/Guyot est remontée jusqu'au début du XVIIIᵉ siècle. Source citée par fgssoc : Marc Delbrouck (= arbre `mdelbrouck` connu de la session 25.4).
+
+### Lignée Geelens directe (4 générations désormais documentées dans fgssoc)
+
+```
+Mathias GEELENS / GELEN †  ⚭  Marie Catherine DELFLIEZ / DELFLYS
+                       │
+        Mathias Sr GEELENS (~1764 – 1833)  ⚭  Jeanne Marie FRYNS
+                       │
+        Mathias Jr GEELENS (25.2.1827 Aubel)  ⚭  Marie NOKIN (24.11.1827 Verviers – 19.4.1892 Verviers)
+        pâtissier-confiseur
+                       │
+        Mathieu Joseph GEELENS (~1855 – ~1933)  ⚭  Eugénie PARISIS (~1860)
+        courtier industrie lainière
+                       │
+        Germaine GEELENS (~1887 – 1960)  ⚭  Jurgis SMALSTYS-Smolskis
+        + Maurice (1890-1926 Paris) + Alberte (Verviers, enseignante)
+```
+
+**Points neufs par rapport à la session 25.4** :
+- Mathias Jr est né à **Aubel** (province de Liège), pas Verviers — il s'établit à Verviers par son mariage.
+- Profession **pâtissier-confiseur** (différente du « commissionnaire en draperie » noté pour Mathieu Joseph par mdelbrouck — c'est bien Mathieu Joseph fils, courtier en lainerie, et non son père Mathias Jr).
+- Marie Nokin **† 1892** (et non « ~1897 » comme estimé dans la version précédente).
+- Génération supplémentaire identifiée : Mathias GEELENS/GELEN † × Marie Catherine DELFLIEZ/DELFLYS.
+
+### Lignée Nokin / Guyot (8 ascendants nouvellement intégrés à fgssoc)
+
+```
+Joseph NOKIN / NOQUIN (1717 – 1786)  ⚭  Angéline LE MUSE († 1748)
+                          │
+Jean Joseph NOKIN / NOQUIN (1747 – 1795)  ⚭  Catherine Joseph BAIRIN (née 1752)
+                          │
+                Joseph NOKIN († 1861)  ⚭  Jeanneton GUYOT (née 1803)
+                          │
+                          Marie NOKIN (1827 – 1892)
+```
+
+Côté **Guyot-Polis-Bairin** :
+- **Jean François GUYOT** (1780-1839) × **Marie Joseph POLIS** (1777-1847) — parents probables de Jeanneton Guyot 1803.
+- **Jean Pierre GUYOT × Geniton COUMONT** — génération antérieure côté Guyot.
+- **Jacques POLIS × Marie Joseph BERTHOLOME** — génération antérieure côté Polis.
+- **Gérard BAIRIN × Elisabeth DELVAUX** — parents de Catherine Joseph Bairin (1752).
+
+### Implications
+
+- L'hypothèse **Mathias × Marie Nokin = parents de Mathieu Joseph Geelens** est désormais **portée explicitement par fgssoc avec source** (Marc Delbrouck). Elle reste à confirmer sur acte primaire (mariage Geelens × Parisis ~1885 Verviers, ou actes Aubel/Verviers 1827-1892).
+- Pour **fiabiliser l'arbre côté Geelens**, deux pistes prioritaires : (a) acte de naissance de Mathias Jr Geelens à Aubel (paroisse, 25.2.1827) ; (b) acte de décès de Marie Nokin Verviers (19.4.1892) qui devrait nommer ses parents Joseph Nokin × Jeanneton Guyot et confirmer son mari Mathias Geelens.
+
+### Pistes archivistiques
+
+- **État civil Aubel** : naissance Mathias Jr 25.2.1827 ; mariage Mathias Sr × Jeanne Marie Fryns ~1820 ; décès Mathias Sr 1833.
+- **État civil Verviers** : décès Marie Nokin 19.4.1892 ; mariage Mathias Jr × Marie Nokin (probablement ~1850-1854 si Mathieu Joseph naît ~1855).
+- **Archives de l'État belge à Liège** : registres BMS Aubel et Verviers indexés sur arch.be.

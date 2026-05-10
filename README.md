@@ -280,9 +280,19 @@ Sources convergentes : acte mariage Ödön × Mária 19.12.1918, faire-part *Pes
 
 **[✓]** **Ascendance Parisis** : **Dieudonné Antoine Joseph Parisis** (26.4.1821 Thimister – 1887, *tisserand & boulanger*) ⚭ 29.8.1850 Verviers (acte 161) Marie Catherine Stembert. Parents : **Jean Joseph Parisis (~1790) × Anne Barbe Gustin (~1797)**. Source : Geneanet *pbaudon*.
 
-**[◐ hypothèse forte à confirmer]** **Parents de Mathieu Joseph Geelens** : **Mathias Geelens** (1827) × **Marie Nokin** (1827-1897), selon arbre Geneanet *mdelbrouck* qui indexe un *Joseph Geelens* né ~1855 Verviers, *commissionnaire en draperie*. Cohérence : Verviers + draperie/lainerie + Mathieu = Mathias en wallon. À confirmer par acte de mariage Geelens × Parisis.
+**[◐ Geneanet fgssoc + mdelbrouck]** **Parents de Mathieu Joseph Geelens** : **Mathias Jr GEELENS** (né **25 février 1827 Aubel**, *pâtissier-confiseur*) × **Marie NOKIN** (née **24 novembre 1827 Verviers** – † **19 avril 1892 Verviers**, 64 ans). Source citée par l'arbre fgssoc : Marc Delbrouck. À confirmer sur acte primaire (mariage Geelens × Parisis ~1885 Verviers, ou actes Aubel/Verviers).
 
-→ **Détails Geneanet (fgssoc, michelmajoros, pbaudon, mdelbrouck)** : [docs/notes-recherche/geneanet_fgssoc_2026-04-25.md](docs/notes-recherche/geneanet_fgssoc_2026-04-25.md).
+**[◐ Geneanet fgssoc, mai 2026]** **Ascendance Geelens en amont** :
+- **Mathias Sr GEELENS** (~1764 – 1833) × **Jeanne Marie FRYNS** — parents de Mathias Jr.
+- **Mathias GEELENS / GELEN †** × **Marie Catherine DELFLIEZ / DELFLYS** — parents de Mathias Sr.
+
+**[◐ Geneanet fgssoc, mai 2026]** **Ascendance Nokin / Guyot remontée jusqu'au début du XVIIIᵉ siècle** :
+- **Joseph NOKIN † 1861** × **Jeanneton GUYOT** (née 1803) — parents de Marie Nokin.
+- **Jean Joseph NOKIN / NOQUIN** (1747-1795) × **Catherine Joseph BAIRIN** (née 1752).
+- **Joseph NOKIN / NOQUIN** (1717-1786) × **Angéline LE MUSE** († 1748).
+- Côté Guyot : **Jean François GUYOT** (1780-1839) × **Marie Joseph POLIS** (1777-1847) ; en amont **Jean Pierre GUYOT × Geniton COUMONT** et **Jacques POLIS × Marie Joseph BERTHOLOME** ; côté Bairin **Gérard BAIRIN × Elisabeth DELVAUX**.
+
+→ **Détails Geneanet (fgssoc 4 391 ind. au 10.5.2026, michelmajoros, pbaudon, mdelbrouck)** : [docs/notes-recherche/geneanet_fgssoc_2026-04-25.md](docs/notes-recherche/geneanet_fgssoc_2026-04-25.md).
 
 ## 5. Ferenc Imre Majoros (Budapest 1923 – Köln 2008)
 
