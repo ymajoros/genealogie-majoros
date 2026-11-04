@@ -303,13 +303,19 @@ Source principale : [Wikipedia DE — Ferenc Majoros](https://de.wikipedia.org/w
 
 **[✓]** Né 8.9.1923 Budapest ; † 6.3.2008 Cologne. **Dr. rer. pol. 1945, Dr. iur. 1946** (Université de Budapest).
 
+**[✓ source primaire]** **Nommé *miniszteri segédtitkár* au ministère des Affaires étrangères le 6 août 1948** (Conseil des ministres n° 248, point 248/48 — G. Vass, *Minisztertanácsi jegyzőkönyvek napirendi jegyzékei 1947-1950*, p. 226).
+
 **[✓]** **Attaché à la légation de Hongrie à Varsovie 1948** — CArCoB PP 23.
 
 **[✓]** **Mariage 1948** Varsovie/Budapest avec Jurgita Smolski. **Divorce 1951** (acte primaire conservé par Michel ; motif : adultère du 13.9.1950).
 
 **[✓ témoignage direct]** **Demi-frère Gabor**, né ~juin 1951, fils de Ferenc et d'une autre femme. Vraisemblablement hérité de l'appartement V. Pozsonyi utca 3. Existence et descendance à investiguer (registre foncier BFL ; actes de naissance hongrois protégés 90 ans → accessibles 2041).
 
-**[✓]** **Carrière universitaire en RFA (post-1962)** : Université de Cologne 1967-1988, habilitation Würzburg 1982, Privatdozent 1983, professeur associé 1987. Rédacteur en chef de *Die Friedens-Warte* dès 1985. Ouvrages : *Le droit international privé* (PUF, 1975), *Bayern und die Magyaren* (avec B. Rill, 1991), *Geschichte des Osmanenreichs 1300-1922* (1994), *Geschichte Ungarns* (réédition 2008).
+**[✓ source primaire]** **Conseiller juridique (*jogtanácsos*) de la KPM Légügyi Főigazgatóság** (aviation civile) : accord aérien Hongrie-Autriche 1959, conférence de Guadalajara 1961, délégué à la conférence OACI de Tokyo août 1963 (décision du Conseil des ministres 3304/1963, MNL OL XIX-A-83-b).
+
+**[◐]** **Défection à Londres, automne 1963** — Pál István, *Szakmai Szemle* (KNBSZ) 2024/3-4 p. 11, citant le dossier d'objet ÁBTL « Medúza » sur l'ambassade de Hongrie à Londres (3.2.5 O-8-016/3/2, liste des « agents ennemis et suspects » du 10.12.1963). Pál présente le cas comme un exemple de recrutement par le MI6 sur sol britannique ; c'est la lecture de la sécurité d'État hongroise, non prouvée. Ferenc y est une **cible**, pas un informateur. Aucun membre identifié de la famille parmi les informateurs publiés sur [nyitottaktak.hu](https://nyitottaktak.hu/) (4.11.2026). Détails : [docs/notes-recherche/ferenc-majoros-1948-1963-defection-2026-11-04.md](docs/notes-recherche/ferenc-majoros-1948-1963-defection-2026-11-04.md).
+
+**[✓]** **Carrière universitaire en RFA (arrivée fin 1963 au plus tôt — le « ab 1962 » de Wikipédia DE est contredit par la mission de Tokyo 1963)** : Université de Cologne 1967-1988, habilitation Würzburg 1982, Privatdozent 1983, professeur associé 1987. Rédacteur en chef de *Die Friedens-Warte* dès 1985. Ouvrages : *Le droit international privé* (PUF, 1975), *Bayern und die Magyaren* (avec B. Rill, 1991), *Geschichte des Osmanenreichs 1300-1922* (1994), *Geschichte Ungarns* (réédition 2008).
 
 ## 6. Jurgita / Georgette Smolski (Verviers 1920 – Namur 2012)
 
@@ -435,6 +441,9 @@ Chaque source est doublée d'une archive locale dans `actes/archives-web/` (capt
 - [arbre-bokor-elek-2026-05-02.md](docs/notes-recherche/arbre-bokor-elek-2026-05-02.md) — arbre Bokor/Elek (interprétation Bokor Panni invalidée)
 - [yad-vashem-pot-anna-bokor-2026-05-02.md](docs/notes-recherche/yad-vashem-pot-anna-bokor-2026-05-02.md) — pas de PoT pour Anna Bokor
 
+*Ferenc Majoros (novembre 2026)* :
+- [ferenc-majoros-1948-1963-defection-2026-11-04.md](docs/notes-recherche/ferenc-majoros-1948-1963-defection-2026-11-04.md) — nyitottaktak.hu (ÁBTL), carrière aviation civile 1959-1963, défection Londres 1963
+
 *Côté Geelens-Smolskis* :
 - [geneanet_fgssoc_2026-04-25.md](docs/notes-recherche/geneanet_fgssoc_2026-04-25.md) — Geelens-Parisis-Stembert
 - [details-historiques.md](docs/notes-recherche/details-historiques.md) — extraits Pejin (Montag, Heiduska), commerce Zsigmond
@@ -463,7 +472,7 @@ Chaque source est doublée d'une archive locale dans `actes/archives-web/` (capt
 3. **Décret de magyarisation Montag → Majoros = 26 août 1905** ✓ identifié dans 5 journaux (*Független Magyarország, Magyarország, Pesti Napló, Pesti Hírlap, Az Ujság*) ; texte source à retrouver dans *Belügyi/Budapesti Közlöny 1905-08* (avec parents indiqués). Cf. §2.2.
 4. **Heiduska Zsófia** — lieu de naissance, relation au clan Heiduska de Zenta (Pejin 2003 + Arhiv Vojvodine).
 5. **Décès Maria Kramer ~1983** (Kormányhivatal BFKH + Chevra Kadisha Síp utca 12).
-6. **Ferenc Majoros, Varsovie 1948** — MNL OL fonds Külügyminisztérium.
+6. **Ferenc Majoros, Varsovie 1948** — MNL OL fonds Külügyminisztérium ; nomination segédtitkár 6.8.1948 ✓ (§5) → dossier personnel Külügyminisztérium (MNL OL XIX-J-1). **Dossiers ÁBTL** (« Medúza » O-8-016/3/2 et suivants) : demande de consultation à déposer (§5).
 7. **Acte de mariage Geelens × Parisis** (~1885 Verviers) pour confirmer Mathias Geelens × Marie Nokin comme parents.
 
 ### 9.2. Branches à poursuivre
@@ -489,7 +498,7 @@ Chaque source est doublée d'une archive locale dans `actes/archives-web/` (capt
 
 ### 9.3. Adresses archivistiques utiles
 
-**Hongrie** : [eleveltar.hu](https://www.eleveltar.hu/) (MNL+BFL) ; [BFL](https://bparchiv.hu/) (Teve u. 3-5) ; MNL OL (Bécsi kapu tér) ; Budapesti Ügyvédi Kamara ; database.budapestjewishcemetery.com (cimetière Kozma utca). **Slovaquie** : Štátny archív Nitra (Nyitra/Komárno). **Brésil** : [SIAN](https://sian.an.gov.br/) (Rio), APESP, Museu da Imigração SP, Museu Judaico SP. **Belgique** : [arch.be](https://www.arch.be/) (Verviers post-1926), Société Royale des Archives Verviétoises, État Civil Verviers, [CArCoB](https://carcob.eu). **Lituanie** : Lietuvos valstybės istorijos archyvas (Vilnius). **Allemagne** : Universitätsarchiv Köln (Ferenc Majoros).
+**Hongrie** : [eleveltar.hu](https://www.eleveltar.hu/) (MNL+BFL) ; [BFL](https://bparchiv.hu/) (Teve u. 3-5) ; MNL OL (Bécsi kapu tér) ; Budapesti Ügyvédi Kamara ; database.budapestjewishcemetery.com (cimetière Kozma utca). **Slovaquie** : Štátny archív Nitra (Nyitra/Komárno). **Brésil** : [SIAN](https://sian.an.gov.br/) (Rio), APESP, Museu da Imigração SP, Museu Judaico SP. **Belgique** : [arch.be](https://www.arch.be/) (Verviers post-1926), Société Royale des Archives Verviétoises, État Civil Verviers, [CArCoB](https://carcob.eu). **Lituanie** : Lietuvos valstybės istorijos archyvas (Vilnius). **Allemagne** : Universitätsarchiv Köln (Ferenc Majoros) ; Bundesarchiv (Notaufnahme / Zirndorf). **Hongrie (sécurité d'État)** : [ÁBTL](https://lar.abtl.hu/ords/r/abtl/sb/home) ; [nyitottaktak.hu](https://nyitottaktak.hu/).
 
 ## 10. Arborescence
 
