@@ -52,23 +52,35 @@ Sources : procès-verbaux / décisions du Conseil des ministres, **MNL OL XIX-A-
 | 1961 | Conférence de droit aérien, Mexique (**Guadalajara**) — vraisemblablement la conférence diplomatique de Guadalajara (sept. 1961) qui adopta la convention complémentaire à la Convention de Varsovie | MNL OL XIX-A-83-b |
 | août 1963 | Délégué à la **conférence OACI (ICAO) de Tokyo** — décision gouvernementale **3304/1963** (conférence diplomatique de Tokyo, convention sur les infractions à bord des aéronefs, 14.9.1963) | MNL OL XIX-A-83-b, 3304/1963 |
 
+**Fac-similé Vass p. 226** : `actes/archives-web/hungaricana/MolDigiLib_MOLsegedl_11_2__pages229-229_MT248-1948-08-06_Majoros_Ferenc_segedtitkar.pdf` (téléchargé le 4.11.2026).
+
 **Capture 3304/1963** : prévue sous `actes/archives-web/hungaricana/MNL_OL_XIX-A-83-b_3304-1963_delegation_Tokyo_Majoros_Ferenc.jpg` — **non transférée**, à refaire depuis Hungaricana.
 
 → Cohérent avec sa spécialisation ultérieure en Allemagne (conventions internationales de droit privé, Pedone 1976/80).
 
 ## C. Défection — automne 1963, Londres
 
-**[◐ source secondaire, identification très probable]** **Pál István**, article dans ***Szakmai Szemle*** (revue du KNBSZ, Service de renseignement militaire national), **2024/3-4, p. 11** — sur la perception britannique de l'ÁVH (rapport de l'ambassadeur britannique **Richard Parsons**) : un Majoros Ferenc, conseiller juridique de l'aviation civile, « **n'est pas rentré de Londres à l'automne 1963** ».
+**[◐ source secondaire, relue sur le PDF le 4.11.2026]** **Pál István**, « A magyar titkosrendőrség (AVH) 1979-ben. A magyar állambiztonság tevékenységének brit percepciója Richard Parsons nagykövet jelentése alapján », ***Szakmai Szemle*** (KNBSZ), **2024/3-4**, p. 11, note 20. Le PDF de l'article est conservé hors dépôt (droits d'auteur), dans les Téléchargements de Yannick.
 
-L'auteur cite le dossier **ÁBTL « Medúza »**, cote **3.2.5 O-8-016/3/2**, rapport du **10.12.1963**, p. 35-57.
+**Contexte du passage** : Pál explique que le MI6 ne recrutait pas d'agents à Budapest (surveillance trop étroite) et s'en tenait au principe de la « base en pays tiers » : le recrutement se faisait sur le territoire britannique ou dans un pays neutre ou ami. Il donne Ferenc comme exemple :
+
+> « Ez történt pl. Majoros Ferenc, a Közlekedési- és Postaügyi Minisztérium (KPM) Légügyi Főigazgatóság volt jogtanácsosa esetében, aki 1963 őszén nem tért haza Londonból. »
+
+Traduction : « C'est ce qui s'est passé par exemple dans le cas de Ferenc Majoros, ancien conseiller juridique de la Direction générale de l'aviation civile du KPM, qui ne rentra pas de Londres à l'automne 1963. »
+
+**Note 20 (source de Pál)** : ÁBTL 3.2.5 – O-8-016/3/2 – OD-2810/51 – « **Medúza** » – *Londoni magyar követség és konzulátus*. 5/1 H. sz. utasítás. Erdei Elvtársnak ! London. Tárgy : *Ellenséges ügynökök, ügynökgyanús személyek névjegyzéke. Az 1963. évi provokációs eseménynaptár.* Jelentés, London, 1963. XII. 10., p. 35-57.
+
+**Correction par rapport au handover** :
+- « Medúza » est un **dossier d'objet (O-8)** sur **l'ambassade et le consulat de Hongrie à Londres**, ouvert en 1951 et clos en 1974 (note 37 : proposition de clôture du 30.7.1974). **Ce n'est pas un dossier personnel sur Ferenc.**
+- Le rapport du 10.12.1963 est une **liste des « agents ennemis et personnes suspectées d'être des agents »**, accompagnée d'un « calendrier des provocations de 1963 », envoyée de Londres à « Erdei elvtárs ».
+- Ferenc y figure donc, **aux yeux de la sécurité d'État hongroise**, comme un transfuge que le renseignement britannique aurait recruté ou fait passer à l'Ouest. C'est l'interprétation de l'ÁBTL rapportée par Pál, **pas une preuve qu'il ait travaillé pour le MI6**.
+- Pour le reste, la conclusion tient : côté hongrois, il est une **cible**, et rien n'indique qu'il ait été informateur de l'ÁVH ou du BM III.
 
 **Arguments d'identification** : même titre de poste (jogtanácsos de la Légügyi Főigazgatóság) ; chronologie (Tokyo août-sept. 1963 → Londres automne 1963) ; spécialisation juridique internationale ; installation ultérieure en RFA.
 
-**[✓ lecture de l'article]** Dans ces archives, Ferenc est **une cible** (transfuge surveillé / recherché) ; **rien n'indique qu'il ait été informateur**.
-
 L'historien cité n'est **pas** Michel Majoros (question de Yannick) : c'est István Pál.
 
-Accès au PDF : refusé par WebFetch (robots) et curl (certificat SSL) sur le site KNBSZ ; accessible via la copie du numéro complet sur un blob Azure (URL à re-relever).
+**Lecture complémentaire** : Ungváry Krisztián, « "Anglia a második legnagyobb ellensége Magyarországnak". A londoni magyar hírszerző rezidentúra saját jelentései tükrében 1951 és 1965 között », *Századok* (cité par Pál, note 38). Il couvre exactement la période et le poste de Londres ; à consulter pour une éventuelle mention de Ferenc.
 
 ## D. Correction de chronologie : arrivée en RFA
 
@@ -76,7 +88,7 @@ Accès au PDF : refusé par WebFetch (robots) et curl (certificat SSL) sur le si
 
 ## E. Pistes ouvertes (par priorité)
 
-1. **ÁBTL — demande de consultation** : portail <https://lar.abtl.hu/ords/r/abtl/sb/home>, option *proche d'une personne décédée*. Sans Ügyfélkapu : envoi postal signé. Joindre les pièces d'état civil établissant la filiation **Yannick → Michel → Ferenc**. Demander nommément le dossier **« Medúza » 3.2.5 O-8-016/3/2**, tout dossier O/V/M ouvert sur Ferenc après 1963, et ceux de la période **Varsovie 1948-49**. Délai : 7-8 mois ou plus.
+1. **ÁBTL — demande de consultation** : portail <https://lar.abtl.hu/ords/r/abtl/sb/home>, option *proche d'une personne décédée*. Sans Ügyfélkapu : envoi postal signé. Joindre les pièces d'état civil établissant la filiation **Yannick → Michel → Ferenc**. Demander nommément le rapport du 10.12.1963 dans le dossier d'objet **« Medúza » 3.2.5 O-8-016/3/2** (ambassade de Londres), et surtout tout dossier personnel (*figyelő*, *bizalmas nyomozás*, *körözés*, etc.) ouvert sur Ferenc après sa défection de 1963, et ceux de la période **Varsovie 1948-49**. Délai : 7-8 mois ou plus.
 2. ~~Vass, p. 226~~ ✓ fait : nomination *miniszteri segédtitkár* aux Affaires étrangères, 6.8.1948 (§B.1). Suite : **dossier personnel Külügyminisztérium** (MNL OL XIX-J-1) et procès-verbal complet n° 248 (MNL OL XIX-A-83-a).
 3. **Bundesarchiv** : procédure *Notaufnahme* / dossier du **Bundesamt Zirndorf** (réfugiés) → date d'arrivée en RFA. Archives du **BIOst Köln** (dissous 2000, où il a publié).
 4. **The National Archives (Kew)** : demande FOI sur un transfuge hongrois automne 1963 (Home Office / Foreign Office).
