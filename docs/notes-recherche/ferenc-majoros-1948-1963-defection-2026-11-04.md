@@ -1,0 +1,51 @@
+# Ferenc Imre Majoros : carrière hongroise 1948-1963, défection, police politique
+
+Session du 4 novembre 2026 (jour de l'ouverture de nyitottaktak.hu).
+
+## 1. Carrière dans l'administration hongroise (sources primaires gouvernementales)
+
+Source : décisions du Conseil des ministres, MNL OL XIX-A-83-b (Archives nationales hongroises), consultables sur Hungaricana (recherche « dr. Majoros Ferenc »).
+
+| Date | Pièce | Contenu | Statut |
+|---|---|---|---|
+| 1948 (gouv. Dinnyés III, 5.8–10.12.1948) | G. Vass István, *Napirendi jegyzékek…* (MOL segédletei 11/2, 2004), p. 226 | Un « dr. Majoros Ferenc » nommé avec dr. Gergely Miklós ; l'extrait mentionne Sofia. Concorde avec la carrière diplomatique (Varsovie 1948-49). | [?] page non relue (blocage du viewer) |
+| 1959 | Décision 3155/1959 | Ratification de l'accord aérien Hongrie-Autriche : dr. Majoros Ferenc parmi les négociateurs côté hongrois | [◐] extrait OCR |
+| 1961 | Décision 3210/1961 | Conférence internationale de droit aérien au Mexique (= conférence diplomatique de Guadalajara, août-sept. 1961) : délégation avec le chef du département de droit international du ministère des Affaires étrangères et **dr. Majoros Ferenc, conseiller juridique (jogtanácsos) de la Direction générale de l'aviation (Légügyi Főigazgatóság) du ministère des Transports et des Postes (KPM)** | [◐] extrait OCR |
+| 1963 | **Décision 3304/1963** | Le gouvernement Kádár désigne **dr. Majoros Ferenc, jogtanácsos de la KPM Légügyi Főigazgatóság**, et un représentant des Affaires étrangères pour représenter la Hongrie à la **conférence diplomatique internationale de l'aviation ouverte à Tokyo le 20 août 1963** (= conférence ICAO de la Convention de Tokyo, signée le 14.9.1963) | [✓] scan : `actes/archives-web/hungaricana/MNL_OL_XIX-A-83-b_3304-1963_delegation_Tokyo_Majoros_Ferenc.jpg` (MNL_OL_XIX_A_83_b_330_3281_3320, p. 157-158) |
+
+## 2. Défection à l'automne 1963 (Londres)
+
+**[◐]** Pál István, « A magyar titkosrendőrség (ÁVH) 1979-ben. A magyar állambiztonság tevékenységének brit percepciója Richard Parsons nagykövet jelentése alapján », *Szakmai Szemle* (KNBSZ) 2024/3-4, p. 7-27, ici p. 11 :
+
+> « Ez történt pl. Majoros Ferenc, a Közlekedési- és Postaügyi Minisztérium (KPM) Légügyi Főigazgatóság volt jogtanácsosa esetében, aki 1963 őszén nem tért haza Londonból. »
+
+Contexte : le MI6 ne recrutait pas à Budapest mais cherchait parmi les contacts officiels de l'ambassade des gens à persuader de faire défection, en Grande-Bretagne ou dans un pays tiers.
+
+Note 20 : ÁBTL 3.2.5 – O-8-016/3/2 – OD-2810/51 – dossier « Medúza » (légation et consulat hongrois de Londres), rapport de Londres du 10.12.1963 (liste des agents ennemis et suspects, calendrier des provocations de 1963), p. 35-57.
+
+**Identification** : le titre (conseiller juridique de la Légügyi Főigazgatóság) est identique dans la décision gouvernementale 3304/1963 et chez Pál, et la chronologie se tient (Tokyo août-sept. 1963, puis Londres à l'automne 1963). Les publications allemandes ultérieures vont dans le même sens (« Fragen des Luftrechts in den sozialistischen Staaten », droit des traités, conventions de droit privé). → identification **très probable**.
+
+**Correction** : Wikipédia DE dit « ab 1962 lebte er in der Bundesrepublik ». Or il était encore fonctionnaire hongrois en mission officielle en août 1963. La date de 1962 est probablement fausse, et l'installation en RFA est à placer **fin 1963 ou plus tard**, après Londres.
+
+**Cohérence familiale** : la nécrologie d'Ödön (1966) cite « fils unique dr Majoros Ferenc », trois ans après la défection.
+
+## 3. nyitottaktak.hu (base des informateurs de l'ÁBTL), recherches du 4.11.2026
+
+- « Majoros » : 52 résultats. Deux « Majoros Ferenc » sur bandes magnétiques, avec pour mères **Fehér Julianna** (Tápiószele) et **Olajos Eszter** (Dévaványa) → **pas lui** (sa mère est Krámer Mária).
+- Majoros + mère « Kramer », « Krámer », « Heiduska » : **0 résultat**. « Majoros Ferenc » né entre 1920 et 1926 : 0. « Majoros Gábor » 1950-52 et « Majoros Mihály » 1948-52 : 0.
+- « Smolsk », « Smalst » : 0. « Montag » : un seul (Montag Béla, né 1925, Besztercenova) → sans rapport.
+- « Krámer » : 7 résultats, dont « Krámer Mária », mère Steiner Klára → **pas** Mária (fille de Beck Sarolta).
+- **À noter** : « Majoros Ferencné », B-napló (registre de recrutement), dossier B-97156, ligne 156 annotée « **Meghiúsult** » (recrutement avorté), d'après la fiche 6 de « Gy. Szűcs László ». Pas de date de naissance ni de nom de mère : **impossible à attribuer**. Les registres B couvrent en principe 1957-1962. Jurgita avait quitté la Hongrie en 1956. Il pourrait éventuellement s'agir d'une épouse ultérieure de Ferenc (mère de Gábor ?), mais rien ne le montre et le nom est courant.
+
+Conclusion : **aucun membre identifié de la famille n'est enregistré comme informateur.** La base ne contient ni les personnes surveillées ni les cibles : pour Ferenc, il faut une demande de consultation (betekintés) à l'ÁBTL.
+
+## 4. Pistes
+
+1. **ÁBTL, betekintés** (en tant que petit-fils, personne décédée) : demander nommément le dossier « Medúza » O-8-016/3/2 (rapport du 10.12.1963, p. 35-57) et tout dossier O/V/M ou de « disszidens » ouvert à son nom après 1963. Demander aussi les dossiers éventuels liés au poste de Varsovie (1948-49).
+2. **The National Archives (Kew)** : dossiers Home Office / Foreign Office sur un transfuge hongrois en 1963. Le nom est peut-être encore fermé, à demander par FOI.
+3. **Bundesarchiv Koblenz, B 150 / Notaufnahmeverfahren** ou dossiers du Bundesamt für die Anerkennung ausländischer Flüchtlinge (Zirndorf) : date et lieu d'arrivée en RFA, 1963-1964.
+4. **ICAO** : liste des délégués dans l'acte final de la conférence de Tokyo (1963) et de Guadalajara (1961), pour vérifier s'il est bien parti à Tokyo.
+5. **Universität zu Köln, Universitätsarchiv** : dossier du personnel de l'Institut für internationales und ausländisches Privatrecht (1967-1988).
+6. **Bundesinstitut für ostwissenschaftliche und internationale Studien (BIOst, Köln)** : l'institut a été dissous en 2000 et ses archives versées au Bundesarchiv. Ferenc y a publié (« Berichte des BIOst », par ex. sur les traités de voisinage RFA-Hongrie et RFA-Tchécoslovaquie, 1993). Il y a peut-être été employé ou y a travaillé à son arrivée.
+7. **Die Friedens-Warte**, vol. 83 (2008) : rechercher une nécrologie (JSTOR).
+8. Hungaricana, recueil de la page 226 du *Napirendi jegyzékek* 1947-1950 : relire la nomination de 1948.
