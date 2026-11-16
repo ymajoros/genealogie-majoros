@@ -8,7 +8,7 @@ Source : décisions du Conseil des ministres, MNL OL XIX-A-83-b (Archives nation
 
 | Date | Pièce | Contenu | Statut |
 |---|---|---|---|
-| 1948 (gouv. Dinnyés III, 5.8–10.12.1948) | G. Vass István, *Napirendi jegyzékek…* (MOL segédletei 11/2, 2004), p. 226 | Un « dr. Majoros Ferenc » nommé avec dr. Gergely Miklós ; l'extrait mentionne Sofia. Concorde avec la carrière diplomatique (Varsovie 1948-49). | [?] page non relue (blocage du viewer) |
+| **6.8.1948** (gouv. Dinnyés III, conseil n° 248) | G. Vass István, *Minisztertanácsi jegyzőkönyvek napirendi jegyzékei 1947-1950* (MOL segédletei 11/2, 2004), p. 226, point **248/48**, rubrique *(Külügyminiszter:)* | « Dr. Gergely Miklós és **dr. Majoros Ferenc kinevezése miniszteri segédtitkárrá** » = nomination comme *miniszteri segédtitkár* (secrétaire adjoint) au **ministère des Affaires étrangères**. Le « Sofia » de l'extrait appartient au point suivant (248/49, traité hongro-bulgare du 16.7.1948), sans rapport avec Ferenc. Concorde avec le poste à Varsovie (1948-49). Seule occurrence de son nom dans le volume (index p. 529). | [✓] relu le 4.11.2026 : `actes/archives-web/hungaricana/MolDigiLib_MOLsegedl_11_2__pages229-229_MT248-1948-08-06_Majoros_Ferenc_segedtitkar.pdf` |
 | 1959 | Décision 3155/1959 | Ratification de l'accord aérien Hongrie-Autriche : dr. Majoros Ferenc parmi les négociateurs côté hongrois | [◐] extrait OCR |
 | 1961 | Décision 3210/1961 | Conférence internationale de droit aérien au Mexique (= conférence diplomatique de Guadalajara, août-sept. 1961) : délégation avec le chef du département de droit international du ministère des Affaires étrangères et **dr. Majoros Ferenc, conseiller juridique (jogtanácsos) de la Direction générale de l'aviation (Légügyi Főigazgatóság) du ministère des Transports et des Postes (KPM)** | [◐] extrait OCR |
 | 1963 | **Décision 3304/1963** | Le gouvernement Kádár désigne **dr. Majoros Ferenc, jogtanácsos de la KPM Légügyi Főigazgatóság**, et un représentant des Affaires étrangères pour représenter la Hongrie à la **conférence diplomatique internationale de l'aviation ouverte à Tokyo le 20 août 1963** (= conférence ICAO de la Convention de Tokyo, signée le 14.9.1963) | [✓] scan : `actes/archives-web/hungaricana/MNL_OL_XIX-A-83-b_3304-1963_delegation_Tokyo_Majoros_Ferenc.jpg` (MNL_OL_XIX_A_83_b_330_3281_3320, p. 157-158) |
@@ -22,6 +22,11 @@ Source : décisions du Conseil des ministres, MNL OL XIX-A-83-b (Archives nation
 Contexte : le MI6 ne recrutait pas à Budapest mais cherchait parmi les contacts officiels de l'ambassade des gens à persuader de faire défection, en Grande-Bretagne ou dans un pays tiers.
 
 Note 20 : ÁBTL 3.2.5 – O-8-016/3/2 – OD-2810/51 – dossier « Medúza » (légation et consulat hongrois de Londres), rapport de Londres du 10.12.1963 (liste des agents ennemis et suspects, calendrier des provocations de 1963), p. 35-57.
+
+**Portée de la source** (relecture du PDF de l'article) :
+- « Medúza » est un **dossier d'objet (O-8)** sur **l'ambassade et le consulat de Hongrie à Londres**, tenu de 1951 à 1974 (note 37 de Pál : proposition de clôture du 30.7.1974). **Ce n'est pas un dossier personnel sur Ferenc** : il y apparaît dans une liste d'« agents ennemis et personnes suspectées d'être des agents », envoyée à « Erdei elvtárs ».
+- Pál cite Ferenc comme **exemple de recrutement par le MI6 en pays tiers**. C'est la lecture de la sécurité d'État hongroise en 1963, rapportée par Pál, **pas une preuve** qu'il ait travaillé pour le renseignement britannique.
+- Côté hongrois, Ferenc est une **cible** (un transfuge), et rien n'indique qu'il ait été informateur.
 
 **Identification** : le titre (conseiller juridique de la Légügyi Főigazgatóság) est identique dans la décision gouvernementale 3304/1963 et chez Pál, et la chronologie se tient (Tokyo août-sept. 1963, puis Londres à l'automne 1963). Les publications allemandes ultérieures vont dans le même sens (« Fragen des Luftrechts in den sozialistischen Staaten », droit des traités, conventions de droit privé). → identification **très probable**.
 
@@ -41,11 +46,17 @@ Conclusion : **aucun membre identifié de la famille n'est enregistré comme inf
 
 ## 4. Pistes
 
-1. **ÁBTL, betekintés** (en tant que petit-fils, personne décédée) : demander nommément le dossier « Medúza » O-8-016/3/2 (rapport du 10.12.1963, p. 35-57) et tout dossier O/V/M ou de « disszidens » ouvert à son nom après 1963. Demander aussi les dossiers éventuels liés au poste de Varsovie (1948-49).
+1. **ÁBTL, betekintés** (en tant que petit-fils, personne décédée) : demander nommément le rapport du 10.12.1963 (p. 35-57) du dossier d'objet « Medúza » O-8-016/3/2. Comme proche, on n'obtiendra vraisemblablement que les pages qui le concernent ; le dossier entier relève d'une demande de recherche (*kutatási kérelem*). et tout dossier O/V/M ou de « disszidens » ouvert à son nom après 1963. Demander aussi les dossiers éventuels liés au poste de Varsovie (1948-49).
 2. **The National Archives (Kew)** : dossiers Home Office / Foreign Office sur un transfuge hongrois en 1963. Le nom est peut-être encore fermé, à demander par FOI.
 3. **Bundesarchiv Koblenz, B 150 / Notaufnahmeverfahren** ou dossiers du Bundesamt für die Anerkennung ausländischer Flüchtlinge (Zirndorf) : date et lieu d'arrivée en RFA, 1963-1964.
 4. **ICAO** : liste des délégués dans l'acte final de la conférence de Tokyo (1963) et de Guadalajara (1961), pour vérifier s'il est bien parti à Tokyo.
 5. **Universität zu Köln, Universitätsarchiv** : dossier du personnel de l'Institut für internationales und ausländisches Privatrecht (1967-1988).
 6. **Bundesinstitut für ostwissenschaftliche und internationale Studien (BIOst, Köln)** : l'institut a été dissous en 2000 et ses archives versées au Bundesarchiv. Ferenc y a publié (« Berichte des BIOst », par ex. sur les traités de voisinage RFA-Hongrie et RFA-Tchécoslovaquie, 1993). Il y a peut-être été employé ou y a travaillé à son arrivée.
 7. **Die Friedens-Warte**, vol. 83 (2008) : rechercher une nécrologie (JSTOR).
-8. Hungaricana, recueil de la page 226 du *Napirendi jegyzékek* 1947-1950 : relire la nomination de 1948.
+8. ~~Hungaricana, page 226 de Vass~~ ✓ fait : nomination *miniszteri segédtitkár* aux Affaires étrangères, 6.8.1948 (§1). Suite : **dossier personnel du Külügyminisztérium** (MNL OL, XIX-J-1) et procès-verbal complet du conseil n° 248 (MNL OL XIX-A-83-a).
+9. **Ungváry Krisztián**, « "Anglia a második legnagyobb ellensége Magyarországnak". A londoni magyar hírszerző rezidentúra saját jelentései tükrében 1951 és 1965 között », *Századok* (cité par Pál, note 38). Il couvre exactement la période et le poste de Londres : chercher une mention de Ferenc.
+
+## 5. Notes techniques
+
+- **Viewer Hungaricana** : certaines pages restent blanches (le canvas se fige, par exemple `pg=226`). Pour contourner : utiliser la recherche dans le volume (*Keresés ebben a kötetben*) pour localiser la page, charger une page voisine, puis lire `document.body.innerText` après environ 6 s. Le téléchargement PDF exige un reCAPTCHA, que l'utilisateur doit cocher lui-même.
+- **Article de Pál** : le PDF est conservé hors dépôt (droits d'auteur, dépôt public).
