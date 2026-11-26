@@ -46,7 +46,7 @@ Conclusion : **aucun membre identifié de la famille n'est enregistré comme inf
 
 ## 4. Pistes
 
-1. **ÁBTL, betekintés** (en tant que petit-fils, personne décédée) : demander nommément le rapport du 10.12.1963 (p. 35-57) du dossier d'objet « Medúza » O-8-016/3/2. Comme proche, on n'obtiendra vraisemblablement que les pages qui le concernent ; le dossier entier relève d'une demande de recherche (*kutatási kérelem*). et tout dossier O/V/M ou de « disszidens » ouvert à son nom après 1963. Demander aussi les dossiers éventuels liés au poste de Varsovie (1948-49).
+1. **ÁBTL, betekintés** (en tant que petit-fils, personne décédée) : demander nommément le rapport du 10.12.1963 (p. 35-57) du dossier d'objet « Medúza » O-8-016/3/2. Comme proche, on n'obtiendra vraisemblablement que les pages qui le concernent ; le dossier entier relève d'une demande de recherche (*kutatási kérelem*). Demander également tout dossier O/V/M ou de « disszidens » ouvert à son nom après 1963. Demander aussi les dossiers éventuels liés au poste de Varsovie (1948-49).
 2. **The National Archives (Kew)** : dossiers Home Office / Foreign Office sur un transfuge hongrois en 1963. Le nom est peut-être encore fermé, à demander par FOI.
 3. **Bundesarchiv Koblenz, B 150 / Notaufnahmeverfahren** ou dossiers du Bundesamt für die Anerkennung ausländischer Flüchtlinge (Zirndorf) : date et lieu d'arrivée en RFA, 1963-1964.
 4. **ICAO** : liste des délégués dans l'acte final de la conférence de Tokyo (1963) et de Guadalajara (1961), pour vérifier s'il est bien parti à Tokyo.
